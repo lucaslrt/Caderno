@@ -335,6 +335,231 @@ Em outras palavras, a coesão faz a ligação entre uma frase e outra.
 
 - https://www.youtube.com/watch?v=53pQJERXK78
 
+### Glossário
+
+- Administrado: O particular \ Sujeito, Pessoa \ Cidadão, Interessado
+- Atividade-fim: O meio que a empresa atua (O bb, por exemplo, que faz empréstimo, mas tem servidores público, sua atv fim é o empréstimo nesse caso, ou seja regido pelo Dir. Privado)
+- Estanque: consolidado
+
+
+### O que é Direito
+
+1. Direito
+- Um conjunto de normas. 
+    - Possui regras (sim ou não)
+    - Possui princípios (um conceito mais subjetivo)
+- A finalidade do Direito é ditar a vida em sociedade
+
+1.1. Direito Privado
+- Relações entre indivíduos, não envolve o estado
+- Uma relação de Horizontalidade
+- Autonomia da vontade (você não pode fazer o que está ,em regra, proibído)
+- Direito civil e comercial
+
+1.2. Direito Público
+- Relação que envolve o Estado
+- Uma relação de verticalidade (o estado é mais influente que o cidadão)
+- Estrita legalidade (O estado pode fazer somente o que está previsto em lei)
+- Direito Constitucional, Direito Administrativo, Direito Tributário
+- Princípio da Indisponibilidade: um agente público não é dono do órgão ou dos materiais do Estado
+
+Obs: Esses direiros nem sempre estão separadas, essas regras muitas vezes estão misturadas
+
+
+2. Direito Administrativo
+- É um ramo do direito público que tem por objeto os órgãos, agentes e pessoas jurídicas administrativas que integram a Administração Pública, a **atividade jurídica não contenciosa** (Função Administrativa) que exerce e os bens que se utiliza para a consecução de seus fins de naturaza pública (finalidade do Estado, interesse público)
+- Ele possui um conjunto de normas, mas não é codificado
+
+### Objeto do Direito Administrativo
+
+O objeto do direoto administrativo é o estudo da **função administrativa**. São objetos de estudo do Direito Administrativo:
+
+1. Relações Internas da Adminstração
+- Rel. entre Órgãos/Entidades
+- Entre Adm Pública e Agentes Públicos
+
+2. Relações
+- Entre Adm. Pública e Administrados:
+    - Polícia vs Civil
+    - 
+
+3. Atividades Materiais
+- Serviços Públicos
+- Podem ser feitos por particulares, delegados pelo Estado
+
+### Função Administrativa
+
+- Função do Estado (e de quem lhe faça as vezes, podem ser empresas particulares)
+- Possui uma relação hierárquica
+- Possui comando Infralegais (está abaixo da lei) e Infraconstitucional (está de acordo com a const)
+- Controle do poder judicial
+- Atividades: 
+    1. Serv. Públicos
+    2. Poder de Polícia
+    3. Fomento (incentivo, financiado)
+    4. Intervenção
+        4.1. Propriedade
+        4.2. Regulação
+
+### Fontes do Direito Administrativo
+
+Existem duas categorias:
+
+1. Fontes Primárias
+- Leis (normas em geral)
+- Fontes formais, Organizadas, Escritas, Obrigatórias
+    - Constituições
+    - Tratados de Direitos Humanos
+    - Emendas constitucionais
+    - Atos Normativos Primários
+    - Atos Normativos Administrativos (Decreto, resoluções)
+- Os atos administrativos são editados através das fontes
+
+2. Secundárias
+- Ajudam na elaboração das leis
+- Jurisprudência
+- Doutrinas
+- Costumes
+- Fontes materiais (nasce do caso concreto) e Não organizadas e não escritas (no sentido de não ter uma organização formal)
+
+### Jurisprudência
+
+- É um conj de decisões reiteradas (repetidas) da mesma matéria adotadas pelos tribunais 
+- Ela pode estar em Súmulas (formalização), Teses, Precedentes
+- É uma fonte secundária
+- Não é vinculante (não precisa ser seguida)
+- "O direito não socorre aos que dormem" (Se você não mover uma ação judicial, ela não é acatada)
+- Uma excessão é a decisão judicial com eficácia Erga Omnes (para todos)
+    - Para decisões de controle concentrado de constitucionalidade
+    - Para Súmulas Vinculantes
+    - Esse tipo de Eficácia é definido como uma fonte primária
+
+### Doutrina
+
+- São os estudos dos especialistas
+- Não obriga a orientação a Adm. Pública. Ela e o poder judiciário utilizam como fundamentação, referência para tomada de decisões
+- Ajuda na elaboração de leis e atos normativos
+
+### Costumes
+
+- São regras informais
+    - Forma uniforme
+    - Constante
+    - Consciência de obrigatoriedade
+- Eh uma fonte mais limitada
+- Utilizada somente quando não contrariar uma lei
+- Precisa já ser utilizado por um longo período
+ 
+### Sistemas Administrativos
+
+- Eh um sistema que define quem pode decidir algo de forma definitiva
+- Existem dois tipos de sistemas que definem:
+
+1. Sistema Francês / Dual / Dualidade de Jurisdição / Contecioso
+- Jurisdição comum e Jurisdição Administrativa
+
+2. Sitema Inglês / Una
+- Sistema que o Brasil adota
+- Poder único, pelo judiciário
+- Aqui você pode ingressar com uma ação judicial ainda
+
+### Estado
+
+1. Conceito
+O estado possui 3 elementos principais:
+- Povo (Humano, elemento demográfico, cidadão)
+- Território
+- Governo soberano, governo condutor
+
+2. Formas de Estado
+Pode ser dividido em dois:
+- Estado Unitário
+    - Possui um único centro de poder
+    - Tem todas as atribuições políticas
+- Federação ou Estado Federado
+    - Descentralização política
+    - Entidades políticas autônomas
+    - Modelo adotado no Brasil
+
+Obs: Confederação: é a união de estados soberanos
+
+3. Poderes do Estado
+
+|               | Típicas         | Atípicas        |
+|---------------|-----------------|-----------------|
+| Legislativo   | (1) Legislar    | (1) Julgar      |
+|               | (2) Fiscalizar  | (2) Administrar |
+|---------------|-----------------|-----------------|
+| Judiciário    | (1) Julgar      | (1) Legislar    |
+|               |                 | (2) Administrar |
+|---------------|-----------------|-----------------|
+| Executivo     | (2) Administrar | (1) Legislar    |
+|               |                 | (2) Julgar*     |
+`*` = De maneira não definitiva
+
+4. Governo
+
+É o sistema que conduz a atividade do Estado
+
+- Sistema de Governo: É o executivo junto com o legislativo
+    - Parlamentarismo:
+        - O povo elege o parlamento (quem vai ser o primeiro ministro)
+        - O legislativo e o executivo são mais próximos
+        - Há uma separação entre chefe de estado (mais diplomático) e chefe de governo (quem toma atitudes administrativas)
+    - Presidencialismo:
+        - Há uma divisão maior dos poderes executivo e legislativo
+        - A mesma pessoa é chefe de governo e de estado
+
+- Forma de governo: Como se dá a sucessão de governo
+    - Monarquia:
+        - Hereditariedade
+        - Vitaliciedade
+        - Sem representação popular
+        - Irresponsabilidade (pode fazer o que quiser sem se responsabilizar por isso)
+    - República:
+        - "Coisa do povo"
+        - Eletividade através do voto
+        - Temporalidade (prazo de permanencia no cargo)
+        - Representatividade popular
+        - Responsabilidade
+
+### Administração Pública
+
+É tudo aquilo que envolve a função administrativa
+Pode ser dividido em dois sentidos:
+
+1. Sentido Amplo:
+- Exerce a função administrativa
+- Aspecto de governo
+    - Função política
+    - Políticas 
+
+2. Sentido Estrito:
+- Aspecto técnico, de execução
+- Adm. Pública própriamente dita
+- Prestaçao de serviços à sociedade
+- Exercício da atividade de adm pública
+    - Direta
+    - Indireta
+
+A função administrativa (Funcional, Objetivo, Material) pode ser dividida em 4 atividades:
+
+1. Serviço Público (aspecto positivo)
+2. Poder de polícia (aspecto negativo)
+3. Fomento (incentivo)
+4. Intervenção
+
+Subjetivo, Orgânico e Formal:
+
+1. Adm. Direta:
+    - Pessoas políticas (U, E, DF, Municípios)
+    - Órgãos públicos
+2. Adm. Indireta:
+    - Autarquias
+    - Fundações Públicas
+    - Empresas Públicas
+    - Sociedades de Economia Mista
+
 ### Dano de patrimônio
 
 - Em caso de dano ao patrimônio privado: **Add img dir-adm-1 aqui!**
@@ -345,11 +570,44 @@ Em outras palavras, a coesão faz a ligação entre uma frase e outra.
 
 <div id='id-administracao'/>
 
-## ADMINISTRAÇÃO ORÇAMENTÁRIA E FINANCEIRA
+## ADMINISTRAÇÃO ORÇAMENTÁRIA E FINANCEIRA (AFO)
+
+### Material de Estudo
+
+- https://www.youtube.com/watch?v=6RoRJ4wb6Kg
+
+### Planejamento e Orçamento na Constituição Federal
+
+0. Introdução
+
+- PPA, LDO, LOA -> instrumentos de planejamento e orçamento
+- Cada estado e município possui um PPA, uma LDO e uma LOA
+- Cada ente faz suas leis orçamentárias (sentido amplo)
+- Cada lei constitui etapa DISTINTA, mas INTEGRADA -> Planejamento estrutural das ações governamentais.
+- Art. 165 da CF (Const. Fed.)88 deixa clara essa integração (Leis de iniciativa do Executivo estabelecerão o PPA, a LDO e a LOA)
+- CF/88: criou a PPA e a LDO, integrando plano e orçamento. Antigamente havia o OPI (Orçamento Plurianual de Investimentos).
+
+1. Plano Plurianual - PPA
+
+- Quem comanda a lógica orçamentária
+- Cada PPA possui uma vigência de 4 anos
+- Em cada ano é criada uma LDO e uma LOA
+- Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:
+    I. o plano plurianual;
+    II. as diretrizes orçamentárias;
+    III. os orçamentos anuais.
 
 <div id='id-logica'/>
 
 ## RACIOCÍNIO LÓGICO-MATEMÁTICO
+
+1. Dica
+
+Estudar através dos vídeos e exercícios
+
+### Material de Estudo
+
+- https://www.youtube.com/watch?v=aCZUm9qzTo0
 
 <div id='id-arq-sist-info'/>
 
@@ -359,6 +617,86 @@ Em outras palavras, a coesão faz a ligação entre uma frase e outra.
 
 - https://www.youtube.com/watch?v=8MqYRN4DnSs
 - https://www.youtube.com/watch?v=Pfsmaxk0ipo
+- https://www.youtube.com/playlist?list=PLBKXa8XfK1igcc6FbGh_zBP8NssIPtVWd
+
+### Arquitetura Orientada a Serviços (SOA) [baseada em serviços]
+
+A Arquitetura Baseada em Serviços (SOA) é um paradigma de design de sistemas de software que enfatiza a criação de serviços independentes e interoperáveis que podem ser reutilizados e combinados para atender a várias necessidades de negócios. Essa abordagem arquitetônica é amplamente usada na construção de sistemas de TI escaláveis, flexíveis e orientados a serviços. Vamos explorar os principais aspectos da Arquitetura Baseada em Serviços:
+
+1. Serviços:
+
+No contexto da SOA, um serviço é uma unidade de funcionalidade ou lógica de negócios que está disponível na rede e pode ser acessada e invocada remotamente. Cada serviço deve ter um conjunto bem definido de interfaces, que especificam como o serviço pode ser utilizado.
+
+2. Princípios da SOA:
+
+A SOA é baseada em alguns princípios fundamentais:
+
+- Reutilização: Os serviços são projetados para serem reutilizados em diferentes partes de uma aplicação ou em diferentes aplicações.
+- Interoperabilidade: Os serviços devem ser capazes de se comunicar com outros serviços, independentemente da plataforma ou tecnologia usada.
+- Descoberta: Os serviços podem ser descobertos e consumidos dinamicamente por meio de diretórios de serviços.
+- Granularidade: Os serviços devem ser granulares o suficiente para serem úteis, mas não tão pequenos a ponto de tornar a administração complicada.
+- Abstração: A complexidade dos serviços deve ser ocultada dos consumidores por meio de interfaces bem definidas.
+
+3. Componentes-Chave da SOA:
+
+Os principais componentes de uma arquitetura SOA incluem:
+Serviços: As unidades funcionais que encapsulam a lógica de negócios.
+- Registro de Serviços: Um diretório onde os serviços são registrados e podem ser descobertos.
+- Orquestração: A capacidade de compor serviços para criar processos de negócios complexos.
+- Coreografia: A coordenação de serviços independentes para atender a necessidades de negócios.
+- Padrões de Comunicação: Protocolos e padrões que permitem a comunicação entre serviços.
+
+4. Vantagens da SOA:
+
+A SOA oferece várias vantagens, incluindo:
+Reutilização de código e funcionalidade.
+- É uma arquitetura fracamente acoplada, ou seja, qualquer módulo pode ser facilmente trocado sem que isso quebre a aplicação como um todo
+- Maior flexibilidade e agilidade para as organizações.
+- Facilita a integração de sistemas heterogêneos.
+- Melhora a escalabilidade e a manutenibilidade de sistemas.
+- Suporta a exposição de funcionalidades para parceiros e clientes por meio de APIs.
+
+5. Desafios da SOA:
+
+Implementar uma arquitetura SOA também apresenta desafios, como:
+- Gerenciamento de serviços e versões.
+- Garantir a segurança dos serviços.
+- Abordar questões de desempenho e latência.
+- Planejamento e governança adequados.
+
+6. Observações
+
+- Webservice não é a única maneira de implementar o SOA
+
+### Arquiteturas de Web Services
+
+1. Enterprise Service Bus (ESB)
+
+- Permite que consumidores de serviço consigam acessar os serviços oferecidos por um provedore sem conhecer seu endpoint (OpenESB, Mule, Microsoft Big Talk, etc)
+
+2. Orquestração
+
+- Composição de processo de negócio
+- Nó central que coordena os demais processos (Orchestrator)
+- Só o processo mestre sabe que faz parte de uma composição de processos
+
+3. Coreografia
+
+- Composição de processo de negócio, só que sem a figura de um processo central
+
+### Modelagem de Processo de Negócio (BPM)
+
+0. Conceito de Processo
+
+- Conjunto definido de atvs executadas para alcançar metas
+- Podem ser executados por humanos ou máquinas
+
+1. O que é Modelagem de Processo de Negócio?
+
+- Conhecimento e análise dos processo e seu relacionamento com os dados
+- Estruturado em uma visão top down
+- O mapeamento começa com o levantamento da situação atual (as is)
+- Otimização e modelagem do estado desejado dos processo (TO BE )
 
 ### Kubernetes
 
@@ -607,11 +945,77 @@ Em outras palavras, a coesão faz a ligação entre uma frase e outra.
 
 ## ARQUITETURA DE INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
 
-
+###
 
 <div id='id-sec-info'/>
 
 ## SEGURANÇA CIBERNÉTICA E DA INFORMAÇÃO
+
+### Material de Estudo
+
+- https://www.youtube.com/watch?v=2zkfSYjVf7Y
+
+### Dicas de estudo
+
+- Estudar algoritmos de sistemas de criptografia
+
+### Segurança da Informação
+
+- A segurança da informação se concentra na confiabilidade das informações e no gerenciamento da continuidade das operações (Plano de continuidade de negócios [PCN]). Para avaliar se meu dado é confiável existem alguns pilares a serem seguidos:
+    - Integridade: Garantir a exatidão da informação
+    - Confidencialidade: Garantir somente acesso autorizado às informações.
+    - Disponibilidade: Garantir que a informação esteja sempre disponível.
+    - Autenticidade: Garantir que a informação é autentica.
+    - Não-repúdio ou Irretratabilidade: Garantir que o usuário não negue autoria ou alterações nas informações
+
+- Dicas:
+    - A banca pode formular um novo pilar para uma questão expecífica ao longo do enunciado, por isso, é importante ficar atento às palavras-chave (Legalização, responsabilização, etc...)
+
+### Controle de Acesso
+
+- É o processo de implementação e execuç~ao das políticas de autroização. Existem 3 tipos de controle de acesso:
+    - DAC(Controle de Acesso Discricionário): Onde os usuários têm uma quantidade significativa de controle sobre os recursos que possuem. O dono do recurso define quem pode acessar aquele recurso.
+    - MAC (Controle de Acesso Obrigatório): Onde as políticas de acesso são centralizadas e administradas de forma mais rígida, muitas vezes em ambientes altamente seguros. Existem categorias, o dado recebe uma categoria (público, privado, sensível, etc). Somente o usuário que tem uma classificação maior ou igual pode acessar a categoria.
+    - RBAC (Controle de Acesso Baseado em Função): Onde as permissões são atribuídas com base nas funções dos usuários dentro da organização. Ao invés de atribuir a permissão a um usuário específico você atribui a um grupo 
+- Há também o Controle de Acesso Físico:
+    - Medidas implementadas para prevenir o acesso não autorizado a recursos físicos.
+    - Barreiras físicas, sistemas de identificação, alarmes, etc..
+- Temos também o Controle de Acesso Lógico
+    - Medidas implementadas para prevenir o acesso não autorizado a recursos informacionais e sistemas informatizados.
+    - Autenticação, Autorização, Criptografia, Firewalls, IDS (Sistemas de Detecção de Intrusões), IPS (Sistemas de Prevenção de Intrusões), Registros e Monitoramento, Antivirus, Antispam, etc...
+
+### Autenticação
+
+- Ato de estabelecer ou confirmar algo ou alguém como autêntico, isto é, que reivindica a autoria ou a veracidade de alguma coisa. Ou seja, eh identificar-se para um sistema.
+
+- Confirmação da procedência de um objeto ou pessoa, neste caso, frequentemente relacionada com a verificação da sua identidade
+
+- Fatores de Autenticação
+    - Autenticação baseada em conhecimento (O que você sabe[Senha, por exemplo])
+    - Autenticação baseada na propriedade (O que você tem ou possui[Token, app de autenticação, certificados digitais])
+    - Autenticação baseada na característica (O que você é [Biometria])
+
+- MFA (Multi Factor Autenticator): Usar dois ou mais fatores de autenticação. Pode ser referido tbm como 2FA (Two factor autenticator)
+
+- Autorização
+    - É o processo de definir e gerenciar as permissões que são atribuídas a um usuário ou a um grupo de usuários
+    - As permissoes podem incluir, por exemplo, acesso a determinados arquivos, capacidade de realizar certas operações ou de utilizar determinados recursos do sistema.
+    - Esse processo pode ser gerenciado através de políticas de controle de acesso como ACL(Lista de controle de Acesso) ou através de modelos como RBAC (Controle de Acesso Baseado em Função)
+
+- Auditoria
+    - É o processo de monitoramento e registro das atividades de usuários e sistemas.
+    - Assegurar que as políticas de controle de acesso estão sendo seguidas e para detectar qualquer atividade suspeita ou não autorizada.
+    - As informações coletadas podem ser usadas para análises de segurança, investigaçoes forenses e para ajudar a melhorar as políticas de controle de acesso no futuro.
+
+### Criptografia
+
+- Técnica que utiliza algoritmos matemáticos para proteger informações, garantindo confidencialidade, integridade e autenticidade dos dados.
+
+- Criptografia simétrica:
+
+- Criptografia assimétrica:
+
+- Função hash criptográfica
 
 <div id='id-disseracao'>
 

@@ -973,7 +973,7 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
 
 ### Controle de Acesso
 
-- É o processo de implementação e execuç~ao das políticas de autroização. Existem 3 tipos de controle de acesso:
+- É o processo de implementação e execução das políticas de autorização. Existem 3 tipos de controle de acesso:
     - DAC(Controle de Acesso Discricionário): Onde os usuários têm uma quantidade significativa de controle sobre os recursos que possuem. O dono do recurso define quem pode acessar aquele recurso.
     - MAC (Controle de Acesso Obrigatório): Onde as políticas de acesso são centralizadas e administradas de forma mais rígida, muitas vezes em ambientes altamente seguros. Existem categorias, o dado recebe uma categoria (público, privado, sensível, etc). Somente o usuário que tem uma classificação maior ou igual pode acessar a categoria.
     - RBAC (Controle de Acesso Baseado em Função): Onde as permissões são atribuídas com base nas funções dos usuários dentro da organização. Ao invés de atribuir a permissão a um usuário específico você atribui a um grupo 

@@ -941,11 +941,172 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
     - Grupo
     - Anotações
 
+### Design Patterns
+
+Os Design Patterns (Padrões de Projeto) são soluções reutilizáveis para problemas comuns que surgem durante o desenvolvimento de software. Eles fornecem diretrizes e abstrações que ajudam a estruturar e organizar o código de maneira eficaz. Existem três categorias principais de Design Patterns: Padrões de Criação, Padrões Estruturais e Padrões Comportamentais. Vamos explorar cada uma delas:
+
+**Padrões de Criação:**
+Esses padrões se concentram na maneira de criar objetos ou classes. Eles ajudam a tornar a criação de objetos mais flexível e independente do sistema.
+
+1. **Singleton Pattern:** Garante que uma classe tenha apenas uma instância e fornece um ponto de acesso global para essa instância.
+
+2. **Factory Method Pattern:** Define uma interface para criar objetos, mas permite que as subclasses escolham as classes concretas a serem instanciadas.
+
+3. **Abstract Factory Pattern:** Fornecer uma interface para criar famílias de objetos relacionados ou dependentes sem especificar suas classes concretas.
+
+4. **Builder Pattern:** Separa a construção de um objeto complexo de sua representação, permitindo a criação de diferentes representações do mesmo objeto.
+
+5.**Prototype Pattern:** Cria novos objetos duplicando um objeto existente, conhecido como protótipo.
+
+
+**Padrões Estruturais:**
+Esses padrões se concentram na composição de classes e objetos para formar estruturas maiores. Eles ajudam a definir a estrutura de um sistema de maneira flexível e eficiente.
+
+1. **Adapter Pattern:** Permite que objetos com interfaces incompatíveis trabalhem juntos, convertendo a interface de um objeto em outra esperada pelo cliente.
+
+2. **Composite Pattern:** Permite que você componha objetos em estruturas de árvore para representar hierarquias de partes-todo.
+
+3. **Proxy Pattern:** Fornece um substituto ou intermediário para controlar o acesso a um objeto.
+
+4. **Decorator Pattern:** Anexa responsabilidades adicionais a um objeto dinamicamente. É uma alternativa flexível à herança para estender a funcionalidade de classes.
+
+5. **Bridge Pattern:** Separa uma abstração de sua implementação, permitindo que ambas evoluam independentemente.
+
+
+**Padrões Comportamentais:**
+Esses padrões se concentram na comunicação e colaboração entre objetos. Eles definem como os objetos interagem e distribuem responsabilidades.
+
+1. **Observer Pattern:** Define uma dependência um-para-muitos entre objetos para que quando um objeto mude de estado, todos os seus dependentes sejam notificados e atualizados automaticamente.
+
+2. **Strategy Pattern:** Define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis. Isso permite que o algoritmo varie independentemente dos clientes que o usam.
+
+3. **Command Pattern:** Encapsula uma solicitação como um objeto, permitindo que você parametrize clientes com solicitações, enfileire-as, registre solicitações e forneça funcionalidades de desfazer.
+
+4. **State Pattern:** Permite que um objeto altere seu comportamento quando seu estado interno muda. O objeto parecerá ter mudado sua classe.
+
+5. **Chain of Responsibility Pattern:** Passa solicitações ao longo de uma cadeia de manipuladores. Cada manipulador decide processar a solicitação ou passá-la para o próximo manipulador na cadeia.
+
 <div id='id-arc-infra'/>
 
 ## ARQUITETURA DE INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
 
-###
+### Material
+
+- https://learn.microsoft.com/pt-br/training/paths/deploy-manage-identity-infrastructure/
+
+### Operação e Administração de Sistemas Operacionais
+
+**Funções de um SO**
+- Afastar do usuário a complexidade do hardware através de uma interface (Modo usuário)
+- Gerenciar recursos de hardware (Modo núcleo)
+
+Os SOs podem realizar virtualização de outros SOs, alguns tipos são:
+- Hyervisor tipo 1 (baremetal): Virtual Machine Monitor
+    - Responsável por criar os drives próprios para o SO emulado
+    - Rodam mais rápido
+- Hypervisor tipo 2: Virtualização de Desktop
+
+**Funções de um servidor de rede**
+- O papel principal do SO servidor é fornecer serviços para os SOs cliente:
+    - Endereçamento lógico
+    - resolução de nomes
+    - armazenamnto e acesso de arquivos
+    - gestão de impressão, 
+    - gestão de aplicações
+    - gestão de diretório de recursos
+    - acesso remoto
+- Um servidor pode prover o mesmo recurso para vários OSs, sem que isso consuma mais memória que abrir o recurso no próprio OS. Por exemplo, se você sobe 5 sistemas windows em máquinas diferentes utilizando um servidor, esse servidor só está consumindo de memória um único SO.
+
+### Windows Server
+
+O Windows Server é uma plataforma para compilar uma infraestrutura de aplicativos, redes e serviços Web conectados, do grupo de trabalho ao data center. Ele faz a ponte entre os ambientes locais e o Azure, adicionando mais camadas de segurança enquanto ajuda você a modernizar seus aplicativos e sua infraestrutura.
+
+#### AD DS (Active Directory Domain Services)
+
+- O AD DS e seus serviços relacionados formam a base para redes corporativas que executam sistemas operacionais Windows. 
+- O banco de dados do AD DS é o repositório central de todos os objetos de domínio, como contas de usuário, contas de computador e grupos. 
+- O AD DS fornece um diretório hierárquico e pesquisável, bem como um método para aplicar definições de configuração e segurança para objetos em uma empresa.
+- O AD DS inclui componentes lógicos e físicos.
+- Você pode usar opções do AD DS para executar ações como:
+    - Instalação, configuração e atualização de aplicativos.
+    - Gerenciamento da infraestrutura de segurança.
+    - Habilitação do serviço de acesso remoto e do DirectAccess.
+    - Emissão e gerenciamento de certificados digitais.
+
+**Componentes Lógicos**
+
+Os componentes lógicos do AD DS são estruturas que você usa para implementar um design do AD DS apropriado em uma organização. Os componentes lógicos são:
+
+- **Partição:** Uma partição, ou contexto de nomenclatura, é uma parte do banco de dados do AD DS. O Active Directory armazena cópias de partições em vários controladores de domínio e os atualiza por meio da replicação de diretório.
+- **Esquema:** Um esquema é o conjunto de definições dos tipos de objeto e atributos que você usa para definir os objetos criados no AD DS.
+- **Domínio:** Um domínio é um contêiner administrativo lógico para objetos como usuários e computadores. Um domínio é mapeado para uma partição específica, e você pode organizar o domínio com relações pai-filho com outros domínios. No domínio ficam as contas de usuário, contas de computador e grupos
+- **Árvore de domínio:** Uma árvore de domínio é uma coleção hierárquica de domínios que compartilham um domínio raiz comum e um namespace DNS (Sistema de Nomes de Domínio) contíguo.
+- **Floresta:** Uma floresta é uma coleção de um ou mais domínios que têm uma raiz do AD DS, um esquema comum e um catálogo global comum.
+    - Por padrão, nenhum usuário de fora da floresta pode acessar nenhum recursos dentro da floresta. Além disso, todos os domínios em uma floresta confiam automaticamente nos outros domínios dela.
+    - Uma floresta do AD DS é o limite de replicação para a configuração, as partições de esquema no banco de dados do AD DS e o catálogo global.
+- **OU:** Uma UO é um objeto de contêiner para usuários, grupos e computadores que fornece uma estrutura para delegar direitos administrativos e administração ao vincular GPOs (Objetos de Política de Grupo).
+- **Contêiner:** Um contêiner é um objeto que fornece uma estrutura organizacional para uso no AD DS. Você pode usar os contêineres padrão ou criar contêineres personalizados. Não é possível vincular GPOs a contêineres.
+
+**Componentes Físicos**
+
+Os componentes físicos no AD DS são aqueles que são tangíveis ou que descrevam componentes tangíveis no mundo real. Estes são:
+
+- **Controlador de domínio:** Um controlador de domínio contém uma cópia do banco de dados do AD DS. Para a maioria das operações, cada controlador de domínio pode processar alterações e replicá-las em todos os outros controladores no domínio.
+- **Armazenamento de dados:** 
+Há uma cópia do armazenamento de dados em cada controlador de domínio. O banco de dados do AD DS usa a tecnologia de banco de dados do Microsoft Jet e armazena as informações de diretório no arquivo Ntds.dit e nos arquivos de log associados.
+- **Servidor de catálogo global:** Um servidor de catálogo global é um controlador de domínio que hospeda o catálogo global, que é uma cópia parcial e somente leitura de todos os objetos em uma floresta de vários domínios. Um catálogo global acelera as pesquisas de objetos que podem ser armazenados em controladores de domínio em um domínio diferente na floresta.
+- **RODC (Controlador de domínio somente leitura):** Um RODC é uma instalação especial, somente leitura, do AD DS. Os RODCs são comuns em filiais em que a segurança física não é ideal, o suporte de ti é menos avançado do que nos centros corporativos principais
+- **Site:** Um site é um contêiner para objetos do AD DS, como computadores e serviços específicos de um local físico.
+- **Sub-rede:** Uma sub-rede é uma parte dos endereços IP de rede de uma organização atribuídos a computadores em um site. Um site pode ter mais de uma sub-rede.
+
+Além dos componentes e objetos de alto nível, o AD DS contém outros objetos, como usuários, grupos e computadores.
+
+- **Usuários**: No Windows Server, uma conta de usuário é um objeto que contém todas as informações que definem um usuário. Esse tipo de conta inclui:
+    - O nome de usuário.
+    - Uma senha de usuário.
+    - Associações de grupo.
+
+- **Serviços:** Muitos aplicativos contêm serviços que você instala no servidor que hospeda o programa. Esses serviços normalmente são executados na inicialização do servidor ou são disparados por outros eventos. Os serviços costumam ser executados em segundo plano e não exigem nenhuma interação do usuário. Para que um serviço seja iniciado e autenticado, você usa uma conta de serviço, que pode ser uma conta local do computador, como as contas internas de Serviço Local, Serviço de Rede ou Sistema Local.
+
+- **Contas baseadas em domínio:** Para ajudar a centralizar a administração e atender aos requisitos do programa, muitas organizações optam por usar uma conta baseada em domínio para executar serviços do programa. Embora isso forneça algum benefício em comparação ao uso de uma conta local, há vários desafios associados, como os seguintes:
+    - Pode ser necessário um esforço administrativo extra para gerenciar a senha da conta de serviço com segurança.
+    - Pode ser difícil determinar onde uma conta baseada em domínio está sendo usada como uma conta de serviço.
+    - Pode ser necessário um esforço administrativo extra para gerenciar o SPN (nome da entidade de serviço).
+
+- **Contas de Serviço Gerenciado**: São contas para o suporte de objetos do AD DS, elas facilitam o gerenciamento da conta de serviço fazendo o gerenciamento simplificado de senhas e SPN.
+
+- **Contas de Serviço Gerenciado de Grupo:** As contas de serviço gerenciado de grupo permitem estender os recursos de contas de serviço gerenciado padrão para mais de um servidor em seu domínio. Em cenários de farm de servidores com clusters de NLB (Balanceamento de Carga de Rede) ou servidores IIS, muitas vezes é necessário executar serviços do sistema ou do programa na mesma conta de serviço. As contas de serviço gerenciado padrão não podem fornecer funcionalidade de conta de serviço gerenciada para serviços em execução em mais de um servidor, por isso se usam as contas de serviço gerenciado de grupo.
+
+**Objetos de Grupo** 
+
+Embora possa ser prático atribuir permissões e direitos a contas de usuário individuais em redes pequenas, isso se torna impraticável e ineficiente em grandes redes corporativas.
+
+Por exemplo, se vários usuários precisarem do mesmo nível de acesso a uma pasta, será mais eficiente criar um grupo que contenha as contas de usuário necessárias e, em seguida, atribuir as permissões necessárias ao grupo.
+
+Ao criar um grupo, você escolhe o tipo e o escopo dele. O tipo determina os recursos do grupo. 
+
+- **Tipos de Grupo:** No Windows Server há dois tipos de grupo:
+
+- Segurança
+- Distribuição
+
+- **Escopos de Grupo:** O escopo de um grupo determina a gama de habilidades ou permissões de um grupo e a associação de grupo. Há quatro escopos de grupo:
+
+1. Local: Usado em um único computador para atribuir habilidades e permissões locais.
+
+2. Local de Domínio: Empregado em controladores de domínio para gerenciar acesso e direitos no domínio local.
+
+3. Global: Utilizado para agrupar usuários com características semelhantes e atribuir habilidades em toda a floresta.
+
+4. Universal: Principalmente em redes multidomínio, permite atribuir habilidades em toda a floresta e aceitar membros de qualquer lugar da floresta do AD DS.
+
+**Objetos de Computador**
+
+Objetos de computador são entidades de segurança que representam computadores em um domínio no Windows. Eles têm contas com nomes e senhas que o sistema altera automaticamente periodicamente. Esses objetos autenticam-se no domínio, podem pertencer a grupos para acessar recursos e são configurados através da Política de Grupo. A vida útil de uma conta de computador começa quando o objeto é criado e ingressado no domínio, e tarefas administrativas incluem configuração de propriedades, movimentação entre Unidades Organizacionais (UOs), gerenciamento e eventual renomeação, redefinição, desabilitação, habilitação ou exclusão do objeto de computador.
+
+**Contêiner Computadores**
+
+O contêiner Computadores é um local padrão em um domínio do AD DS onde as contas de computador são armazenadas quando ingressam no domínio. Ele não é uma Unidade Organizacional (UO), mas sim um tipo de contêiner. Embora pareça semelhante a uma UO, existem diferenças importantes. Você não pode criar UOs dentro do contêiner Computadores nem vincular Objetos de Política de Grupo a ele. Portanto, é aconselhável criar UOs personalizadas para hospedar objetos de computador em vez de usar o contêiner Computadores.
 
 <div id='id-sec-info'/>
 

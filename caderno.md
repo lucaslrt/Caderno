@@ -26,7 +26,13 @@
 - https://www.youtube.com/watch?v=71HFDNbuMm0
 - https://www.youtube.com/watch?v=jmndTZyHvSU
 
+### Sintaxe e Oração
+
 ### Interpretação e compreensão de texto. Organização estrutural dos textos
+
+### Figuras de Linguagem
+
+OBS: focar em metáfora, antítese, paradoxo, metonímea, personificação
 
 - **Inferência** pode ser dividida em **duas** categorias:
     - **Pressuposto**: Informação obtida a partir de **marcas linguísticas** (pistas textuais): verbos, adjetivos, advérbios... Em resumo, Pressuposto é uma Inferência com pistas no texto
@@ -51,6 +57,7 @@
 ### Marcas de textualidade: coesão, coerência e intertextualidade
 
 - **Coerência** refere-se à **construção lógica** do sentido global do texto. Quando ele possui **contradições**, é um texto **incoerente**
+    - Não está associada a erros gramaticais
 
 - **Contradição** ocorre quando duas situações não podem ser verdadeiras ao mesmo tempo:
 
@@ -70,7 +77,75 @@ Hoje eu comi uma maçã, mas não comi uma fruta.
 Em outras palavras, a coesão faz a ligação entre uma frase e outra.
 **OBS:** Estudar **conjunção**
 
-### 
+- **Duplo sentido**
+    - Mais de um significado semântico
+    - Mais de uma forma de leitura
+```
+Não há nenhum futuro em viagem no tempo.
+```
+
+- **Comparação + Explicação**
+    - Para comparação é necessário ao menos dois elementos
+    - Explicação é um desdobramento da ideia
+
+```
+Os homens são como os livros, muitas vezes são apreciados tarde em demasia.
+```
+```
+Os homens, como sonho, nunca são como imaginamos.
+```
+```
+Os homens mais felizes, assim como as nações mais felizes, não têm história.
+```
+
+- **Tipologia Textual**
+    - **Argumentativa**: opinião, posicionamento
+    - **Expositiva**: informação, sem opinião
+    - **Descritiva**: adjetivações, sem temporalidade
+    - **Narrativa**: enredo, história
+    - **Injutiva**: ensina, imperativo
+    **OBS**: Em um mesmo texto podem aparecer vários tipos de tipologia. Focar sempre na ideia **central** do texto.
+
+- **Tipos de Discurso**
+    - **Direto**: fala do personagem. Possuem marcadores aspas, travessão, dois pontos...
+    - **Indireto**: fala realizada por alguém. Possuem marcadores de verbo dicendi e possui um conector(disse que, falou que, afirmou que...)
+    - **OBS**: Na conversão de Direto para Indireto, sempre remover o tempo
+
+    ```
+    "Teremos muito trabalho hoje" disse o gerente da loja; / O gerente da loja disse que teriam muito trabalho naquele dia.
+    ```
+
+- **Estratégia argumentativa** (estudar mais)
+
+- **Valor negativo e positivo**
+
+- **Diferença de Adjunto adnominal vs Complemento nominal**
+
+- **Nominalização**: Quando você troca uma oração por um termo da oração.
+    - Pegar um verbo e transformar em um nome
+
+- **Objetividade**: Para ser mais objetivo, são necessários dois aspectos
+    - Evitar contornos. Ir direto ao ponto
+    - Evitar subjetivismo, pessoalidade
+
+    ```
+    Nossa empresa só considerará os recursos dos candidato detentores de um diploma universitário
+    ```
+    Repare que o 'Nossa empresa', trás subjetividade, pessoalidade à frase, então para torna-la mais objetiva, deve-se retirar isso:
+
+    ```
+    Só serão considerados os recursos dos candidatos detentores de um diploma universitário
+    ```
+- **Perífrase**: É acrescentar mais palavras pra dizer algo que pode ser dita por uma palavra ou expressão menor.
+
+- **Exemplificação**:
+
+```
+A maioria dos legumes, como o chuchu, tem um gosto suave
+```
+Nessa frase, legumes é um **hiperonimo** (carater mais geral) e chuchu é um **hiponimo** (carater mais específico), logo, quando é acrescentado um 'como' que no caso seria uma expressão **denotativa** de exemplificação
+
+### Estilos literários
 
 <div id='id-ingles'/>
 
@@ -417,7 +492,7 @@ Existem duas categorias:
 
 2. Secundárias
 - Ajudam na elaboração das leis
-- Jurisprudência
+- Jurisprudência (FOCAR NISSO AQUI)
 - Doutrinas
 - Costumes
 - Fontes materiais (nasce do caso concreto) e Não organizadas e não escritas (no sentido de não ter uma organização formal)
@@ -617,7 +692,180 @@ Estudar através dos vídeos e exercícios
 
 - https://www.youtube.com/watch?v=8MqYRN4DnSs
 - https://www.youtube.com/watch?v=Pfsmaxk0ipo
-- https://www.youtube.com/playlist?list=PLBKXa8XfK1igcc6FbGh_zBP8NssIPtVWd
+- https://www.youtube.com/playlist?-list=PLBKXa8XfK1igcc6FbGh_zBP8NssIPtVWd
+- https://www.youtube.com/watch?v=2kTs_D22q6E&t=17s
+
+### Modelagem de Dados (https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD)
+
+**Dicas de Questões:**
+- Sempre que tiver as frases: 
+    - "com o banco de dados já implementado"
+    - Nível
+    - Camada ou esquema
+    - Arquitetura de 3 esquemas
+    - Arquitetura de 3 camadas
+    - Arquitetura ANSII / Spark
+Significa que o banco já está implementado
+
+- Sempre que tiver as frases:
+    - Projeto
+    - Modelo
+    - Modelagem
+Significa que vai ocorrer a criação de um banco
+
+Exemplo:
+    - Modelo de visão = novo projeto de banco de dados que você está alinhando com o cliente a informação que o banco de dados vai conter
+- As `linhas` da tabela de BD pode ter o nome de `registro` ou `entidade` ou `tupla`
+- As `colunas` da tabela de BD podem ter o nome de `atributo`
+- As `tabelas` do BD podem ter o nome de `Relação`
+- Clausulas check: é uma clausula de validação, se um dado está dentro de um domínio específico  
+- collation strings: São descriçoes específicas
+- **Abstração:** se refere à supressão de detalhes da organizaç~ao e do armazenamento de dados, descartando par um melhor conhecimento desses dados os recursos essenciais.
+- **Modelo de dados:** se refere a uma coleção de conceitos que podem ser utilizados para descrever a estrutura de um banco de dados, oferencedo os meios necessários para alcançar essa abstração.
+- **Instância**: refere-se aos dados e metadados e usuários presentes no servidor de dados em um determinado instante.
+
+#### Dados x Informação
+
+`Dados` são fatos em uma forma primária que podem ser armazenados em algum meio.
+
+`Informação` são os fatos organizados de maneira a produzir um significado, ou seja, dados colocados em contexto. 
+
+`Metadados` são dados sobre dados, permitem efetuar a representação e identificação dos dados, garantindo sua consistência e persistência. Os metadados são mantidos no `Dicionário de Dados` (ou `Catálogo` de dados)
+
+#### Banco de Dados
+
+- Um Banco de Dados (BD) é uma coleção organizada de dados. Esses dados são organizados de modo a modelar aspectos do mundo real, para que seja possível efetuar processamento que gere informações relevantes para os usuários a partir desses dados.
+- Um BD é composto por diversos objetos como:
+    - tabelas
+    - esquemas
+    - visões
+    - consultas
+    - relatórios
+    - procedimentos
+    - triggers
+
+#### SGBD (Sistema de Gerenciamento de Banco de Dados)
+
+- Um SGBD é uma coleção de softwares que permite aos usuários criarem e manterem um ou mais bancos de dados.
+- São usados nas tarefas de definição, construçao, manipulação e compartilhamento dos bancos de dados entre aplicações e usuários
+- Permitem proteger o banco de dados e mantê-lo ao longo do tempo
+- Alguns exemplos são:
+    - SQL Server
+    - SQLite
+    - MongoDB
+
+#### Sistema de Bancos de Dados
+
+O Sistema de Banco de Dados eh composto, em ordem, por:
+- Usuários
+- Aplicativos de Acesso
+- SGBD para gerenciamento
+- Banco de dados + Metadados
+
+#### Modelo de dados
+
+É o conjunto de ferramentas conceituais usadas para descrição dos dados, relacionamentos entre eles, semântica dos dados e regras de consistência. Podem ser dividos em:
+
+- **Modelo Conceitual:** É um projeto que realiza um alinhamento perfeito entre uma área de TI/BD e a área cliente. É o momento de elicitação de requisitos e afins voltado exclusivamente para BD
+    - Ele deve ser 100% independente do banco de dados de onde ele está sendo implementado
+- **Modelo Lógico:** É a implementação do BD
+- **Modelo Físico:** Como os dados estão efetivamente armazenados.
+    - Não é algo que dê para ser implementado, é somente como os dados estão armazenados em bits e bytes
+- **OBS:** Os dois modelos de dados considerados em um projeto de banco de dados são os modelos `conceitual` e `lógico`.
+
+#### **Arquitetura de 3 esquemas/camadas - ANSI / Sparc**
+
+- **Nível físico ou Nível Interno:** descreve `como` os dados estão de fato armazenados dentro do SGBD.
+- **Nível lógico ou Nível conceitual:** descreve quais `dados` estão armazenados no banco de dados e seus relacionamentos, tem utilização para quem estrutura o BD.
+- **Nível de visão ou Nível externo:** subconjunto de um banco de dados que contem uma `visão virtual` dos dados, derivados dos arquivos do banco de dados, mas não, explicitamente, armazendados. Em resumo, os `apps` que são usados para visualizar o banco de dados (? verificar)
+
+(**Add print aqui**)
+
+**OBS:** 
+- **Esquemas:** contêm as descrições dos dados armazenados. São divididos também como os `níveis ou instâncias`, que são os dados de fato armazenados 
+
+Ainda sobre a parte conceitual dos níveis de arquitetura existe um conceito chamado `Independência de dados` que é a capacidade de trabalhar com uma camada inferior do banco de dados sem a necessidade de alterar o que está sendo trabalhado nas camadas superiories. Existem dois tipos:
+
+- **Independência física de dados:** capacidade de modificar o esquema físico sem ter de reescrever os programas de aplicação. Em resumo, alterar o `nível físico` sem passar pelos outros níveis
+- **Independência lógica de dados:** capacidade de modificar o esquema lógico sem que qualquer programa de aplicação precise ser reescrito. Em resumo, alterar o `nível lógico`, sem alterar os outros níveis
+- **OBS:** não existe `independência interna`, ou `independência conceitual`
+
+**Regras para o modelo Relacional**
+
+Essas regras servem como referência para estruturação de um Sistema de Bancos de Dados Relacionais.
+
+- **Regra 0:** Uso de recursos relacionais para seu gerenciamento (só usar relacional com relacional, não mesclar com orientação a objetos, por exemplo)
+- **Regra 1:** Todo dado deve ser representado em tabelas com linhas e colunas
+- **Regra 2:** Se um dado está armazenado você precisa garantir que seus usuários terão acesso a ele 
+- **Regra 3:** Tratamento sistemático de dados nulos.
+- **Regra 4:** Catálogo Online Dinâmico com base no Modelo Relacional. Seus metadados precisam estar armazenados em formato de catálogo
+- **Regra 5:** Sublinguagem ampla de dados (SQL)
+- **Regra 6:** Atualização de visualização
+- **Regra 7:** Inserção, atualização e exclusão de alto nível
+- **Regra 8:** Independência Física de Dados
+- **Regra 9:** Independência Lógica de Dados
+- **Regra 10:** Independência de Integridade
+- **Regra 11:** Independência de Distribuição. Os usuários finais e aplicativos não devem conhecer nem serem afetados pela localização de dados
+- **Regra 12:** Não transposição das Regras
+
+#### Chaves
+
+Uma chave é um `atributo` que você tem na tabela que define `univocamente` um registro, ou seja define a `identidade` de um dado. O conceito é um pouco diferente de `índice` pois o índice serve para realizar pesquisas na tabela, mas consequentemente uma chave tende a ser um índice.
+Alguns tipos de chaves são:
+
+- **Super-chave:** Um atributo ou conjunto de atributos que seja identificado como único. (CPF, ou o conjunto da sua data e hora de nascimento com o nome da sua mãe, por exemplo)
+- **Chave-candidata ou chave alternativa:** Todo e qualquer atributo ou conjunto de atributos dos quais não fazem sentido virarem super-chaves. Ela é candidata a ser uma chave primária
+- **Chave primária:** Também identifica `univocamente` um registro assim como uma super-chave
+    - Não pode ser nula
+    - Pode ser formado por qualquer tipo de dado
+    - Pode ser formada por qualquer quantidade de atributos
+    - **Ela é escolhida preferencialmente para referenciar o respectivo registro**
+- **Chave-estrangeira:** É um atributo utilizado por uma outra tabela que está referenciando a tabela atual, ou seja, está preferencialmente referenciando a chave primária, mas pode estar referenciando chaves candidatas também.
+    - Uma chave estrangeira pode apontar para a chave primária da própria tabela, o que é chamado de `auto relacionamento` ou `relacionamento unário`
+    - O conceito de `integridade referencial` é usualmente implementado por meio das chaves estrangeiras que servem como restrições (constraints)
+
+#### MER (Modelo Entidade-Relacionamento)
+
+Trata-se de um `modelo conceitual` usado para descrever objetos envolvidos no domínio de um sistema a ser construído, incluindo seus atributos e relacionamentos. É uma maneira sistemática de descrever e definir um processo de negócio.
+
+O MER permite representar de forma abstrata a estrutura que irá constituir o banco de dados.
+
+É composto pelos seguintes objetos:
+
+- **Entidades**: São os `componentes` modelados no banco, elas são ligadas uams às outras por `relacionamentos` que indicam as dependências entre elas.
+    - Representa um tema, tópico ou conceito de negócio
+    - Cada objeto de uma entidade é denominado de `Instância de Entidade`
+        - Ex: A `Entidade` Carro pode possuir as `Instâncias de Entidade` Ford, Citroen, etc
+    - Uma entidade pode ter existência física ou abstrata
+    - Ex: Empregados, Livros, vendas, produtos...
+    - OBS: para nomear a entidade, deve ser usar um substantivo no singular (Empregado, Livro, Venda, etc)
+
+- **Atributos**: São as propriedades que estão nas entidades. Ex: fabricante, modelo, cor, placa, etc.
+    - Os atributos possuem um tipo de dados (domínio) nome e valor específico
+    - Os atributos podem ser de vários tipos:
+        - Simples: Não possui características especiais e são indivisíveis. Ex: CPF, Nome
+        - Composto: Pode ser subdividido em outros atributos. Ex: Endereço (Rua, Cep, Bairro)
+        - Multivalorado: Quando ele pode ter mais de um valor para um mesmo registro (informação). Ex: Telefone (casa, celular)
+        - Determinante: Define as instâncias de entidade de uma entidade. Não podem existir duas instâncias de entidade desse tipo com o mesmo valor. Ex: CPF
+        - Identificador (Chave): Uma chave identifica uma instância específica na classe de entidade. Ex: CPF
+
+- **Relacionamentos**: São as relações entre as entidades, que indicam as dependências entre elas 
+
+Diagramas são criados para representar graficamente entidades, atributos e relacionamentos, denominados `DER (Diagramas Entidade-Relacionamento)`.
+Os componentes do DER são:
+
+- **Retângulos**: Representam entidades
+- **Elipses**: Represetam atributos
+- **Losangos**: Representam relacionamentos
+- **Linhas**: Ligam atributos a entidades e entidades a relacionamentos
+
+#### Operações de BD
+
+- INSERT: 
+- Triggers: Serve para monitorar e registrar operações de INSERT e UPDATE
+- Cursores: Demarcadores específicos na base de dados
+- Stored procedures: Procedimentos de armazenamento, como procedimento de looping
+- DELETE CASCADE: Deleta todos os dados da coluna (atributo) juntamente com as colunas que estão sendo referenciadas pelas chaves estrangeiras que estão nessa coluna 
 
 ### Arquitetura Orientada a Serviços (SOA) [baseada em serviços]
 
@@ -963,20 +1211,45 @@ Esses padrões se concentram na maneira de criar objetos ou classes. Eles ajudam
 Esses padrões se concentram na composição de classes e objetos para formar estruturas maiores. Eles ajudam a definir a estrutura de um sistema de maneira flexível e eficiente.
 
 1. **Adapter Pattern:** Permite que objetos com interfaces incompatíveis trabalhem juntos, convertendo a interface de um objeto em outra esperada pelo cliente.
+- Resumidamente é criar uma classe intermediária que unifica uma classe previamente criada de outra que você já está desenvolvendo
+- Dica de questões:
+    - Sempre que tiver a palavra "incompatível" provavelmente vai ser Adapter a solução
 
 2. **Composite Pattern:** Permite que você componha objetos em estruturas de árvore para representar hierarquias de partes-todo.
+- Essas estruturas são trabalhadas como se elas fossem objetos individuais
+- Dica de questões:
+    - Sempre que tiver a palavra "hierarquia" ou "coexistem objetos" ou "agregados de objetos da mesma espécie" ou "partes-todo" provavelmente eh Composite.
 
 3. **Proxy Pattern:** Fornece um substituto ou intermediário para controlar o acesso a um objeto.
 
 4. **Decorator Pattern:** Anexa responsabilidades adicionais a um objeto dinamicamente. É uma alternativa flexível à herança para estender a funcionalidade de classes.
+- Dica de questões:
+    - Sempre que tiver a frase "resposabilidades adicionais a um objeto dinamicamente" ou "extensão de funcionalidades" geralmente é Decorator
 
-5. **Bridge Pattern:** Separa uma abstração de sua implementação, permitindo que ambas evoluam independentemente.
+5. **Bridge Pattern:** Separa uma abstração (interface) de sua implementação, permitindo que ambas evoluam independentemente.
+- Permite que se divida uma classe grande ou um conjunto de classes intimamente ligadas em duas hierarquias separadas (Abstração e interpretação)
+- Resumindo é só criar uma abstração com uma interface e aí você cria a classe que herda essa abstração.
+
+6. **Facade Pattern:** Representa uma única classe que representa um subsistema inteiro
+- Fornece uma interface simplificada para bibliotecas, frameworks ou qualquer conjunto complexo de classes
+- Dicas de questoes:
+    - Quando tiver a palavra "subsistema" ou "interface unificada" geralmente é Facade
+
+7. **Flyweight Pattern:** Representa uma instância refinada usada para compartilhamento eficiente
+- Permite colocar mais objetos na uqantidade de RAM disponível ao compartilhar partes comuns de estado entre os múltiplos objetos ao invés de manter todos os dades em cada objeto
 
 
 **Padrões Comportamentais:**
 Esses padrões se concentram na comunicação e colaboração entre objetos. Eles definem como os objetos interagem e distribuem responsabilidades.
 
+Existem 11 padrões:
+
 1. **Observer Pattern:** Define uma dependência um-para-muitos entre objetos para que quando um objeto mude de estado, todos os seus dependentes sejam notificados e atualizados automaticamente.
+- Propagação reativa: É um paradigma de programação declarativa relacionado aos fluxos de dados e à propagação da mudança nesses fluxos
+- É uma versão estendida e mais poderosa que o Observer
+    - Tem os observables (emitem os dados) e os Observers (respondem aos dados emitidos)
+- Dicas de questão:
+    - Sempre que tiver a frase "um-para-muitos" ou "notificação de objetos" ou "mudança de estado de um objeto atualiza outro", geralmente é Observer
 
 2. **Strategy Pattern:** Define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis. Isso permite que o algoritmo varie independentemente dos clientes que o usam.
 
@@ -985,6 +1258,14 @@ Esses padrões se concentram na comunicação e colaboração entre objetos. Ele
 4. **State Pattern:** Permite que um objeto altere seu comportamento quando seu estado interno muda. O objeto parecerá ter mudado sua classe.
 
 5. **Chain of Responsibility Pattern:** Passa solicitações ao longo de uma cadeia de manipuladores. Cada manipulador decide processar a solicitação ou passá-la para o próximo manipulador na cadeia.
+
+6. **Mediator:** Define a comunicação simplificada entre classes. Permite reduzier dependências caóticas entre objetos. Restringe as comunicações diretas entre os objetos. Força-os a colaborar apenas por meio de um objeto mediador. 
+- Dicas de questões:
+    - Sempre que a frase "prove baixo acoplamento" e "evitar que haja referências diretas entre objetos" geralmente é Mediator
+
+7. **Memento:** Captura e restaura o estado interno de um objeto. Permite salvar e restaurar o estado anterior de um objeto sem revelar os detalhes de sua implementação 
+- Dicas de questões:"
+    - Sempre que tiver as palavras "capturar e externalizar um estado interno" ou "restaurar o estado de um objeto" geralmente é Memento
 
 <div id='id-arc-infra'/>
 
@@ -1044,7 +1325,10 @@ Os componentes lógicos do AD DS são estruturas que você usa para implementar 
 - **Floresta:** Uma floresta é uma coleção de um ou mais domínios que têm uma raiz do AD DS, um esquema comum e um catálogo global comum.
     - Por padrão, nenhum usuário de fora da floresta pode acessar nenhum recursos dentro da floresta. Além disso, todos os domínios em uma floresta confiam automaticamente nos outros domínios dela.
     - Uma floresta do AD DS é o limite de replicação para a configuração, as partições de esquema no banco de dados do AD DS e o catálogo global.
-- **OU:** Uma UO é um objeto de contêiner para usuários, grupos e computadores que fornece uma estrutura para delegar direitos administrativos e administração ao vincular GPOs (Objetos de Política de Grupo).
+- **UO:** Uma UO é um objeto de contêiner para usuários, grupos e computadores que fornece uma estrutura para delegar direitos administrativos e administração ao vincular GPOs (Objetos de Política de Grupo). Há dois motivos para se criar UOs:
+    - Para consolidar objetos a fim de facilitar o gerenciamento deles, aplicando GPOs ao coletivo.
+    - Para delegar o controle administrativo de objetos dentro da UO.
+
 - **Contêiner:** Um contêiner é um objeto que fornece uma estrutura organizacional para uso no AD DS. Você pode usar os contêineres padrão ou criar contêineres personalizados. Não é possível vincular GPOs a contêineres.
 
 **Componentes Físicos**

@@ -190,6 +190,12 @@ Nessa frase, legumes é um **hiperonimo** (carater mais geral) e chuchu é um **
 #### Material de estudo
 - https://www.youtube.com/watch?v=ZVE9QTaUPu0
 - https://www.youtube.com/watch?v=h8DgJyLh64k
+- https://www.youtube.com/watch?v=aI3V4LvdekE
+
+#### Glossário
+
+- Ulterior: Depois
+- Reserva do possível: O mínimo que o Estado precisa fazer
 
 #### Suspensão, Inabilitação e Inegebilidade dos Direito Políticos 
 
@@ -243,7 +249,7 @@ Nessa frase, legumes é um **hiperonimo** (carater mais geral) e chuchu é um **
     - Você primeiramente identifica um conteúdo inicialmente protegido (âmbito de proteção), a partir disso delimita os limites (restrições) dele, e só assim você consegue definir o direito em si (categorização)
 
 
-#### Art. 50
+#### Art. 50, Par. 2o
 
 - A Câmara dos Deputados e o Senado podem convocar algumas autoriadades (Ministro de estado ou qualquer outro agente subordinado à Presidência da república) para prestarem informações sobre assunto previamente determinado
 - Caso não a pessoa não dê uma boa justificativa ela pode ser importada ao crime de responsabilidade 
@@ -255,6 +261,166 @@ Nessa frase, legumes é um **hiperonimo** (carater mais geral) e chuchu é um **
 - Os processo demoravam mto tempo e traziam insegurança para as pessoas aposentadas
 - Agora foi estabelecido que a corte tem até 5 anos para julgar essas pendências, caso contrário a aposentadoria vai continuar valendo para a pessoa aposentada
 - Esse prazo se inicia a partir da comunicação ao Tribunal De Contas
+
+
+#### Princípios Fundamentais (Art 1o - 4o)
+
+`Art 1o`: Os `fundamentos` da República Federativa do Brasil são:
+- `So`berania
+- `Ci`dadania
+- `Di`gnidade da pessoa humana
+- `Va`lores sociais do trabalho e da livre iniciativa
+- `Plu`ralismo político
+
+    **Parágrafo único:** Segundo a constituição, constitui-se em estado democrático de direito que todo o poder emana do povo. Esse poder é exercido de forma `indireta`, por meio de representantes eleitos, podendo também ser exercido diretamente, através de plebicitos, referendos as iniciativas populares, etc.
+
+    **OBS:** 
+    - O voto é uma maneira `indireta` de exercer poder, pois ele serve somente para escolha do representante que exerce de fato o poder.
+    - Não confundir `Pluralismo` com `Pluripartidarismo` político.
+    - Quando a questão pedir `fundamentos` é somente o art. 1o, quando a questão pedir os `princípios fundamentais` são os 4 primeiros artigos.
+
+`Art. 2o`: São Poderes da União, `independentes e harmônicos` entre si, o Legislativo, o Executivo e o Judiciário
+
+`Art. 3o`: Os `objetivos` são:
+- Promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras formas de discriminação
+- Garantir o desenvolvimento nacional
+- Constituir uma sociedade livre, justa e solidária
+- Erradicar a pobreza e a marginalização e reduzir as desigualdades sociais e regionais.
+
+`Art. 4o`: São os princípios internacionais, como:
+- A cooperação entre os povos para o progresso da humanidade 
+- Repúdio ao terrorismo e ao racismo
+- Independência nacional
+- Concessão de asilo político
+- Autodeterminação dos povos
+- não intervenção
+- igualdade entre os Estados
+- Defesa da paz
+- solução pacífica dos conflitos
+- Repúdio ao terrorismo e ao racismo
+- Cooperação entre os povos para progresso da humanidade
+- concessão de asilo político.
+
+    **Paragrafo único:** A República Federativa do Brasil buscará a integração econômica, política, social e cultural dos povos da América Latina, visando à formação de uma comunidade latino-americana de nações.
+
+#### Direitos e Garantias Fundamentais (Art. 5o - Art. 17o)
+
+`Art. 5o`: Dos direitos e deveres individuais e coletivos
+- Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança (jurídica) e à propriedade
+- Todos tem direito das presidiárias de permanecer com seus filhos durante o período da amamentação
+- Direito à propriedade
+- direito à tratuidade do registro civil de nascimento e da certidão de óbito
+- Direito à assistência jurídica integral e gratuita
+- **OBS**: Esses direitos são garantidos a qualquer pessoa
+    - `Inc. IX`: É livre a expressão da atividade intelectual, artística, científica e de comunica ção, independentemente de censura ou licença
+    - `Inc. VIII`: Ninguém será privado de direitos por motivo de crença religiosa ou de convicção filosófica ou política, mas terá que cumprir a prestação de contas fixada em lei.
+    - `Inc. XI`**(um dos que mais caem)**: A casa (sentido amplo, pode ser casa, hotel, etc) é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem consentimento do morador (não necessariamente o proprietário), salvo em caso de flagrante delito ou desastre, ou para prestar socorro, ou, durante o dia, por determinação judicial.
+    - `Inc. XVI`: Todos podem reunir-se pacificamente, sem armas, em locais abertos ao público, independentemente de autorização, desde que não frustrem outra reunião anteriormente convocada para o mesmo local, sendo apenas exigido prévio aviso à autoridade competente.
+    - `Inc. XIX`**(um dos que mais caem)**: As associações só poderão ser compulsoriamente dissolvidas ou ter suas atividades suspensas por decisão judicial, exigindo-se, no primeiro caso, o trânsito em julgado.
+        - Para suspender, qualquer decisão judicial basta, como uma liminar, por exemplo. Agora para dissolver só com uma sentença cumprida
+    - `Inc. XXIV` Desapropriação: A lei estabelecerá o procedimento para `desapropriação` por necessidade ou utilidade pública, ou por interesse social, mediante justa e prévia indenização em dinheiro ressalvados os casos previstos nesta Constiuição
+    - `Inc. XXV` Requisição Administrativa: No caso de iminente perigo público, a autoridae competente poderá usar de propriedade particular, assegurada ao proprietário indenização ulterior, se houver dano.
+        - **OBS:** Não confundir Desapropriação com Requisição administrativa!
+    - `Inc. XXXIV`**(um dos que mais caem)**: São a todos assegurados, independetemente do pagamento de taxas:
+        `a)` o direito de `Petição` aos poderes públicos em defesa de direitos ou contra ilegalidade ou abuso de poder
+        `b)` a obtenção de `Certidões` em repartições públicas, para defesa de direitos e esclarecimento de situações de interesse pessoal 
+    - `Inc. XXXXVIII`: É reconhecida a instituição do júri, com a organização que lhe der a lei,  assegurados:
+        `a)` a plenitude de defesa
+        `b)` o sigilo das votações
+        `c)` a soberania dos veredictos
+        `d)` a competência para o julgamento dos crimes dolorosos contra a vida
+        - OBS: Nas provas eles podem trocar a `b)` e a `c)`, fique atento!
+    - `Inc. LXCII`: Não haverá prisão civil por dívida, salvo a do responsável pelo inadimplemento voluntário e inescusável de obrigação alimentícia e a do depositário infiel. Ou seja, não pode prender ninguém por dívida, salvo pensão alimentícia, ou caso vc tenha sido obrigado por lei a guardar algo e tenha danificado ou vendido ou usufruido desse bem.
+    - `Inc. LXXIII`: Qualuqer cidadão é parte legítima para propor ação popular que vise a anular ato lesivo ao patrimônio público ou de entidade de que o Estado participe, à moralidade administrativa, ao meio ambiente e ao patrimônio histórico e cultural, ficando o autor, salvo comprovada má-fé, isento de custas judiciais e do ônus da sucumbência
+
+**Legalidade Constitucional**: 
+
+**Legalidade Administrativa**: Quando as pessoas só estão autorizadas a fazer aquilo que está previsto em lei
+
+#### Remédios Contitucionais
+
+- Dicas de questões:
+    - Se aparecer `certidão` na prova, é `mandado de segurança`
+    - Se aparecer "exercício de direito inviabilizado por falta de norma regulamentadora", é `madado de injunção`
+
+- **Mandado de Injunção:**
+    - Quando uma falta de norma regulamentadora dificulta o exercício dos direitor e liberdade pospostos na Constituição, bem como prerrogativas vinculadas à soberania e cidadania e nacionalidade.
+
+- **Mandado de Segurança:**
+    - Quando o mandado é coletivo, poderá ser imptrado por partido político membro do Congresso Nacional, com a finalidade de preservar direito líquido e certo de dada coletividade 
+
+- **Habeas Corpus:** 
+    - Qualquer pessoa tem a legitimidade par impetrar em favor do reu
+    - Repressivo
+    - Suspensivo
+    - Preventivo
+
+- **Habeas Data:** é a medida judicial que você toma quando lhe é negada a disponibilidade ou retificação (modificação) de todas as informaçoes existentes acerca de sua pessoa
+
+- **Ação popular:** 
+    - Só pode ser ajuizada por cidadão para impugnar ato lesivo ao patrimônio público, seja no aspecto legal ou moral 
+
+#### Direitos Sociais
+
+`Art. 6o`**(um dos que mais caem)**: São direitos sociais a educação, a saúde, a alimentação, o trabalho, a moradia, o transporte, o lazer, a segurança, a previdência social, a proteção à maternidade e à infância, a assistência aos desamparados, na forma desta Constituição.
+- **OBS:** 
+    - Nunca será `jurídico`, sempre será `público`
+    - Sempre será `previdência` social, nunca qualquer outra coisa, tipo assistência
+    - É proteção à `maternidade`, nao é juventude
+
+    - **Parágrafo Único:** Todo brasileiro em situação de `vulnerabilidade social` terá direito a uma `renda básica familiar`, garantida pelo poder público em programa `permanente` de transferência de renda, cujas normas e requisitos de acesso serão determinados em lei, observada a legislação fiscal e orçamentária (bolsa família é direito fundamental)
+
+**Princípio da "Proibição de Retrocesso Social"**: Um direito alcançado, não pode ser retrocedido
+ 
+`Art. 7o` Direitos individuais dos trabalhadores: São direitos do trabalhador, urbano e rural, uma relação de emprego protegida contra despedida arbitrária ou sem justa causa e seguro-desemprego, em caso de desemprego involuntário
+- `IV`: Salário mínimo, fixado em lei, nacionalmente unificado, capaz de antender a suas necessidades vitais básicas e às de sua família com moradia, alimentação, educação, saúde, lazer, vestuário, transporte, previdência social com reajustes periódicos que lhe preservem o poder aquisitivo, sendo vedada sua vinculação para qualquer fim (Não pode usar o salário como base de cálculo).
+- `V`: Piso salarial proporcional à extensão e à complexidade do trabalho
+- `XXIX`: Ação, quanto aos créditos resultantes das relações de tragbalho, com prazo prescricional de cinco anos para os trabalhores urbanos e rurais, até o limite de dois anos após a extinção do contrato de trabalho
+- `XXXIII`: Proibição de trabalho noturno, perigoso ou insalubre a menores de dezoito e de qualquer trabalho a menores de dezesseis anos, salvo na condição de aprendiz, a partir de quatroze anos.
+
+`Art. 8o`: É livre a associação profissional ou sindical, observado o seguinte:
+- `VIII`: É vedada a dispensa do empregado sindicalizado a partir do registro da candidatura a cargo de direção ou representação sindical e, se eleito, ainda que suplente, até um ano após o final do mandato, salvo se cometer falta grave nos termos da lei
+- É vedada a criação de mais de uma organização sindical na mesma base territorial, que será definida pelos trabalhadores ou empregadores interessados, não podendo ser inferior à área de um Município. Ao sidicato, cabe a defesa dos direitos e interessos coletivos ou individuais da categoria, inclusive em questões judiciais ou administrativas
+- Ninguém será obrigado a filiar-se ou a manter-se  filiado a sindicato.
+- É obrigatória a participação dos sindicatos nas negociações coletivas de trabalho.
+
+`Art. 9o`: É assegurado o direito de greve, competindo aos trabalhores decidir sobre a oportunidade de exercê-lo e sobre os interesses que devam por meio dele defender.
+- `1o)` A lei definirá os serviços ou atividades essenciais e disporá sobre o atendimento das necessidades inadiáveis da comunidade
+
+`Art. 10o`: É assegurada a participação dos trabalhadores e empregadores nos colegiados dos órgãos públicos em que seus interesses profissionais ou previdenciários sejam objeto de discussão e deliberação.
+
+`Art. 11o`: Nas empresas de mais de 200 empregados, é assegurada a eleição de um representante destes com a finalidade exclusiva de promover-lhes o entendimento direto com os empregadores. 
+
+#### Direitos de Nacionalidade
+
+`Art 12o`: São brasileiros natos:
+- `Inc. I`: 
+    - Os nascidos na República Federativa do Brasil, ainda que de pais estrangeiros, desde que estes não estejam a serviço de seu país (Critério Jus Soli)
+        - Exceção: Pai + Mãe serem estrangeiros e pelo menos um deles estar a serviço do governo do país de origem.
+    - Os nascidos no estrangeiro de pai brasileiro ou de mãe brasileira venham a residir na República Federativa do Brasil e optem, em qualquer tempo, depois de atingida a maioridade, pela nacionalidade brasileira
+- `Inc. II`: São brasileiros Naturalizados
+    - Nacionalidade Derivada Ordinária: Os que, na forma da lei, adquiram a nacionalidade brasileira, exigidas aos originários de países de língua portuguesa apenas residência por um ano initerrupto e idoneidade moral (Não é definido por lei o que é idoneidade moral, então isso é definido pelo ministro da justiça)
+    - Nacionalidade Derivada Extraordinária: Os estrangeiros de qualquer nacionalidade, residentes na República Federativa do Brasil há mais de 15 anos initerruptos e sem condenação penal, desde que requeiram a nacionalidade brasileira
+- `1o)` Quase nacionalidade ou Português equiparado: Aos portugueses com residência permanente no País, se houver reciprocidade em favor de brasileiros, serão atribuídos os direitos inerentes ao brasileira, solvo os casos previstos nesta Constituição
+- `3o)`: São privativos de brasileiro nato os cargos:
+    - de presidente e vice-presidente da república
+    - de presidente da câmara dos deputados,
+    - de presidente do senado federal
+    - de ministro do supremo tribunal federal
+    - da carreira diplomática
+    - de oficial das forças armadas
+    - de ministro de estado da defesa
+- `4o)`: 
+    - Será declarada a perda da nacionalidade do brasileiro que
+        - tiver cancelada sua naturalização, por sentença judicial, em virtude de atividade nociva ao interesse nacional (Não se aplica ao brasileiro `nato`)
+    - Será declarada a perda da nacionalidade do brasileiro que:
+        - adquirir outra nacionalidade, salvo nos casos:
+            - de reconhecimento de nacionalidade originária pela lei estrangeira
+            - de imposição de naturalização, pela norma estrangeira, ao brasileiro residente em estado estrangeiro, como condiçao para permanência em seu território ou para o exercício de direitos civis
+
+`Art. 13o`: A língua portuguesa é o idioma oficial da República Federativa do Brasil
+- `1o)` São símbolos da República Federativa do Brasil a bandeira, o hino, as armas e os selo nacionais
+- `2o)` Os Estados, o Distrito Federal e os Municípios poderão ter símbolos próprios
 
 ### Regimento Interno da Câmara
 
@@ -694,6 +860,8 @@ Estudar através dos vídeos e exercícios
 - https://www.youtube.com/watch?v=Pfsmaxk0ipo
 - https://www.youtube.com/playlist?-list=PLBKXa8XfK1igcc6FbGh_zBP8NssIPtVWd
 - https://www.youtube.com/watch?v=2kTs_D22q6E&t=17s
+- https://www.youtube.com/watch?v=zDt6FZvKDpQ
+- https://www.youtube.com/watch?v=U1Sweidt0Vs
 
 ### Modelagem de Dados (https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD)
 
@@ -833,7 +1001,7 @@ O MER permite representar de forma abstrata a estrutura que irá constituir o ba
 É composto pelos seguintes objetos:
 
 - **Entidades**: São os `componentes` modelados no banco, elas são ligadas uams às outras por `relacionamentos` que indicam as dependências entre elas.
-    - Representa um tema, tópico ou conceito de negócio
+    - Representa um tema, tópico ou conceito de negócio do mundo real
     - Cada objeto de uma entidade é denominado de `Instância de Entidade`
         - Ex: A `Entidade` Carro pode possuir as `Instâncias de Entidade` Ford, Citroen, etc
     - Uma entidade pode ter existência física ou abstrata
@@ -849,7 +1017,35 @@ O MER permite representar de forma abstrata a estrutura que irá constituir o ba
         - Determinante: Define as instâncias de entidade de uma entidade. Não podem existir duas instâncias de entidade desse tipo com o mesmo valor. Ex: CPF
         - Identificador (Chave): Uma chave identifica uma instância específica na classe de entidade. Ex: CPF
 
-- **Relacionamentos**: São as relações entre as entidades, que indicam as dependências entre elas 
+- **Relacionamentos**: É um `conjunto de registros` (`tuplas`) que represetam um modelo de uma entidade.
+- Cada `registro` representa uma instância de entidade, e o conjunto de todas as instâncias, com seus atributos, é chamado de `Relação`
+- São as relações entre as entidades, que indicam as dependências entre elas 
+- Toda `relação` possui:
+    - `Linhas`: Contém dados sobre intâncias de uma entidade (registros)
+    - `Colunas`: Contém dados sobre atributos da entidade (campos)
+    - Cada célula da tabela armazena um único valor
+    - Todos os valores em uma coluna são do mesmo tipo (domínio)
+    - Cada coluna possui um nome único
+    - Não há duas linhas idênticas. Caso isso aconteça, há duplicação de dados.
+    - As relações geralmente geram tabelas no banco
+    - Toda Relação é uma tabela, mas nem toda tabela é uma relação
+
+**Add Img aqui**
+
+- As Entidades podem ser conectadas entre si por meio de `Relacionamentos`, que é uma estrutura que indica a associação de elementos de uma ou mais entidades
+- Como os dados de diferentes entidades são armazenados em tabelas distintas, geralmente precisamos combinar duas ou mais tablelas para responder às perguntas específicas dos usuários
+- Por exemplo, quero saber quais produtos um usuário x comprou, pra isso eu preciso de um relacionamento entre a entidade Usuário e a entidade Produto
+
+**Grau de Relacionamento**:
+- O grau de um relacionamento defino número de entidades que participam do relacionamento. Assim, um relacionamento pode ser:
+    - Unário (Auto relacionamento, ou Recursivo)
+    - Binário
+    - Ternário
+
+**Efetuando relacionamento entre múltiplas tabelas**
+- Cada linha de dados em uma tabela deve ser identificada de forma única usando-se uma Chave Primária
+- Usamos uma Chave Estrangeira para relacionar os dados entre múltiplas tabelas
+- Usamos para isso o relacionamento entre chave primária de uma tabela com a chave estrangeira em outra tabela
 
 Diagramas são criados para representar graficamente entidades, atributos e relacionamentos, denominados `DER (Diagramas Entidade-Relacionamento)`.
 Os componentes do DER são:
@@ -1189,7 +1385,7 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
     - Grupo
     - Anotações
 
-### Design Patterns
+### Design Patterns (GOF)
 
 Os Design Patterns (Padrões de Projeto) são soluções reutilizáveis para problemas comuns que surgem durante o desenvolvimento de software. Eles fornecem diretrizes e abstrações que ajudam a estruturar e organizar o código de maneira eficaz. Existem três categorias principais de Design Patterns: Padrões de Criação, Padrões Estruturais e Padrões Comportamentais. Vamos explorar cada uma delas:
 
@@ -1266,6 +1462,184 @@ Existem 11 padrões:
 7. **Memento:** Captura e restaura o estado interno de um objeto. Permite salvar e restaurar o estado anterior de um objeto sem revelar os detalhes de sua implementação 
 - Dicas de questões:"
     - Sempre que tiver as palavras "capturar e externalizar um estado interno" ou "restaurar o estado de um objeto" geralmente é Memento
+
+### GRASP (General Responsibility Assisgnment Software)
+
+Os padrões GRASP consistem de um conjunto de práticas para atribuição de responsabilidades a classes e objetos em projetos orientados a objeto.
+Os padrões são:
+
+1. Controller (MVC)
+2. Criator (Factory Method)
+3. Indirection
+4. Information Expert
+5. High Cohesion
+6. Loose Coupling
+7. Polymorphism
+8. Protected Variations
+9. Pure Fabrication
+
+### Gestão de Projetos (PMBOK)
+
+#### Dicas de Questões
+
+- Saber as siglas:
+    - `PMI`: Organização Internacional de Gestão de Projetos
+    - `PMBOK`: Guia publicado pelo PMI 
+    - `PMP`: Profissional com certificado de gerente de projeto
+    - `PMO`: Escritório de projetos
+
+#### Gestão de Projetos
+
+- A aplicaçao de conhecimentos, habilidades, ferramentas e técnicas às atividades do projeto para cumprir os requisitos definidos, O gerenciamento de projetos refere-se a orientar o trablaho do projeto para entregar os resultados pretendidos.
+- Pode ser dividido em 3 categorias:
+
+**Projeto**
+
+- É um esforço `temporário` empreendido para criar um produto, serviço ou resultado `único`
+- Não significa que é `curto prazo`
+- Projetos impulsionam mudanças e devem auxiliar na `implantação da estratégia`
+- Projetos possuem algum nível de restrição sempre
+- Projetos desenvolvem-se em fases ou ciclos de vida
+- Projetos são diferentes de `processos`, pois tratam-se `agregação de atividades` e comportamentos executados para alcançar um ou mais resultados
+
+**Programa**
+
+- Um grupo `relacionado de projetos`, subprogramas e atividades de programa gerenciados de forma coordenada para a obtenção de benefícios que não estariam disponíveis se eles fossem gerenciados individualmente
+
+**Portfólio**
+
+- Projetos, programas, subportfólios e operações gerenciadas em grupo para alcançar objetivos estratégicos
+
+#### Restrições presentes na gestão de projetos
+
+- As restrições são `circunstâncias que afetam as entregas de um projeto`. As restrições podem assumir a forma de datas de entrega fixa, conformidade com códigos regulatórios, orçamentos predeterminados, políticas de qualidade, considerações sobre o tripé da sustentabilidade, dentre outras. Algumas restrições são:
+    - Escopo (Conjunto de entregas de um projeto)
+    - Tempo
+    - Custo
+    - Recursos
+    - Riscos
+    - Critérios de governança organizacional
+
+#### Gerindo riscos em projetos
+
+**Risco**
+
+- É um evento ou condição `incerta` que, se ocorrer, provocará um efeito `positivo ou negativo` em um ou mais objetivos do projeto
+- O risco ao longo do projeto vai `diminuindo`
+
+Existem 4 estratégias para prevenção de riscos:
+
+- **Prevensão**: É uma estratégia de resposta ao risco em que a equipe do projeto age par `eliminar a ameaça` ou `proteger o projeto` contra seu impacto
+- **Transferência**: É uma estratégia de resposta ao risco em que a equipe do projeto `transfere o impacto` de uma ameaça para terceiros, juntamente com a resposabilidade pela sua reposta
+- **Mitigação**: É uma estratégia de resposta ao risco em que a equipe do projeto age para `reduzir a probabilidade de ocorrência, ou impacto do risco`
+- **Aceitação**: É uma estratégia de resposta pela qual a equipe do projeto `decide reconhecer a existência do risco e não agir`, a menos que o risco ocorra.
+
+#### Gerindo o escopo e mudanças nos projetos
+
+- Controlar o escopo é o processo de monitoramento do progresso do escopo do projeto e do escopo do produto e `gerenciamento das mudanças` feitas na linha de base do escopo. O principal benefício deste processo é permitir que a linha de base do escopo seja mantida ao longo de todo o projeto.
+- O custo de mudança vai `aumentando` ao longo do projeto
+- Os `níveis de influência` dos stakeholders `diminuem` à medida que os custos de mudança aumentam
+
+#### Ciclo de vida de um projeto
+
+- Ciclo de vida do projeto é uma série de fases pelas quais um projeto passa desde seu início até sua conclusão
+- Um projeto passa por 4 fases dentro de um ciclo de vida:
+    - Início
+    - Organização / Preparação
+    - Execução
+    - Término do projeto
+
+**Grupos de processos de gerenciamento de projetos**
+
+No PMBOK 6a edição, temos 49 processos de gestão de projetos divididos em 5 grupos de processos:
+- **Iniciação**: Ocorre no ínicio do ciclo de vida
+    - **Termo de abertura do projeto (TAP)**: documento emitido pelo patrocinador do projeto que autoriza formalmente a sua existência e fornece ao gerente de projetos a autoridade para aplicar recursos organizacionais nas atividades do projeto.
+- **Planejamento**: Ocorre no período de organizaçao do ciclo de vida.
+    - **Estrutura Analítica do Projeto (EAP)**: O processo de subdividir as entregas e o trabalho do projeto em componentes menores e mais facilmente gerenciáveis. Todo o trabalho nos níveis mais baixos tem que escalar aos níveis mais altos para que nada seja omitido e nenhum trabalho extra seja executado.
+- **Execução**: Ocorre no período de execução do ciclo de vida
+- **Monitoramento e controle**: Ocorre ao londo de todo o ciclo de vida
+- **Encerramento**: Ocorre no término do projeto
+
+#### PMBOK 7
+
+
+### Scrum
+
+- Framework para desenvolver, entregar e manter produtos complexos
+- Consiste de times Scrum associados a papéis, eventos, artefatos e regras
+- Ideal para times pequenos
+- Ele não é somente uma metodologia ágil de `desenvolvimento`, ele serve para gerenciar projetos de maneira geral
+
+**Time Scrum**
+- Consiste em um Product Owner, o Time de Desenvolvimento e um Scrum Master
+- Auto-organizáveis e multifuncionais
+- Entregam produtos de forma iterativa e incremental
+
+#### Sprints
+- Os processos são divididos em ciclos chamados de `sprints`
+- Eh o intervalo de tempo em que será criado um incremento de produto
+- Cada sprint possui prazos e objetivos específicos
+- Cada sprint contem: planejamento da Sprint, reuniões diárias, desenvolvimento, revisão da Sprint e retrospectiva da Sprint
+- O escopo pode ser clarificado e renegociado entre o Product Owner e o Time de Desenvolvimento quanto mais for aprendido
+- Somente o `Product Owner` tem a autoridade para cancelar a Sprint
+- A sprint poderá ser cancelada se o objetivo da sprint se tornar obsoleto
+- Todos os itens de Backlog do Produto incompletos são reestimados e colocados de volta no Backlog do Produto
+
+**Planejamento da Sprint**
+
+- Define o trabalho a ser realizado na Sprint
+- *time-boxed* com no máximo oito horas para uma Sprint de um mês de duração
+- O que pode ser entregue como resultado do incremento da próxima Sprint?
+- Como o trabalho necessário para entregar o incremento será realizado?
+
+**Reunião Diária**
+
+- Evento de 15 min para o time de desenvolvimento
+- Planeja o trabalho para as próximas 24 hrs
+- O que eu fiz ontem que ajudou o Time de Dev a atingir a meta da Sprint?
+
+**Ciclo Scrum**
+
+Product backlog -> Sprint backlog -> 2-4 semanas (dailies) -> Incremento entregável do produto
+
+**Revisão da Sprint**
+
+- Realizada no final da Sprint para inspecionar o incremento e adaptar o Backlog do Produto se necessário
+- O time Scrum e as partes interessadas colaboram sobre o que foi feito
+- O resultado da Revisão da Sprint é um Backlog do Produto revisado que define os prováveis itens de Backlog do Produto para a próxima Sprint
+
+**Retrospectiva da Sprint**
+
+- Oportunidade para Time Scrum inspecionar a si próprio e criar um plano para melhorias a serem aplicadas na próxima Sprint
+- Ocorre depois da Revisão da Sprint e antes do planejamento da próxima Sprint
+- Ao final da Retrospectiva da Sprint, o Time Scrum deverá ter identificado melhorias que serão implementadas na próxima Sprint
+
+#### Papéis
+
+**Product Owner**
+
+- Expressar claramente os itens do Backlog do Produto
+- Ordenar os itens do Backlog do Produto para alcançar melhor as metas e missões
+- Otimizar o valor do trabalho que o Time de Desenvolivmento realiza
+- Garantir que o Backlog do Produto seja visível, tranparente, claro para todos, e mostrar o que o Time Scrum vai trabalhar a seguir
+- Garantir que o Time de Desenvolvimento entenda os itens do Backlog do Produto no nível necessário
+
+**Scrum Master**
+
+- Servidor líder
+- Garante que as cerimônias sejam realizadas
+
+**Time de Desenvolvimento**
+
+- Auto-organizados
+- Multifuncionais
+- Não reconhece títulos para os integrantes
+- Não reconhece sub-times
+- Responsabilizaçao do time como um todo
+
+### CObiT 2019
+
+
 
 <div id='id-arc-infra'/>
 
@@ -1391,6 +1765,77 @@ Objetos de computador são entidades de segurança que representam computadores 
 **Contêiner Computadores**
 
 O contêiner Computadores é um local padrão em um domínio do AD DS onde as contas de computador são armazenadas quando ingressam no domínio. Ele não é uma Unidade Organizacional (UO), mas sim um tipo de contêiner. Embora pareça semelhante a uma UO, existem diferenças importantes. Você não pode criar UOs dentro do contêiner Computadores nem vincular Objetos de Política de Grupo a ele. Portanto, é aconselhável criar UOs personalizadas para hospedar objetos de computador em vez de usar o contêiner Computadores.
+
+### SQL (Structured Query Language)
+
+- É uma linguagem `declarativa`
+    - Não é uma linguagem `estruturada` nem `procedural`
+- Permite:
+    - Definição da estrutura de dados
+    - Modificações e consultas aos dados
+    - Especificação de Restrições de Segurança
+    - Criação de diferentes planos de execução
+- SQL define 3 classes de `tipos de dados`:
+    - Pré-definidos:
+        - CHARACTER 
+        - CHARACTER VARYING
+        - CHARACTER LARGE OBJECT
+        - BINARY LARGE OBJECT
+        - NUMERIC
+        - DECIMAL
+        - SMALLINT
+        - INTEGER
+        - BIGINT
+        - FLOAT
+        - REAL
+        - DOUBLE PRECISION
+        - BOOLEAN
+        - DATE
+        - TIME
+        - TIMESTAMP
+        - INTERVAL
+    - Construídos:
+        - ARRAY
+        - MULTISET
+        - REF
+        - ROW
+    - Definidos pelo usuário (Domínio)
+
+#### **DDL**
+
+**Create Table e Uso de *not null***
+
+```SQL
+CREATE TABLE Cliente(
+    cod_cliente numeric(5) not null,
+    nome_cliente varchar(30) not null,
+    tel_cliente varchar(20)
+)
+```
+
+**Create Domain**
+
+```SQL
+CREATE DOMAIN tipo_nome
+    varchar(30)
+
+CREATE TABLE Cliente(
+    cod_cliente numeric(5) not null,
+    nome_cliente tipo_nome,
+    tel_cliente varchar(20)
+```
+
+**Valores *default***
+
+```SQL
+CREATE TABLE Cliente(
+    cod_cliente numeric(5) not null,
+    nome_cliente varchar(30) not null,
+    tel_cliente varchar(20),
+    saldo numeric(7,2) not null default 0
+) 
+```
+No `numeric(7,2)` o 7 representa a quantidade de casas máximas antes da vírgula e o 2 representa a qnt de casas depois da vírgula
 
 <div id='id-sec-info'/>
 

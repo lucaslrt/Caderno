@@ -970,16 +970,17 @@ Subjetivo, Orgânico e Formal:
 ### Material de Estudo
 
 - https://www.youtube.com/watch?v=6RoRJ4wb6Kg
+- https://www.youtube.com/watch?v=5KvrP7CHoaY 
 
 ### Planejamento e Orçamento na Constituição Federal
 
 0. Introdução
 
-- PPA, LDO, LOA -> instrumentos de planejamento e orçamento
+- PPA, LDO, LOA -> instrumentos de planejamento e orçamento `integrados`
 - Cada estado e município possui um PPA, uma LDO e uma LOA
 - Cada ente faz suas leis orçamentárias (sentido amplo)
-- Cada lei constitui etapa DISTINTA, mas INTEGRADA -> Planejamento estrutural das ações governamentais.
-- Art. 165 da CF (Const. Fed.)88 deixa clara essa integração (Leis de iniciativa do Executivo estabelecerão o PPA, a LDO e a LOA)
+- Cada lei constitui etapa `DISTINTA`, mas `INTEGRADA` -> Planejamento estrutural das ações governamentais.
+- `Art. 165 da CF/88` deixa clara essa integração (Leis de iniciativa do Executivo estabelecerão o PPA, a LDO e a LOA)
 - CF/88: criou a PPA e a LDO, integrando plano e orçamento. Antigamente havia o OPI (Orçamento Plurianual de Investimentos).
 
 1. Plano Plurianual - PPA
@@ -987,10 +988,157 @@ Subjetivo, Orgânico e Formal:
 - Quem comanda a lógica orçamentária
 - Cada PPA possui uma vigência de 4 anos
 - Em cada ano é criada uma LDO e uma LOA
-- Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:
+- `Art. 165.` Leis de iniciativa do Poder Executivo estabelecerão:
     I. o plano plurianual;
     II. as diretrizes orçamentárias;
     III. os orçamentos anuais.
+- O PPA é um instrumento de planejamento de `médio prazo` (Não é longo prazo!) do Gov Fed que estabelece, de forma `regionalizada`, as diretrizes, os objetivos e as metas da Adm. Pub. Fed. para as despesas de capital e outras delas decorrente e para as relativas aos programas de duração continuada.
+    - `Regionalizada`: compatibilização de recursos disponíveis com o atendimento das necessidades da sociedade no terrtório nacional. Avaliaç~ao regional do gasto.
+    - Regiões se desenvolvem de forma desigual
+
+- `Diretrizes`: Declaração ou conjunto de declarações que orientam os programas abrangidos no PPA. São normas gerais, amplas, estratégicas, que mostram o caminho a ser seguido na gestão dos recursos pelos próximos quatro anos.
+    - São "nortes" a serem seguidos
+- `Objetivos`: O que será perseguido com maior ênfase pelo Governo Ferderal no período do Plano para que, em longo prazo, a visão estabelecida se concretize. É a declaração de resultado a ser alcançado que expressa, em seu conteúdo, o que deve ser feito para a transformação de determinada realidade.
+- `Metas`: Declaração de resultado a ser alcançado, de natureza quantitativa ou qualitativa, que contribui para o alcane do objetivo
+
+Exemplo 1:
+**Add img aqui**
+
+Exemplo 2:
+**Add img aqui**
+
+- `Despesas de Capital`: Contribuem, diretamente, para a formação ou aquisição de um bem de capital
+- `Despesas decorrentes`: Despesas correntes que decorrem das despesas de capital
+    - Quais as despesas para manter o capital?
+
+- `Programas de duração continuada`: Na prática, há uma interpretação restritiva para que sejam consideradas apenas `ações finalísticas`
+    - Não se obriga a presença de todos os programas de duração continuada, como aqueles relacionados às atvs-meio da Adm. Pub.
+
+- `Art. 167o CF/88`
+    - `Par. 1o`: Nenhum investimento cuja execução ultrapasse um exercício financeiro poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize a inclusão, sob pena de crime de responsabilidade
+        - Em resumo para começar algum investimento de médio prazo, é necessário que ele esteja no PPA, caso não esteja, será crime de responsabilidade
+
+- `Prazos do PPA`:
+    - Cada sessao tem o prazo de 1 ano, com 2 períodos dentro da sessão. Cada período tem 4 meses de duração
+    - `Art. 35, Par. 2`: I - o projeto do plano plurianual, para vigência até o final do primeiro exercício financeiro do mandato presidencial subsequente, será encaminhado até quatro meses antes do encerramento do primeiro exercício financeiro e devolvido para sanção até o encerramento da sessão legislativa.
+    - O presidente manda o projeto de PPA no primeiro ano de mandato e executa o 4o ano do PPA anterior
+
+- `Programas`: Conjunto de políticas públicas financiadas por ações orçamentárias e não orçamentárias (após diretrizes)
+- Instrumento de organização da ação governamental visando à concretização dos objetivos pretendidos, sendo mensurado por indicadores estabelecidos no plano plurianual
+    - `Programas Finalísticos`: São programas que visam trazer um bem, ou um serviço à sociedade, o foco é alteração da realidade, solucionar problemas sociais
+    - `Programas de Gestão`: São programas para gestão e manutenção do próprio Estado
+
+2. Planos e Programas Nacionais, Regionais e Setoriais
+
+- `Art. 165, Par. 4`: Os planos e programasa nacionais, regionais e setoriais previstos nesta Constituição serão elaborados em consonância com o Plano plurianual e apreciados pelo Congresso Nacional
+    - Muitas vezes têm duração superior ao PPA, porque são de `longo prazo`, como o Plano Nacional de Educação
+    - A regionalização prevista na CF considera as diferenças e desigualdades existentes no território brasileiro
+    - Ainda que de duração superior, devem ser elaborados em consonância com o PPA, de duração inferior
+
+3. Lei de Diretrizes Orçamentárias (LDO)
+
+- Elo entre o planejamento estratégico (PPA) e o planejamento operacional (Lei Orçamentária Anual)
+
+- `Art. 65, Par. 2o`: A lei de diretrizes orçamentárias compreenderá as `metas e prioridades` da administração pública federal, estabelecerá as diretrizes de política fiscal e respectivas metas, em consonância com trajetória sustentável da dívida pública, orientará a elaboração da lei orçamentária anual, disporá sobre as alterações na legislação tributária e estabelecerá a política de aplicação das agências financeiras oficiais de fomento.
+    - Compreenderá as metas e prioridades da adm. púb. fed
+    - Estabelecerá as diretrizes de política fiscal e respectivas metas, em consonância com trajetória sustentável da dívida pública
+    - Orientará a elaboração da LOA
+    - disporá sobre as alterações na legislação tributária
+    - Estabelecerá a política de aplicação das agências financeiras oficiais de fomento
+        - Controle de gastos das agências que fomentam o desenvolvimento do país (bancos estatais ou mistos)
+    - As emendas parlamentares destinadas à modificação do PLDO não poderão ser aprovadas se forem incompatíveis com a PPA. 
+
+- `Prazos da LDO`
+    - `Art. 35, Par. 2o, Ins II, ADCT`: O projeto de lei de diretrizes orçamentárias será encaminhado até oito meses e meio antes do encerramento do exercício financeiro e devolvido para sanção até o encerramento do `1o período da sessão legislativa`
+
+- `Art. 165`:
+    - `Par. 10`: A administração tem o dever de executar as programações orçamentárias, adotando os meios e as medidas necessárias, com o propósito de garantir a efetiva entrega de bens e serviços à sociedade.
+    - `Par. 11`: O disposto no `Par. 10` deste artigo, nos termos da LDO:
+        - Subordina-se ao cumprimento de dispositivos constitucionais e legais que estabeleçam metas fiscais ou limites de despesas e não impede o cancelamento necessário à abertura de créditos adicionais
+        - Não se aplica nos casos de impedimentos de ordem técnica devidamente justificados
+        - Aplica-se exclusivamente às despesas primárias discricionárias
+    - `Par. 12` Integrará a LDO, para o exe4rcício a que se refere e, pelo menos, para dois exercícios subsequentes, anexo com previsão de agregados fiscais e a proporção dos recursos para investimentos que serão alocados na LOA para a continuidade daqueles em andamento.
+    - `Par. 13`: O disposto acima aplica-se exclusivamente aos orçamentos fiscal e da seguridade social da União 
+
+    **Add img aqui (trevo)**
+
+4. Lei Orçamentária Anual (LOA)
+
+- Instrumento pelo qual o Poder Público `prevê a arrecadação de receitas e fixa a realização de despesas` para o `período de um ano`. A LOA é o orçamento por excelência ou o orçamento propriamente dito.
+- As despesas executadas pelos diversos órgãos públicos não podem ser desviadas do que está autorizado na LOA, tampouco podem conflitar com o interesse público.
+- A finalidade da LOA é a concretização dos objetivos e metas estabelecidos no PPA.
+- Orientada pelas diretrizes, objetivos e metas do PPA, compreende as ações a serem executadas, seguindo as metas e prioridades estabelecidas na LDO 
+
+- `Prazos da LOA`
+    - `ADCT, Art. 35, Par. 2o, III`: O projeto de lei orçamentária da União será encaminhado até quatro meses antes do encerramento do exercício financeiro e devolvido para sanção até o encerramento da sessão legislativa
+
+- `Art. 165`
+    - `Par. 5`: A lei orçamentária anual compreenderá:
+        - I. `O orçamento fiscal` referente aos Poderes da União, seus fundos, órgãos e entidades da administração `direta e indireta`, inclusive fundações instituídas e mantidas pelo Poder Público.
+        - II. `O orçamento de investimento` das empresas em que a União, direta ou indiretamente, detenha a maioria do capital social com diretio a voto.
+        - III. `O orçamento da seguridade social`, abrangendo todas as entidades e órgãos a ela vinculados, da administração direta ou indireta, bem como os fundos e fundações intituídos e mantidos pelo Poder Público
+    - `Par. 6o`: O projeto de lei orçamentária será acompanhado de `demonstrativo regionalizado do efeito`, sobre as receitas e despesas, decorrente de isenções, anistias, remissões, subsídios e benefícios de natureza financeira, tributária e creditícia. 
+    - `Par. 7o`: Os orçamentos previstos no `Par. 5o`, I e II, deste artigo, compatibilizados com o plano plurianual, terão entre suas funções a de `reduzir desigualdades inter-regionais`, segundo critério populacional.
+    - `Par. 8o`: A lei orçamentária anual `não conterá dispositivo estranho à previsão da receita e à fixação da despesa`, não se incluindo na proibição a autorização para abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei.
+    - `Par. 14o`: A lei orçamentária anual `poderá conter previsões de despesas para exercícios seguintes`, com a especificação dos investimentos plurianuais e daqueles em andamento.
+
+- `Art. 167`: São vedados:
+    - I. O início de programas ou projetos não incluídos na lei orçamentária anual
+    - II. A realização de despesas ou a assunção de obrigações diretas que excedam os créditos orçamentários ou adicionais
+    - VII. A concessão ou utilização de créditos ilimitados.
+
+5. Princípios Orçamentários
+
+**Princípio da Universalidade**
+- `Art. 2o`: A Lei do Orçamento conterá a discriminação da receita e despesa de forma a evidenciar a política econômica financeira e o programa de trablaho do Governo, obedecidos os princípios de `u`nidade, `u`niversalidade e `a`nuidade. (UAU)
+- Universalidade: Todas as receitas e despesas dentro da LOA
+    - Exemplo: Um prefeito achou que não iria arrecadar em algum âmbito e daí deixou de fora da LOA. Questão Errada! Tudo tem que estar dentro da LOA
+    - Exceção: Tributos criados/majorados após a elaboração da LOA e antes do início do exercício financeiro
+
+**Princípios da Unidade e da Totalidade**
+- `Unidade`: O orçamento deve ser uno. Objetiva eliminar a existência de orçamentos paralelos e permite ao Poder Legislativo o controle racional e direto das operações financeiras de responsabilidade do Executivo.
+    - É a junção de todos os orçamentos
+- `Totalidade`: Remodelação pela doutrina do princípio da unidade. Trata sobre a coexistência de múltiplos orçamentos que, entretanto, devem sofrer `consolidação` (Se tornarem um único)
+    - São os pequenos orçamentos de cada orgão ou setor público (Universidades, Municípios, Estados, etc)
+
+**Princípio da Anualidade ou Periodicidade**
+- `L 4320/64 Art. 34` **Anualidade Orçamentária**: O exercício financeiro coincidirá com o ano civil.
+    - É conhecido também como princípio da periodicidade, no sentido de que o orçamento deve ter vigência limitada a um exercício financeiro.
+- `Art. 167, Par. 1o`: Nenhum investimento cuja execução `ultrapasse um exercício financeiro` poderá ser iniciado sem prévia inclusão no plano plurianual, ou sem lei que autorize a inclusão sob pena de crime de reponsabilidade.
+    - Exceção: `Par. 2o`: Os créditos especiais e extraordinários terão vigência no exercício financeiro em que forem autorizados, salvo se o ato de autorização `for promulgado nos últimos quatro meses daquele exercício`, caso em que, reabertos nos limites de seus saldos, serão incorporados ao orçamento do exercício financeiro subsequente.
+
+- `Súmula 66, STF` **Anualidade Tributária**: Necessidade de autorização na LOA para arrecadar tributos (Não tem mais vigência)
+
+- **Anterioridade Tributária**: Proibido cobrar tributos no mesmo exercício em que tenham sido criados ou majorados (Não cai na prova, se cair vai ser falso)
+
+**Princípio do Orçamento Bruto**
+- Veda que as despesas ou receitas sejam incluídas no orçamento ou em qualquer das esepécies de créditos adicionais nos seus `montantes líquidos`.
+- `Art. 6o`: Todas as receitas e despesas constarão da Lei de Orçamento pelos seus totais, `vedadas quaisquer deduções`
+    - `Par. 1o`: As cotas de receitas que uma entidade pública deva transferir a outra incluir-se-ão, como despesa, no orámento da entidade obrigada a transferência e, como receita, no orçamento da que as deva receber
+
+- Dica de questão:
+                                  Na LOA (Universalidade)
+                                /
+- Todas as Receitas e Despesas. ---- Em uma única LOA (Unidade)
+                                \ 
+                                  Na Loa, vedadas quaisquer deduções (Orçamento Bruto)
+
+**Princípio da Especificação ou Discriminação ou Especialização**
+- As receitas e despesas devem ser discriminadas, demonstrando a origem e a aplicação dos recursos.
+- Tem o objetivo de `facilitar a função de acompanhamento e controle do gasto público` por toda a sociedade, evitando a chamada "ação guarda-chuva", que é aquela ação genérica, mal especificada, com demasiada flexibilidade.
+- `Lei 4320/64 Art. 5o`: A Lei de Orçamento `não consignará dotações globais` destinadas a atender indiferentemente a despesas de pessoal, material, serviços de terceiros, transferências ou quaisquer outras, ressalvado o disposto no artigo 20 e seu parágrafo único.
+
+- **Exceções ao Princípio da Especificação**
+    - `Programas Especiais de Trabalho`: Aqueles que, por sua natureza, não possam cumprir-se subordinadamente às normas gerais de execução da despesa (`Art. 20, Par. único, L. 4320/64`)
+        - Sao chamados de `despesas de capital` ou `investimentos em regime de execução especial`
+    - `Reserva de Contingência`: `Art. 91`: Sob a denominação de Reserva de Contingência, o orçamento anual poderá contre dotação global, não especificamente destinada a determinado órgão, unidade orçamentária, programa ou categoria econômica, cujos recursos serão utilizados para abertura de créditos adicionais.
+        - De acordo com a LRF, essa reserva também atenderá os `passivos contingentes` (eventos incertos futuros)
+
+**Princípio da Exclusividade**
+- Surgiu para evitar que o orçamento fosse utilizado para aprovação de matérias sem nenhuma pertinência com o conteúdo orçamentário, em virtude da celeridade do seu processo.
+- Determina que a Lei Orçamentária `não poderá conter matéria estranha à previsão das receitas e à fixação das despesas`
+- `Art. 165o, Par. 8o`: A lei orçamentária anual não conterá dispositivo estranho à previsão da receita e à fixação da despesa, não se incluindo na poibição a autorização para abertura de créditos suplementares e contratação de operações de crédito, ainda que por antecipação de receita, nos termos da lei.
+
 
 <div id='id-logica'/>
 
@@ -1017,7 +1165,7 @@ Estudar através dos vídeos e exercícios
 - https://www.youtube.com/watch?v=zDt6FZvKDpQ
 - https://www.youtube.com/watch?v=U1Sweidt0Vs
 
-### Modelagem de Dados (https://www.youtube.com/playlist?list=PLucm8g_ezqNoNHU8tjVeHmRGBFnjDIlxD)
+### Modelagem de Dados
 
 **Dicas de Questões:**
 - Sempre que tiver as frases: 
@@ -1045,6 +1193,7 @@ Exemplo:
 - **Abstração:** se refere à supressão de detalhes da organizaç~ao e do armazenamento de dados, descartando par um melhor conhecimento desses dados os recursos essenciais.
 - **Modelo de dados:** se refere a uma coleção de conceitos que podem ser utilizados para descrever a estrutura de um banco de dados, oferencedo os meios necessários para alcançar essa abstração.
 - **Instância**: refere-se aos dados e metadados e usuários presentes no servidor de dados em um determinado instante.
+- **Domínio**: Domínio representa o tipo de dado (se é número, se eh data, se é string, etc) e qual o tamanho desse dado
 
 #### Dados x Informação
 
@@ -1145,6 +1294,42 @@ Alguns tipos de chaves são:
 - **Chave-estrangeira:** É um atributo utilizado por uma outra tabela que está referenciando a tabela atual, ou seja, está preferencialmente referenciando a chave primária, mas pode estar referenciando chaves candidatas também.
     - Uma chave estrangeira pode apontar para a chave primária da própria tabela, o que é chamado de `auto relacionamento` ou `relacionamento unário`
     - O conceito de `integridade referencial` é usualmente implementado por meio das chaves estrangeiras que servem como restrições (constraints)
+- **Chave Composta**: Chave que é composta de dois ou mais atributos (colunas)
+    - Geralmente empregada quando não é possível utilizar uma única coluna de uma tabela para identificar de forma exclusiva seus registros
+- **Chave Surrogada (Substituta)**: Valor numérico, único, adicionado a uma relação para servir como chave primária
+    - Não possui significado para os usuários e geralmente fica escondida nas aplicações
+    - As chaves substitutas são frequentemente usadas no lugar de uma chave primária composta
+
+#### Cardinalidade
+
+- Diz respeito ao número de itens que se relacionam nas entidades.
+- A cardinalidade pode ser máxima ou mínima, significando respectivamente os número mínimo e máximo de instâncias de cada entidade associadas no relacionamento
+- **Cardinalidade Máxima**: Trata-se do número máximo de instâncias de entidade que podem participar em um relacionamento. Pode ser 1 ou N.
+- **Cardinalidade Mínima**: Número mínimo de instâncias de entidade que devem obrigatoriamente particpar em um relacionamento; zero é participação opcional e um é obrigatória
+
+**Add imgs aqui**
+
+#### Integridade de Dados
+
+- Manutenção e garantia da consistência e precisão dos dados, sendo um aspecto crítico no design, implementação e uso de sistemas de armazenamento de dados
+- A integridade é atingida por meio da aplicação de `Restrições de Integridade`. As restrições são:
+
+    - **Integridade Referencial**: Uma restrição de Integridade Referencial assegura que valores de uma coluna em uma tabela são válidos baseados nos valores em uma outra tabela relacionada
+        - Ex: Se um produto de ID 524 foi cadastrado em uma tabela de Vendas, então um produto com ID 523 deve existir na tabela de Produtos relacionada
+        - **Atualização e Exclusão**: Se um registro for excluído em uma tabela, então os registros relacionados em outras tabelas que o referenciam talvez precisem ser excluídos. O mesmo se dá com a atualização de registros
+
+    - **Integridade de Domínio**: Valores inseridos em uma coluna devem sempre obedecer à definição dos valores que são permitidos para essa coluna - os valores do `domínio`.
+        - Ex: em uma coluna que armazena preços de mercadorias, os valores admitidos são do domínio numérico - ou seja, apenas números
+
+    - **Integridade de Vazio**: Este tipo de integridade informa se a coluna é obrigatória ou opcional - ou seja, se é possível não inserir um valor na coluna.
+        - Uma coluna de chave primária, por exemplo, sempre deve ter dados inseridos, e nunca pode estar vazia, para nenhum registro
+        - **Valores Nulos (NULL)**
+
+    - **Integridade de Chave**: Os valores inseridos na coluna de chave primária (PK) devem ser sempre únicos, não admitindo-se repetições nesses valores.
+        - Desta forma, as tuplas (registros) serão sempre distintas.
+        - Os valores de chave primária também não podem ser nulos
+
+    - **Integridade Definida pelo Usuário**: Diz respeito às regras de negócio específicas que são definidas pelo usuário do banco de dados.
 
 #### MER (Modelo Entidade-Relacionamento)
 
@@ -1194,6 +1379,7 @@ O MER permite representar de forma abstrata a estrutura que irá constituir o ba
 - O grau de um relacionamento defino número de entidades que participam do relacionamento. Assim, um relacionamento pode ser:
     - Unário (Auto relacionamento, ou Recursivo)
     - Binário
+        **Add img aqui**
     - Ternário
 
 **Efetuando relacionamento entre múltiplas tabelas**
@@ -1208,6 +1394,152 @@ Os componentes do DER são:
 - **Elipses**: Represetam atributos
 - **Losangos**: Representam relacionamentos
 - **Linhas**: Ligam atributos a entidades e entidades a relacionamentos
+
+#### Dicionário de dados
+
+- Um dicionário de dados é um documento usado para armazenar informações sobre o conteúdo, formato e a estrutura de um banco de dados, assim como os relacionamentos entre os seus elementos.
+- É importante manter um dicionário de dados para limitar erros ao criar a estrutura física do banco de dados no computador.
+- Também chamado de `Repositório de Metadados`
+
+**Add img aqui**
+
+#### Dependências
+
+**Dependência Funcional**
+- Seja E uma entidade, e X e Y dois atributos quaisquer de E. Dizemos que Y é funcionalmente dependente se X se e somente se cada valor de X tiver associado a ele exatamente um valor de Y.
+Simbolicamente: `X -> Y` (Lê-se: X determina funcionalmente Y)
+
+Ex: O prazo de entrega de um pedido depende do número do pedido considerado:
+
+```Numero_Pedido -> Prazo_Entrega_Pedido```
+
+O atributo que determina o valor é chamdo de `Determinante`. O outro atributo é chamado de `Dependente`.
+Uma chave primária em uma relação determina funcionalmente todos os outros atributos não-chave na linha
+
+- **Dependência Funcional Total**: Em uma relação com uam PK composta, um atributo não-chave que dependa dessa PK como um todo, e não somente de parte dela, é dito como possuindo Dependência Funcional Total.
+
+**Add img aqui**
+
+- **Dependência Fucional Parcial**: Uma dependência funcional é parcial quando os atributos não-chave não dependem funcionalmente de toda a PK quando esta for composta. Ou seja, existe uma dependência funcional, mas somente de uma parte da chave primária.
+
+**ADD img aqui**
+
+- **Dependência Fucional Transitiva**: Ocorre quando um campo não depende diretamente da chave primária da tabela (nem mesmo parcialmente), mas depende de um outro campo não-chave
+
+**Add img aqui**
+
+- **Dependência Funcional Trivial**: Dependência que não pode deixar de ser satisfeita. Uma DF é trivial se o lado direito da expressão é um subconjunto do lado esquerdo.
+    - `A -> B` é uma DF trivial se B for um subconjunto de A
+    - Ex: `{ID_Func, Nome_Func} -> ID_Func`
+
+**Dependência Multivalorada**
+- Ocorre quando, para cada valor de um atributo A, existe um conjunto de valores para outros atributos B e C que estão associados a ele, mas são independentes entre si.
+Simbolicamente é representada assim: `A ->> B` (Lê-se: B depende de A)
+
+**Add img aqui**
+
+#### Normalização
+
+**Anomalias de Atualização**
+
+- Anomalias são problemas que ocorrem em bancos de dados mal planejados e não-normalizados, geralmente ocorrendo por excesso de dados armazenados em uma mesma tabela.
+- São causadas pelas dependências parciais e transitivas.
+- As anomalias de atualização são classificadas em anomalias de `inserção`, de `exclusão` e de `modificação`
+
+- **Anomalia de Inclusão**: Não deve ser possível adicionar um dado a não ser que outro dado esteja disponível. Por exemplo, não deve ser permitido cadastrar um novo livro sem que um autor já esteja cadastrado
+- **Anomalia de Exclusão**: Ao excluirmos um registro, dados referentes em outra tablea são excluídos. Por exemplo, se excluirmos um autor, os livros desde autor devem ser excluídos também.
+- **Anomalia de Modificação**: Ao alterar um dado em uma tabela, dados em outras tabelas precisam ser alterados.
+Por exemplo, se o código de um autor for modificado, esse código deve ser modificado na tabela de autrores e na de livros também, para manter o relacionamento entre livros e seus autores corretos.
+
+Para eliminar essas anomalias, é utilizada a `Normalização`
+
+**Normalização**
+- Normalização consiste em um processo de análise de uma relação para assegurar que seja `bem formada`.
+- Decompor relações com anomalias para produzir relações menores e bem-estruturadas. 
+- Ou seja, em uma relação normalizada, podemos inserir, excluir ou modificar registros sem criar anomalias.
+- O processo de normalização aplica a um esquema de relação uma série de testes para certificar que ele satisfaá uma `Forma Normal` (FN)
+- Existem 3 formas normais
+
+**Objetivos da Normalização**
+- Analisar esquemas de relação (tabelas) com base em suas dependêncais funcionais e chaves primárias para:
+    1. Minimizar redundâncias
+    2. Minimizar anomalias de inserção, exclusão e modificação
+- As relaçoes são decompostas em esquemas de relação menores que tendem aos testes de forma normal.
+- O ideal é que o projeto do banco de dados relacional alcance a FNBC ou a 3a FN para cada tabela
+- Não é adequado normalizar apenas até a 1a FN ou à 2a FN, pois na verdade essas formas normais são usadas para se chegar à 3a FN ou FNBC
+
+**Primeira Forma Normal (1FN)**
+- Definida historicamente para reprovar atributos multivalorados, compostos e suas combinações.
+- O domínio de um atributo deve incluir apenas valores atômicos (indivisíveis), e o valor de qualquer atributo em uma tupla deve ser único valor do domínio desse atributo.
+- Uma tablea está na 1a FN quando:
+    - Somente possui valores atômicos
+    - Não há grupos de atributos repetidos (há apenas um dado por coluna nas linhas)
+    - Existe uma chave primária
+    - Relação não possui atributos multivalorados ou relações aninhadas (tabelas dentro de tabelas)
+- Exemplo, um campo de Endereço possui subdomínios (Rua, número, CEP). Esses itens devem ser separados no processo e normalização.
+- Cada informação deve ser colocada em um campo diferente
+
+**add img aqui**
+**add img aqui**
+
+**Segunda Forma Normal (2FN)**
+- Baseada no conceito de Dependência Funcional Total
+- Um esquema de relação R está na 2FN se cada atributo não-chave de R for total e funcionalmente dependente da PK de R
+- Para testar a 2FN, testamos as dependências funcionais cujos atributos fazem parte da chave primária
+- Caso a PK tenha um único atributo, esse teste não precisa ser aplicado
+- Uma tabela está na 2FN se:
+    - Está na 1FN
+    - Todos os atributos não-chave são funcionalmente dependentes de todas as partes da chave primária
+    - Não existem dependências parciais
+    - Caso contrário, deve-se gerar uma nova tabela com os dados
+    - Deve-se criar uma nova relação para cada chave PK ou combinação de atributos que forem determinantes em uma dependência funcional
+    - Esse atributo será a PK na nova tabela
+    - Mova os atributos não-chave dependentes desta PK para a nova tabela
+
+**Add img aqui**
+**Add img aqui**
+
+**Terceira Forma Normal (3FN)**
+- Baseada no conceito de `Dependência Transitiva`
+    - Uma dependência transitiva em uma tabela é uma dependência funcional entre dois ou mais atributos não-chave
+- A relação não deve ter um atributo não-chave determinado funcionalmente por outro atributo não-chave (ou conjunto)
+- Não deve haver dependência transitiva de um atributo não-chave sobre a PK
+- Deve-se decompor e montar uma nova relação que inclua os atributos não-chave que determinam funcionalmente outros atributos não-chave
+- Uma tabela está na 3FN se:
+    - Estiver na 2FN
+    - Não existirem dependências transitivas
+    - Uma tabela está na 3FN se ela estiver na segunda forma normal e se nenhuma coluna não-chave depender de outra coluna não-chave
+- Para cada atributo (ou grupo) não-chave que for um determinante na relação, crie uma nova tabela
+- Esse atributo será a PK na nova relação.
+- Mova então todos os atributos que são dependentes funcionalmente do atributo chave para a nova tabela
+- O atributo (PK na nova relação) fica também na tabela original, e servirá como uma chave estrangeira para associar as duas relações
+
+**Add img aqui**
+**Add img aqui**
+**Add img aqui**
+
+**FN de Boyce-Codd**
+- A definição original da 3FN de Codd não lidava adequadamente com uma relação que:
+    - Tivesse duas ou mais chaves candidatas
+    - Essas chaves candidatas fossem compostas
+    - Elas tivessem superposição (atributos em comum)
+- Caso a combinação das condições acima não ocorra em uma tabela, basta aplicar a 3FN
+- Uma relação está em FNBC se e somente se os únicos determinantes são `chaves candidatas`
+- Cada relação na FNBC também está na 3FN, mas uma relação na 3FN não necessariamente está na FNBC
+- Quando uma tabela possui mais de uma chave candidata, podem ocorrer anomalias
+- Na FNBC as chaves candidatas não possuem dependências parciais por outros atributos
+- Uma relação (tabela) R está na FNBC sempre que uma dependência funcional não-trivial `X -> A` se mantiver em R, assim X é uma `superchave` de R.
+
+**Add img aqui**
+
+- Para normalizar uma tabalea até a FNBC devemos decompor a tabela com os passos a seguir:
+    - Encontrar uma dependência funcional não-trivial `X -> Y` que viole a condição de FNBC. X não deve ser uma superchave.
+    - Dividir a tabela em duas: Uma com os atributos XY, ou seja, todos os atributos da dependência
+    - Outra com os atributos X juntamente com os atributos restantes da tabela original.
+
+**Add img aqui**
+**Add img aqui**
+**Add img aqui**
 
 #### Operações de BD
 
@@ -1793,7 +2125,27 @@ Product backlog -> Sprint backlog -> 2-4 semanas (dailies) -> Incremento entreg�
 
 ### CObiT 2019
 
+#### Governança Corporativa de Tecnologia e Informação (EGIT)
 
+- A governaça de informação e tecnologia (I&T) pode estar fora do departamento de TI também
+- I&T corporativos engloba toda a informação e tecnologia que:
+    - A organização gera;
+    - Processa;
+    - Usa para alcançar seus objetivos
+
+**Papel da Informação e Tecnologia (I&T)**
+- Fundamental para sustentar a empresa (sustentabilidade)
+- Crucial no suporte
+- Essencial para o cresimento das organizações
+- Hoje as organizações dependem cada vez mais da "digitização" e transformação digital e de um modelo de governaça corporativo alinhado à de I&T
+
+**O que o Cobit faz:**
+- Define e descreve todos os componentes que você precisa para tomada de decisões e quem deve tomar essa decisão
+
+**Add img aqui**
+**Add img aqui**
+
+- O cobit não contradiz orientação nas normas relacionadas
 
 <div id='id-arc-infra'/>
 

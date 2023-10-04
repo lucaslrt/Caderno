@@ -145,7 +145,53 @@ A maioria dos legumes, como o chuchu, tem um gosto suave
 ```
 Nessa frase, legumes é um **hiperonimo** (carater mais geral) e chuchu é um **hiponimo** (carater mais específico), logo, quando é acrescentado um 'como' que no caso seria uma expressão **denotativa** de exemplificação
 
-### Estilos literários
+### Tipologia Textual
+
+- **Descrição**: 
+    - **Temporalidade**: Um único momento no tempo
+    - **Objetivo (intenção do autor)**: `Identificar`, localizar, qualificar objetos, cenas, personagens, paisagens
+    - **Exemplo**: A menina `passeava` pela ca;ada da avenida elegante do bairro e `olhava` as vitrines que `exibiam` uma imensa variedade de roupas elegantes
+    - As ações são marcadas pela `simultaneidade`
+    - `Tempo verbal` predominante é `pretérito inperfeito` (passeava, olhava, etc..)
+
+- **Narração**:
+    - **Temporalidade**: Momentos sucessovos no tempo
+    - **Objetivo**: `Relatar` uma história, um acontecimento
+    - **Exemplo**: O funcionário `acabou` de rabiscar um papel, `repousou` a canta e `voltou-se` para atender o cliente.
+    - `Tempo verbal` predominante é `pretérito perfeito` (acabou, repousou, etc..)
+
+- **Dissertação**:
+    - **Temporalidade**: Aüsência de tempo
+    - **Objetivo**: `Discutir (abstrair)` um assunto, expondo-se o que se sabe ou defendendo uma tese
+    - **Exemplo**: `O policiamnto comunitário`, hoje em dia, encontra-se amplamente disseminado nos países economicamente mais desenvolvidos. Essa é a forma de policiamento que mais se aproxima das aspirações da população
+    - Todo texto dissertativo tem um tema (abstração)
+
+Nas questoes a FGV trabalha com dois tipos de mundo:
+
+- `Mundo concreto`, que pode ser narrativo ou descritivo
+- `Mundo abstrato`, que é uma dissertação
+
+- **Obs**: 
+- A banca gosta sempre de trabalhar com verbos no `presente`, para essas situações:
+    - A menina passeia pela calçada da avenida elegante do bairro e olha as vitrines que exibem uma imensa variedade de roupas elegantes. `(Descrição)`
+        - Lembrar que tudo ocorre ao mesmo tempo (simultaneidade)
+    - O funcionário acaba de rabiscar um papel, repousa a caneta e volta-se para atender o cliente `(Narração)`
+        - Lembra que uma coisa acontece depois da outra
+
+- Para questões de `dissertação`, existem dois tipos:
+    - **Expositiva**: `A corrupção pode ser definida`, em um sentido social, como uma `crença  compartilhada`, expandida e tolerada de que o uso da função pública é feito para o benefício de si mesmo, da própria família e de amigos. Mas não é uma novidade moderna.
+        - É a exposiçao de `fatos`
+    
+    - **Argumentativa**: O amor nada mais é do que o resultado de uma complexa cadeia de reações químicas do cérebro e existe com o intuito único de propagar a nossa espécie. Em outras palavras, `amamos porque somos o resultado de um processo evolutivo bem sucedido`.
+        - Defesa de tese (ponto de vista)
+
+- **Exemplos que podem cair:**
+    - 1. Cada pessoa que `chegava` se punha na ponta dos pés, embora não o pudesse ver. Os moradores da rua `conversavam` de uma porta à outra, as crianças **foram** acordadas e **vieram** de pijama às janelas. O senhor gordo `repetia` que dário sentara-se na calçada, `sobrando` ainda a fumaça do cachimbo e `encostando` o gurada-chuva na parede. Mas não se `via` guarda-chuva ou cachimbo ao lado dele
+        - Por mais que hovessem elementos de narração (foram, vieram), o texto é predominantemente descritivo (pret. perfeito [chegava] e gerúndio [soprando]).
+
+    - 2. `Chegou` à porta, olhou as folhas amarelas das catingueiras. `Suspirou`. Deus nos havia de permitir outra desgraça. `Agitou` a cabeça e `procurou` ocupações para entreter-se. `Tomou` a cuia grande, `encaminhou-se` ao barreiro, `encheu` de água o caco das galinhas, `endireitou` o poleiro. `Em seguida foi` ao quintalzinho regar os craveiros e as panelas de losna. 
+        - Texto predominantemente narrativo
+
 
 <div id='id-ingles'/>
 
@@ -606,31 +652,31 @@ VI - a idade mínima de:
 
 ##### Disposições Preliminares
 
-- Art 1o
+- `Art 1o`
     - A sede funciona no palácio do Congresso Nacional
     - Dá pra se reunir temporariamente em outro lugar no território nacional (Não confundir com o art 49 que diz que a pode acontecer a mudança de sede, onde o congresso e a câmara que deliberam, não somente a câmara ou só o senado)
         - De acordo com o Art 46o, CPI pode se reunir fora da sede
     - A mesa é um órgão que DELIBERA (), referendada pela maioria. Há 3 casos no regimento que falam sobre esse ad referedum:
-        - Art 1o
-        - Art 15o parágrafo único
-        - Art 251o parágrafo único
+        - `Art 1o`
+        - `Art 15o` parágrafo único
+        - `Art 251o` parágrafo único
     - Somente o Congresso pode mudar temporariamente a sua sede
 
-##### Legislatura e Sessões Legislativas (**Costuma cair**)
+###### Legislatura e Sessões Legislativas (**Costuma cair**)
 
-- Art 2o
-    - A legislatura é o período de 4 anos que o congresso se reúne, de 1o de fev até 31o de jan
+- `Art 2o`
+    - A `legislatura` é o período de 4 anos que o congresso se reúne, de 1o de fev até 31o de jan
     - A legislatura coincide com o mandato do deputado federal
-    - As sessões Legislativas Ordinárias (SLO), vão de 2 de fev a 17 de julho (1o período) e de 1o de agosto a 22 de dezembro de todos os 4 anos, passando para 1o dia útil subsequente caso haja feriado ou fds. (2o período)
-        - Não se interrompe a SLO até o dia 17 de julho sem a aprovação da Lei de Diretrizes Orçamentárias (LDO) (Insiço 3o)
+    - As `Sessões Legislativas Ordinárias (SLO)`, vão de 2 de fev a 17 de julho (1o período) e de 1o de agosto a 22 de dezembro de todos os 4 anos, passando para 1o dia útil subsequente caso haja feriado ou fds. (2o período)
+        - Não se interrompe a SLO até o dia 17 de julho sem a aprovação da `Lei de Diretrizes Orçamentárias (LDO)` (Inciso 3o)
         - A 1a e a 3a SLO serão pressedidas de Sessões Preparatórias
         - Na 1a SLO haverão 2 Sessões Preparatórias, a 1a pra posse e a 2a para eleição da mesa
         - Na 3a SLO haverá uma SP só para eleição da mesa
-    - Sessões Legislativas Extraordinárias (SLE): Caso haja Convocação do congresso nacional ocorrem essas sessões, com deliberação exclusiva sobre a matéria objeto da convocação mais as medidas provisórias (Art 57o).
+    - `Sessões Legislativas Extraordinárias (SLE)`: Caso haja Convocação do congresso nacional ocorrem essas sessões, com deliberação exclusiva sobre a matéria objeto da convocação mais as medidas provisórias (Art 57o).
 
-##### Sessões Preparatórias [SPs] (Posse)
+###### Sessões Preparatórias [SPs] (Posse)
 
-- Art 3o
+- `Art 3o`
     - No dia 31 de jan é o limite de apresentação do diploma da Justiça eleitoral do candidato que foi votado
     - Nome parlamentar, legenda e UF
     - Após isso, a Secretaria-Geral da Mesa organiza a relação
@@ -640,16 +686,16 @@ VI - a idade mínima de:
     - No dia 1o de fev, ocorre a 1a sessão preparatória, a posse.
     - No dia 1o de fev também ocorre a 2a sessão preparatória, a eleição dos membros da Mesa
     - Na 3a sessão preparatória, dia 1o de fev do segundo ano, ocorre, antes de inaugurar a sessão legislativa, ocorre a eleição dos membros da Mesa
-    - No art 65o I, tem referências às SPs
+    - No ` `, tem referências às SPs
 
-- Art 4o
+- `Art 4o`
     - Assumirá os trabalhos o último presidente da mesa, se eleito, ou o mais velho dentro o maior número de legislaturas. Dentre isso, tem 9 casos:
-        - Art 7o IV, empate e eleição
-        - Art 18o II, início dos trabalhos
-        - Art 27o IV, distribuição de vagas nas comissões
-        - Art 30o I, divisão em turmas
-        - Art 39o IV e Art 40o, comissão
-        - Art 49o, reunião conjunta de comissão
+        - `Art 7o IV`, empate e eleição
+        - `Art 18o II`, início dos trabalhos
+        - `Art 27o IV`, distribuição de vagas nas comissões
+        - `Art 30o I`, divisão em turmas
+        - `Art 39o IV` e `Art 40o`, comissão
+        - `Art 49o`, reunião conjunta de comissão
     - O presidente chama 4 deputados para serem secretários
     - O presidente profere
     - A posse não pode ser delegada a outra pessoa. (Candidatos não podem ser empossados por nenhum outro meio fora esse)
@@ -658,13 +704,13 @@ VI - a idade mínima de:
         - Diplomaçào, se eleito durante a Legislatura
         - Ocorrência do fato que a ensejar (sair de um mandato para outro, do ministério para a câmara, por exemplo)
     - O prazo pode ser maior caso haja motivos de força maior ou enfermidade devidamente comprovada
-    - No art 17 VI, atribuições do presidente, ele dá a posse aos deputados federais diplomados.
-    - No art 6o tem que a posse pode se dar por Videoconferência caso estejam doentes ou com licença gestante
+    - No `art 17 VI`, atribuições do presidente, ele dá a posse aos deputados federais diplomados.
+    - No `art 6o` tem que a posse pode se dar por Videoconferência caso estejam doentes ou com licença gestante
     - O compromisso é prestado só uma vez
 
-##### Sessões Preparatórias: Eleição da Mesa
+###### Sessões Preparatórias: Eleição da Mesa
 
-- Art 5o:
+- `Art 5o`:
     - No dia 1o de fev realiza-se a eleição do presidente e demais membros da mesa e suplentes de secretário
     - Sempre que possível, sob a direção da Mesa da sessão anterior
     - O mandato é de dois anos, vedada a reconduçao para o mesmo cargo na eleição subsequente
@@ -677,26 +723,26 @@ VI - a idade mínima de:
         - Maioria simples (2o turno)
         - Presente a maioria absoluta
 
-- Quórum: é o número mínimo de parlamentares presentes para uma finalidades (abertura ou deliberação [art. 47, CF]). O número mínimo é metade + 1 (257 + 1 deputados)
-- Maioria: Simples e qualificada (Absoluta (+258), 3/5s, 2/3s)
-    - Essa maioria é de votos, ou seja, existem tres tipos de votos: (Voto A, voto B, ou Abstenção, importante levar isso em conta)
-    - Em maioria absoluta, os votos de abstenção contam. Em maioria simples, eles não contam, ou seja, não são levados em consideração
+- **Quórum**: é o número mínimo de parlamentares presentes para uma finalidades (abertura ou deliberação [`art. 47, CF`]). O número mínimo é metade + 1 (256 + 1 deputados)
+- **Maioria**: Simples e qualificada (Absoluta (+258), 3/5s, 2/3s)
+    - **Maioria Simples**: Essa maioria é de votos, ou seja, existem tres tipos de votos: (Voto A, voto B, ou Abstenção, importante levar isso em conta)
+    - Em **maioria absoluta**, os votos de abstenção contam. Em maioria simples, eles não contam, ou seja, não são levados em consideração
 
-- Art 7o: Formalidades
+- `Art 7o`: Formalidades
     - Registro perante a Mesa dos candidatos oficiais das bancadas dos Partidos ou Blocos Parlamentares aos cargos que lhe forem distribuídos segundo a representação proporcional
-        - Princípio da proporcionalidade partidária: Quanto maior o partido, mais candidatos eleitos ele tem
+        - **Princípio da proporcionalidade partidária**: Quanto maior o partido, mais candidatos eleitos ele tem
     - O segundo escrutínio (turno) será realizado com os dois candidatos mais votados para cada cargo, caso a maioria absoluta não seja atingida.
     - Caso haja empate no segundo turno, o candidato mais velho dos mais votados será eleito
 
-- Art 8o: Composição da mesa
+- `Art 8o`: Composição da mesa
     - Cada partido decide quem vai ser o candidato oficial
     - Qualquer deputado pode concorrer aos cargos da Mesa que couberem à sua representação, mediante comunicado por escrito ao Presidente da Câmara (candidatura avulsa)
     - Se até 30 de novembro do segundo ano de mandato verificar-se qualquer vaga na Mesa, será ela preenchida mediante eleição, dentro de cinco sessões, observadas as disposições do artigo precedente. Ocorrida a vacância depois dessa data, a Mesa designará um dos membros titulares para reponder pelo cargo.
     - A vaga de membro da Minoria (um partido que não é a maioria, não necessariamente é um partido pequeno) é assegurada.
-- Art 40, art 23, art 232, Se o deputado mudar de partido, ele perde a vaga na comissão
+- `Art 40`, `art 23`, `art 232`, Se o deputado mudar de partido, ele perde a vaga na comissão
 - No conselho de ética, se o deputado mudar de partido, ele não perde a vaga no conselho
 
-- Art 65: Tipos de Sessão
+- `Art 65`: Tipos de Sessão
     - Preparatórias
     - Deliberativas
         - Ordinárias
@@ -705,22 +751,516 @@ VI - a idade mínima de:
         - Debates
         - Solenes
 
-##### Líderes
-- Art 9o:
-    - Para ter liderança, precisa cumprir a cláusula de barreira 
+###### Líderes
+- `Art 9o`:
+    - Para ter liderança, precisa cumprir a **cláusula de barreira** 
         - 3% dos votos válidos
         - 1/3 das UFs (unidades da federação)
         - 2% em cada uma delas (votos e ufs)
     - Partido que não cumprir a clausula não tem liderança, tem um representante que expressará a posição do partido
-    - Líderes não podem integrar à Mesa
+    - Líderes e vice-líderes não podem integrar à Mesa
 
-- Art 10o: Prerrogativas dos líderes
-- Art 11o: Liderança do Governo
-    - O presidente da República poderá indicar Deputados para a Liderança de Governo
+- `Art 10o`: **Prerrogativas dos líderes**
+    - Podem fazer o uso da palavra (`art 66o`)
+    - O lider fala uma vez por sessão
+    - Pode participar de qualquer comissão (não pode ser membro da mesa)
+    - Vota normalmente
+        - para Líderes de Partido/Bloco:
+        1. inscrever membros da bancada para o horário destinado às **Comunicações Parlamentares**
+        2. registrar os candidatos do Partido ou Bloco Parlamentar para concorrer aos cargos da Mesa, e atender ao que dispõe o `inciso III do art. 8o`
+        3. indicar à Mesa os membros da bancada para compor as Comissões, e, a qualquer tempo, substituí-los
+
+- `Art 11o`: **Liderança do Governo**
+    - O presidente da República `poderá` indicar Deputados para a Liderança de Governo
     - Ele pode indicar o Líder e 20 Vice-Líderes
     - E é livre indicação
 
+- `Art 13o c/c art. 11-A`: Liderança da Maioria x Minoria
+    - **Maioria**: Bloco com maioria absoluta, ou maior Bloco da casa
+    - **Minoria**: Representação imediatamente inferior à Maioria que, em relação ao Governo, expresse posição diversa da Maioria
+    - Líder da minoria:
+    - Líder vem do bloco considerado Minoria
+    - Vice líderes indicados pelo líder, dentre partidos divergentes
 
+###### Blocos
+- `Art 12o`: **Blocos**
+    - Representações de 2 ou + partidos sob Liderança Comum
+    - Bloco recebe tratamento partidário
+    - Lideranças partidárias colidagas em Bloco perdem prerrogativas
+    - O bloco para existir, precisa no mínimo de `três centésimos` dos membros da Câmara (16 deputados)
+        - Não manda desprezar fração
+    - Perda do mínimo extingue o bloco
+    - Partido que deixa um bloco não pode integrar outro na mesma sessão
+    - Não é possível estar em dois blocos simultaneamente
+    - Para fins de eleição da Mesa e Comissões Permanentes, a formação do bloco deverá ser comunicada à Mesa até:
+        - 1o fev do ano para Comissões e 1o Biênio da Mesa
+        - 1o fev do 3o ano - 2o Biênio da Mesa
+
+##### Comissões
+
+###### Reuniões
+
+- `Art. 46o`: 
+    - Dias e horas prefixados
+    - Ordinariamente, terça a quinta a partir das 9 hrs
+    - Extraordinarimante:
+        - com a convocação do Presidente (com a devida antecedência)
+        - de ofício ou a requerimento de 1/3 dos membros (direito de minoria)
+    - **CPIs**: Podem acontecer fora de BSB
+    - Quando o plenário estiver funcionando, as comissões não podem funcionar
+    - Durante a ordem do dia, uma comissão não pode ser estabelecida, em qualquer outro momento, sim
+    - `Par. 1o`: **Em nenhum caso**, ainda que se trate de `reunião extraordinária`, o seu horário **poderá coincidir com o da Ordem do Dia** da sessão ordinária ou extraordinária da Câmara ou do Congresso Nacional
+
+- `Art. 47o`:
+    - O Presidente organiza a Ordem do Dia das reuniões ordinárias e extraordinárias
+    - Divulgação: pelo menos 24hrs de antecedência
+    - Organização da pauta (regras de preferência pelo [regime de tramitação](#regimes-de-tramitação-art-151)) (`Art 159o e 160o`) na seguinte orgem:
+        1. Urgência
+        2. Prioridade
+        3. Ordinária
+
+- `Art 48o`:
+    - Reuniões das Comissões serão **públicas**, salvo `deliberação em contrário`.
+    - **Reservadas**: A juízo da Comissão, as reuniões em que haja matéria que deva ser debatida com a presença apenas dos funcionários em serviço na Comissão e técnicos ou autoridades que esta convidar
+    - **Secretas**: em caso de
+        - declaração de guerra, ou acordo sobre a paz
+        - passagem de forças estrangeiras pelo território nacional, ou sua permanência nele
+        - Deputados e Senadores podem assistir
+        - Ministros e testemunhas convocados permanecem somente o tempo necessário
+        - Diferente de [**Sessões Secretas**]()
+
+- `Art 49o`: **Reunião conjunta**
+    - Server para as Comissões poderem estudar as proposições para **hamonizar o texto**
+    - Conduzida pelo presidnete com mais legislaturas (mais idoso em caso de empate)
+    - Proposição atribuída a Comissão Especial "de mérito"
+    - Por iniciativa da CCJ, harmonização de texto emendado em mais de uma Comissão, se for o caso
+    - Possibilidade: Relator-Geral e Relatores-Parciais em cada Comissão 
+
+
+###### Ordem dos Trabalhos
+
+- `Art 50o`: **Trabalhos das Comissões**
+    - São iniciados com pelo menos a metade dos seus membros
+    - Ou com qualquer número se:
+        - Não haver matéria sujeita a deliberação
+        - Conhecimento, exame ou instrução de matéria de natureza legislativa, fiscalizatória ou informativa, ou outros assuntos da alçada da Comissão 
+    - A reunião começa com a `discussão e votação da ata da reunião anterior`, cabendo ao Presidente fazer o procedimento (`art 41o III`)
+        - A comissão redige a ata
+
+    - Expediente:
+        - É a sinopse de correpondência
+        - Distribuição de matérias aos Relatores
+        - Cada projeto tem autor e relator
+        - É papel do Presidente da Câmara designar os relatores para que eles analisem os projetos
+
+    - **Ordem do dia**:
+        - Discussão e votação de:
+            - `Requerimentos` e relatórios
+            - `Proposições` e pareceres que irão a `Plenário`. **Matérias** divididas em 3:
+                - Matérias em regime de **Urgência**
+                - Matérias em regime de **Prioridade**
+                - Matérias em Tramitação **Ordinárias** 
+            - `Proposições` e pareceres com poder `conclusivo`. Matérias dividas em 2:
+                - **Prioridade**
+                - **Ordinárias**
+        - Essa ordem pode ser alterada pelo [**Requerimento de inversão**]()
+
+    - **Mudança de Ordem**: Requerimento de qualquer de seus membros, para tratar de matéria em regime de urgência, de prioridade ou de tramitação ordinária, ou ainda no caso de comparecimento de Ministro de Estado ou de qualquer autoridade, e de realização de audiência pública.
+        - Deputado poderá participar, **sem direito a voto**, dos trabalhos e debates de qualquer Comissão de que **não seja membro**, e pode discutir por até 10 min.
+
+###### Prazos
+
+- `Art 52`:
+    - **Urgência** - 5 sessões
+        - `art. 151, I e art 152.`
+    - **Prioridade** - 10 sessões
+        - `Art. 151, II e art 158`
+    - **Ordinária** - 40 sessões
+        - `Art. 151, II`
+
+    - O relator dispõe da **metade do prazo da comissão** para oferecer parecer:
+        - Prorrogável por metade a requerimento Fundamentado do Relator, `exceto urgência`
+        - Caso o relator não entregar o relatório no prazo
+            - Presidente avoca a relatoria (puxa a relatoria para si) ou designa outro membro
+            - O novo relator tem o prazo de:
+                - 2 sessões - prioridade
+                - 5 sessões - ordinária
+        - Caso todos os prazos se esgotem:
+            - Autor pode requer a inclusão da matéria na Ordem do Dia da próxima reunião, **mesmo que esteja pendente de parecer**
+            - Caso o Relator não ofereça parecer até o início da discussão da matéria, o Presidente designará outro membro para relatá-la na mesma reunião ou até a seguinte
+            - Caso os prazos da comissão também se esgotarem o Presidente da Câmara pode pedir que envie que a matéria seja pautada na proxima comissão ou ao Plenário caso seja requerido por qualquer deputado
+                - A matéria perde a conclusividade
+
+    - Emenda só pode ser apresentada em plenário se tiver o `parecer das Comissões`
+
+    - A prerrogativa de fazer a pauta é do Presidente (`Art. 41, V e Art. 47`)
+    - E se os membros da comissão quiserem incluir algo que não o presidente não quer pautar?
+        - **Extrapauta** (`art. 52. Par. 5o`):
+            - Necessário 1/3 dos membros da comissão
+            - Aprovado por maioria absoluta
+            - Se não houver parecer:
+                - Pode ser oral no curso da reunião
+                - Até a reuinão seguinte 
+
+---
+
+##### Proposições (+Material)
+
+---
+
+##### Apreciação das Proposições
+
+###### Fluxo das Proposições (regra geral)
+
+- Proposições (`Art. 100 cc Art. 108-112`)
+- Iniciativa/autoria (`Art. 102 cc Art. 109, Par. 1o`)
+- Apresentação (`Art. 101`)
+- Recebimento e Numeração (`Art. 137-138`)
+- Apensação (`Art. 142 e 143 cc Art. 139, Par. 1o`)
+- Distribuição e Despacho (`Art. 139`)
+- Tramitação (`Art. 131-136`)
+- Comissões/Parecer (`Art. 56 cc Art. 126-130`)
+- Apreciação em Plenário - Se não conclusivo ou se provido recurso
+
+###### Tramitação (Art. 131-136)
+
+- Cada proposição terá curso próprio (`Art. 131`)
+    - Exceto estes que estão já vinculados à proprosição:
+        - emenda
+        - recurso
+        - parecer
+
+- Há um exame prévio pelas Comissões
+    - Ao final da tramitação conclusiva, pode se apresentar um recurso contra poder conclusivo (`Art. 132, Par 2o`)
+        - pode ser **global** (o projeto todo) ou **parte** (parte do projeto)
+        - precisa ser apoiado por 1/10 dos deputados (52)
+        - prazo: 5 sessões
+        - o recurso é apresentado em sessão
+        - provido por decisão do Plenário (precisa da aprovação do Plenário)
+    - Projeto conclusivo rejeitado por todas as comissões de mérito (`Art. 133`):
+        - Pode ser apresentado recurso 
+        - Caso não haja recurso, arquivamento
+
+- **Recebimento** (`Art. 137`)
+    - Recebimento pela Mesa, numerada (por legislatura, em séries específicas - `Art. 138`), datada e despachada às Comissões
+    - Publicação no DCD (Diário da Câmara)
+    - Avulsos
+        - Sistema de Tramitação e Informação Legislativa (`Art. 137, Par. 3o`)
+
+    - PCD (Presidente da Câmara) ou Presidente de Comissão pode recusar emenda inconveniente, de assunto estranho ou antirregimental (`Art. 125`)
+        - PCD devolve ao autor proposição que (`Art. 137, Par. 1o`):
+            - Não estiver devidamente formalizada
+            - Versar sobre matéria:
+                - Alheia à competência da CD
+                - Evidentemente inconstitucional
+                - Antirregimental
+            - Recurso: 5 sessões
+                - Ouvida a CCJC
+
+- **Apensação**: Promover a ação conjunta da matéria
+    - Matéria análoga ou conexa; idêntica ou correlata:
+        - Eh feita por distribuição por dependência:
+        
+        - **Tramitação conjunta**
+            - Pode ser uma tramitação de ofício: o PCD pode despachar e promover a tramitação
+            - Pode ser uma tramitação através de requerimento ao PCD pela Comissão ou pelo Deputado
+            - Limite "temporal":
+                - Para Plenário: Antes de iniciada a discussão
+                - Para Conclusiva: Antes do pronunciamento da primeira ou única Comissão de mérito
+        
+        - **Parecer único**: o relator sempre fala sobre o principal + matérias apensadas
+
+        - **Regra de Prcedência**: Sem incorporação (`Art. 143`)
+            - A mantéria mais antiga vem primeiro sobre as mais recentes
+            - Regime especial se estente às demais
+
+- **Distribuição**:
+    - Para tramitação **ordinária ou prioritária**:
+
+    SGM -> Mérito -> CFT (se for o caso) -> CCJC (sempre) -> Mesa
+
+    - Para tramitação **urgente**:
+
+          Mérito
+        /        \
+    SGM - Mérito  ---> Mesa
+        \        /
+           CCJC
+
+    - Não se aplica para o caso de Comissão Especial (`Art. 34`)
+
+- **Tramitação Conclusiva**
+
+Exemplo:
+
+Comissão 1 -> Comissão 2 -> Comissão 3 -> Comissão 4 -> CFT (se for o caso) -> CCJC (Sempre)
+
+Em cada comissão o relator vai pronunciar se aprova ou rejeita a matéria
+
+- **Tramitação Não Conclusiva**
+
+Exemplo:
+
+Comissão 1 -> Comissão 2 -> Comissão 3 -> Comissão 4 -> CFT (se for o caso) -> CCJC (sempre) -> Plenário
+
+
+###### Apreciação preliminar (Art. 144 - 149)
+
+- `Art. 144`: Recurso contra parecer terminativo
+    - Quando A CFT (o projeto é inadequado orçamentário e financeiramente) e a CCJC (projeto injurídico ou inconstitucional) dão o parecer contrário
+    - Os deputados podem entrar com um recurso que pode ir para essa apreciação preliminar
+    - O Plenário deliber somente:
+        - Constitucionalidade e juricidade do proj.
+        - Adequação financeira e orçamentária do proj
+        - Se tudo for aprovado, o Parecer Terminativo cai por terra
+    - Emenda saneadora:
+        - Escoimar (eliminar) vícios arguidos pelas Comissões nos pareceres terminativos (CCJC, CFT e Comissão Especial) - `Art. 120, Par. 1o`
+    - Vota-se primeiro a **emenda saneadora**, caso ela tenha sido apresentada.
+        - `Se aprovada`, considera-se aprovada a proposição quanto à preliminar
+            - Reconhecimento da admissibilidade da proposição
+            - Exame do mérito será posterior
+        - `Se rejeitada`
+            - Votação, relativamente às preliminares, a proposição principal
+                - `Se aprovada a preliminar` - segue a tramitação normal
+                - `Se rejeitada a preliminar` - arquivada
+
+###### Turnos de Tramitação de uma Matéria(Art. 148 - 149)
+
+- Em regra, as matérias são votadas em turno **único**
+- Exceções (2 turnos):
+    - PEC
+    - PLP (Projeto de Lei Complementar)
+    - Modificação e Reforma do RICD (`Art. 216, Par. 5o`)
+
+    - Em cada turno, há discussão e votação:
+        - Encerrada a discussão em 2o turno, sem emendas a matéria é dada como definitivamente aprovada, `exceto requerimento de Líder`
+        - Encerrada a discussão da redação final sem emendas, a matéria será considerada definitivamente aprovada 
+
+###### Interstício (Art. 150)
+
+- Intervalo entre uma etapa regimencional e outra
+- 2 Sessões, exceto urgência
+- Quebra de interstício (exclusão do intervalo):
+    - Requer 1/10 dos votos ou acordo de lideranças
+    - Requer que tenham sido publicado avulsos com antecedência mínima de 4 hrs
+
+###### Regimes de Tramitação (Art. 151)
+
+1. **Urgência**
+- **Conceito de Urgência** (`Art. 152`)
+    - Dispensa de:
+        - Exigências
+        - Interstícios
+        - Formalidades regimentais
+    - Não se dispensam:
+        - Publicação e distribuição
+        - Pareceres das Comissões ou de relator designado
+        - Quorum
+
+- `Art. 151`
+    - I. **Tramitação de Urgência**: Assuntos relatiovs à guerra e situações excepcionais (alíneas a - i)
+
+    - Mensagem do Executivo após aprovação de Projeto de Decreto Legislativo (alínea j)
+        - Projetos de iniciativa do Executivo têm tramitação prioritária
+
+    - **Urgência Constitucional (`Art. 204`)**:
+        - Projeto de iniciativa do PR, para o qual tenha solicitado urgência
+            - Recebimento em 45 dias sem manifestação definitiva do Plenário.
+            - Sobrestamento da pauta
+            - Emendas do SF: 10 dias + sobrestamento
+            - Solicitação de urgência a qualquer tempo
+
+    - Providências acerca de Mandado Injunção ou ADIN por omissão também tem carater de Urgência (`Art. 15, XII`)
+
+    - Quando for aprovado um **requerimento de urgência**, ele passa a ser **tramitado em regime de urgência**
+
+    - III. **Tramitação Ordinária**: Tudo que não for urgente nem prioridade (maior parte das tramitaçoes)
+
+- **Possibilidade de Apresentação de Requerimentos de Urgência** (`Art 153`)
+    - Defesa da sociedade e das liberdades fundamentais
+    - Calamidade pública
+    - Matérias legislativas próximas do fim
+    - Apreciação na mesma sessão
+
+- **Requerimento de urgência** (`Art. 154`)
+    - 2/3 da Mesa (matéria de sua competência)
+    - 1/3 dos líderes que representem esse número
+    - 2/3 da Comissão competente
+    
+    - Regras:
+        - Sem discussão
+        - Encaminhamento
+            - Autor (a favor)
+            - Líder, relator ou deputado (contrário)
+            - 5 minútos para fazer a defesa
+        - Só pode ser tramitado 2 projetos com urgência aprovado com esse artigo
+        - A **aprovação** se dá com a **maioria simples**
+
+- **Urgência Urgentíssima** (`Art. 155`)
+    - Matéria relevante e inadiável interesse nacional
+    - Inclusão automática na Ordem do Dia (na mesma sessão)
+        - Discussão e votação imediata
+    - **Requerimento**
+        - **Apresentação**: Maioria absoluta ou líderes (257 assinaturas)
+        - **Aprovação**: Maioria absoluta
+    - Sem a limitação de 2 projetos, como no `art. 154`
+    - Impede apresentação, **na mesma sessão**, requerimento de retirada de pauta
+    - Impede apresentação ou implica prejudicialidade de requerimento de adiamento de discussão se a matéria estiver com todos os pareceres.
+    - **Retirada de requerimento de urgência**: Precisa da assinatura da maioria dos subscritores (`Art. 104`)
+
+- **Apreciação de matéria urgente** (`Art. 157`)
+    - Efeitos práticos:
+        - Passa a tramitar simultaneamente em todas as comissões
+        - Presidente designa Relator em Plenário para proferir parecer em substituição às Comissões (na sessão ou seguinte)
+    - Discussão e encaminhamento (3 min)
+        - Autor
+        - Relator
+        - Deputados inscritos - alternadamente favoráveis vs contrários
+    - Encerramento da discussão e do encaminhamento de votaçào
+        - Após falarem 12 deputados
+        - Requerimento da MA
+        - Aprovado o requerimento, impede ou prejudica, na mesma sessão, o adiamento de votação
+            - Exceto se o relator, ao analisar as emendas, alterar o texto
+    - Emendas
+        - Imediatamente distribuídas às Comissoes para proferir parecer com o prazo de 1 sessão
+        - **O parecer pode ser verbal**, por motivo justificado, proferido em plenário, no decorrer da sessão com o prazo de 10 min para iniciar votação
+
+2. **Prioridade**
+
+- **Conceito** (`Art. 158`)
+    - Dispensa de exigências regimentais para que a proposição seja incluída na OD (ordem do dia) da **sessão seguinte**
+    - Após proposições em regime de urgência
+    
+    - Além do `art. 151, II`, pode ser requeria prioridade por:
+        - Mesa
+        - Comissão
+        - Autor da proposição, apoiado por 1/10 ou líderes
+
+- `Art 151, II`
+    - **Autoria**
+        - Projetos de fora da Câmara (Executivo, Judiciário, MP, SF e cidadãos [Tbm TCU e DPU])
+        - Projetos de Comissões e Mesa
+    - **Mérito**
+        - Regulamentar dispositivo constitucional
+        - Com prazo determinado
+        - Regulamentar eleições
+        - Modificação do RICD
+
+- **Preferência** (`Art. 159 - 160`)
+    - Primazia na discussão ou votação de uma proposição sobre a outra
+    - Na seguinte ordem:
+        1. Urgência (Votação -> Discussão)
+        2. Prioridade (Votação -> Discussão)
+        3. Ordinária (Votação -> Discussão)
+    - Requerimentos sobre os itens da pauta devem ser apreciados antes desses
+    - Se houver mais de 1 requerimento, votação conjunta + prejudicialidade
+        - Lógica: economia processual
+    - Requerimento de preferência: dentro do mesmo grupo
+        - Mais de 5: presidente consulta plenário
+
+###### Destaque
+
+- Destaques são alterações no texto que está sendo apreciado
+
+- Classificação
+    - DVS (Destaque de votação em separado)
+    - Destaque de emenda, subemenda, parte de emenda ou de subemenda
+    - Destaque para tornar projeto autônomo: emenda ou parte de uma proposição
+    - Destaque de preferência: projeto ou substitutivo (ou parte deles) - preferência sobre outro ou sobre apensado
+
+- Existem 2 tipos de Destaque:
+    - **Destaque simples**: Aquiescência da unanimidade dos líderes, por escrito (`Art. 161, Par. 4`)
+    - **Destaque de bancada**:
+        - Automaticamente admitido
+            - DVS
+            - Emenda
+        - Depende de aprovação do Plenário
+            - Projeto autônomo
+            - Preferência
+    
+- Proporcionalidade:
+    - 5-24 deputados: 1 destaque
+    - 25-49 deputados: 2 destaques
+    - 50-74 deputados: 3 destaques
+    - 75 ou mais deputados: 4 destaques
+
+- **Regras Gerais**
+    - Apresentados até o anúncio da votação (`Art. 162, I`)
+    - Publicidade dos destaques antes da votação (`Art. 162, II`)
+    - Vedada apresentação de destaque que inverta o sentido da proposição (`Art. 162, IV`)
+    - O destaque deve formar um sentido completo (`Art. 162, V`)
+    - Retirado o destaque, a matéria volta ao grupo que pertencia (`Art. 162, XII`)
+    - Autor do destaque deve encaminhar, sob pena de insubsistência (`Art. 162, XIII`)
+
+- Ordem da apreciação dos destaques:
+    - Ordem dos artigos
+    - Ordem de arpesentação
+
+    - Primeiro vota-se a parte principal do projeto
+    - Se a parte principal é aprovada, a parte em destaque vota-se em separado (DVS)
+
+    - **Destaque de emenda:**
+        - Vata separadamente, ao final. Apresentada antes de anunciada a votação (`Art. 162, VIII`)
+
+###### Prejudicialidade (Art. 163-164)
+
+- Evitar discutir o que já foi discutido na mesma sessão
+- Princípio: economia processual
+- `Projeto idêntico a outro` aprov/rej, na mesma SLO (Sessão Legislativa), ou tranf. em lei
+- Parecer pela inconstitucionalidade pela CCJC
+- Apensada aprovada idêntica ou oposta
+- Apensada rejeitada idêntica
+- Proposição (+ emendas): aprovado substutitivo, ressalvados DTQ (Destaques)
+- Emenda de matéria idêntica a aprovada ou rejeitada
+- Emenda contrária a outra, ou a dispositivo, já aprovados
+- Req. com a mesma, ou oposta, finalidade de outro aprovado
+- Req. de adiamento de disc./vot., logo após a rejeitção da retirada de pauta.
+
+- `Declaração de prejudicialidade`
+    - Presidente da CD ou de Comissão
+    - De ofício ou provocação de qualquer dep.
+    - Matéria pendente de deliberação
+    - Nos casos de:
+        - Perda de oportunidade
+        - Prejulgamento do plenário ou comissão
+    - Cabe recurso ao plenário, ouvida CCJC
+        - Autor da proposição pode apresentar esse recurso
+        - Prazo: 5 sessões
+    - Dada como prejudicada, a proposição será definitivamente arquivada pelo PCD (presidente da câmara)
+
+
+---
+
+##### Admissibilidade e Apreciação das Matérias (Sessão IX)
+
+- `Art. 53`: Quem aprecia uma proposição
+    - **Comssões de mérito**
+        - Antes da liberação do plenário ou quando esta for dispensada as proposições
+
+    - **CFT (Comissão de Finanças e Tributação)**: Ela pode ou não passar pela CFT
+        - Exames financeiros, orçamentários
+        - Compatibilidade e adequação com [PPA/LDO/LOA](#planejamento-e-orçamento-na-constituição-federal)
+
+    - **CCJC**: Sempre vai passar por aqui
+        - Define se o projeto (matéria) é:
+            - constitucional
+            - legal
+            - juridicidade
+            - regimentalidade
+            - boa técnica legislativa
+
+    - **CESP "de mérito"** : Realiza todas as etapas anteriores
+
+- `Art. 54`: **Parecer terminativo**
+    - CCJC - Parecer enquanto à constitucionalidade ou jurisdicidade
+    - CFT - Parecer enquanto à adequação financeira orçamentária
+    - CESP de mérito - qualquer dos acima
+    - `Art. 144` - Pode ser apresentada um requerimento para a realização de uma apreciaçao preliminar caso ele tenha sido recusado pelo CCJC ou CFT
+
+    - **Obs**: é diferente de parecer conclusivo (quando há o mérito da matéria, não precisa passar pelo Plenário)
+
+    **Add img aqui**
+---
 
 <div id='id-direito-administrativo'/>
 
@@ -1598,7 +2138,7 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
 
 - Webservice não é a única maneira de implementar o SOA
 
-### Arquiteturas de Web Services
+### Arquiteturas de Web Services (+Material)
 
 1. Enterprise Service Bus (ESB)
 
@@ -1614,7 +2154,7 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
 
 - Composição de processo de negócio, só que sem a figura de um processo central
 
-### Modelagem de Processo de Negócio (BPM)
+### Modelagem de Processo de Negócio (BPM) (+Material)
 
 0. Conceito de Processo
 
@@ -1630,7 +2170,7 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
 
 ### Kubernetes
 
-#### Conceitos
+#### Conceitos (+Material)
 
 - Containers: É uma espécie de máquinas virtuais simples, configurados para rodar o ambiente para uma aplicação específica e que você pode ter vários rodando em um mesmo computador
     - Um container é um isolamento, pode ser de recursos, de processos.
@@ -1674,11 +2214,8 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
             - Cluster IP
 
     - Se você está em um servidor (AWS por exemplo), você não consegue controlar o Control Plane, somente os Workers
-    
 
-
-
-### Kubernetes Avançado
+### Kubernetes Avançado (+Material) (Rever vídeo)
 
 - **Cloud Native App's**: É uma junção de aplicações baseadas em **Clean Code** (Boas práticas de código), **Domain-Driven Desing** (Padrões de Códigos), **Microservices Principles** (Escalabilidade) e **Kubernetes Patterns** (Padrões baseados em containers)
 
@@ -1809,7 +2346,7 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
 - Containers Auxiliares
     - Integração
 
-### ITIL4
+### ITIL4 (+Material) (Fazer questões pra ver se precisa de mais material)
 
 - O que é:
     - Guia de melhores práticas para gerenciamento de serviços de TI
@@ -1852,7 +2389,7 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
         - Práticas de Ger. de Serviços
         - Práticas de Ger. Técnico
 
-### Modelagem de Processos BPMN
+### Modelagem de Processos BPMN (+Material)
 
 - O que é:
     - É um padrão aberto (não uma metodologia) que permite a construção de modelos lógicos para a automação de processos 
@@ -1871,7 +2408,7 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
     - Grupo
     - Anotações
 
-### Design Patterns (GOF)
+### Design Patterns (GOF) (+Material) (Fazer questões pra ver se precisa de mais material)
 
 Os Design Patterns (Padrões de Projeto) são soluções reutilizáveis para problemas comuns que surgem durante o desenvolvimento de software. Eles fornecem diretrizes e abstrações que ajudam a estruturar e organizar o código de maneira eficaz. Existem três categorias principais de Design Patterns: Padrões de Criação, Padrões Estruturais e Padrões Comportamentais. Vamos explorar cada uma delas:
 
@@ -2046,10 +2583,10 @@ No PMBOK 6a edição, temos 49 processos de gestão de projetos divididos em 5 g
 - **Monitoramento e controle**: Ocorre ao londo de todo o ciclo de vida
 - **Encerramento**: Ocorre no término do projeto
 
-#### PMBOK 7
+#### PMBOK 7 (+Material)
 
 
-### Scrum
+### Scrum (Fazer questões +Material)
 
 - Framework para desenvolver, entregar e manter produtos complexos
 - Consiste de times Scrum associados a papéis, eventos, artefatos e regras
@@ -2123,7 +2660,7 @@ Product backlog -> Sprint backlog -> 2-4 semanas (dailies) -> Incremento entreg�
 - Não reconhece sub-times
 - Responsabilizaçao do time como um todo
 
-### CObiT 2019
+### CObiT 2019 (+Material)
 
 #### Governança Corporativa de Tecnologia e Informação (EGIT)
 
@@ -2155,7 +2692,7 @@ Product backlog -> Sprint backlog -> 2-4 semanas (dailies) -> Incremento entreg�
 
 - https://learn.microsoft.com/pt-br/training/paths/deploy-manage-identity-infrastructure/
 
-### Operação e Administração de Sistemas Operacionais
+### Operação e Administração de Sistemas Operacionais (+Material)
 
 **Funções de um SO**
 - Afastar do usuário a complexidade do hardware através de uma interface (Modo usuário)
@@ -2178,7 +2715,7 @@ Os SOs podem realizar virtualização de outros SOs, alguns tipos são:
     - acesso remoto
 - Um servidor pode prover o mesmo recurso para vários OSs, sem que isso consuma mais memória que abrir o recurso no próprio OS. Por exemplo, se você sobe 5 sistemas windows em máquinas diferentes utilizando um servidor, esse servidor só está consumindo de memória um único SO.
 
-### Windows Server
+### Windows Server (Fazer questões +Material)
 
 O Windows Server é uma plataforma para compilar uma infraestrutura de aplicativos, redes e serviços Web conectados, do grupo de trabalho ao data center. Ele faz a ponte entre os ambientes locais e o Azure, adicionando mais camadas de segurança enquanto ajuda você a modernizar seus aplicativos e sua infraestrutura.
 
@@ -2272,7 +2809,7 @@ Objetos de computador são entidades de segurança que representam computadores 
 
 O contêiner Computadores é um local padrão em um domínio do AD DS onde as contas de computador são armazenadas quando ingressam no domínio. Ele não é uma Unidade Organizacional (UO), mas sim um tipo de contêiner. Embora pareça semelhante a uma UO, existem diferenças importantes. Você não pode criar UOs dentro do contêiner Computadores nem vincular Objetos de Política de Grupo a ele. Portanto, é aconselhável criar UOs personalizadas para hospedar objetos de computador em vez de usar o contêiner Computadores.
 
-### SQL (Structured Query Language)
+### SQL (Structured Query Language) (+Material)
 
 - É uma linguagem `declarativa`
     - Não é uma linguagem `estruturada` nem `procedural`
@@ -2343,9 +2880,327 @@ CREATE TABLE Cliente(
 ```
 No `numeric(7,2)` o 7 representa a quantidade de casas máximas antes da vírgula e o 2 representa a qnt de casas depois da vírgula
 
+**Primary key - Unique**
+
+- Primary key é sempre *not null*
+- FK
+- Possui id único
+- Pode ter qualquer núm de atributos
+- O atributo pode ter qualquer tipo
+
+```SQL
+CREATE TABLE Cliente(
+    cod_cliente numeric(5) primary key,
+    nome_cliente varchar(30) not null,
+    tel_cliente varchar(20) unique,
+    saldo numeric(7,2) not null default 0
+)
+```
+
+- Para *unique* a var não vai poder se repetir
+
+**Check**
+
+- É uma clausula de validação
+
+```SQL
+CREATE TABLE Cliente(
+    cod_cliente numeric(5),
+    nome_cliente varchar(30) not null,
+    tel_cliente varchar(20),
+    saldo_numeric(7,2) not null default 0,
+    primary key(cod_cliente),
+    unique(tel_cliente)
+    check(saldo > 0)
+)
+```
+
+Nesse exemplo acima, como o saldo precisa ser maior que zero, e o *default* da varchar é 0 então vai dar problema. Ficar atento a isso na prova
+
+**Foreign Key**
+
+```SQL
+CREATE TABLE Cidade(
+    cod_cidade numeric(2) primary key,
+    nome_cidade varchar(30) not null
+)
+
+CREATE TABLE Cliente(
+    cod_cliente numeric(2) primary key,
+    nome_cliente varchar(30) not null,
+    saldo numeric(7,2) not null default 0.0,
+    cod_cidade numeric(2) references Cidade
+)
+```
+
+- `references` é a referência à chave primária da Cidade
+
+**Cascade**
+
+- Atualiza todas as chaves estrangeiras da tabela
+
+```SQL
+CREATE TABLE Cliente(
+    cod_cliente numeric(2) primary key,
+    nome_cliente varchar(30) not null,
+    saldo numeric(7,2) not null default 0.0
+    cod_cidade numeric(2),
+        constraint fk_cidade
+        foreign key(cod_cidade)
+        references Cidade
+        on delete cascade
+        on update cascade
+)
+```
+
+**Alter Table**
+
+```SQL
+ALTER TABLE <table name><alter table action>
+<alter table action> ::=
+    <add column definition>
+    |<alter column definition>
+    |<drop column definition>
+    |<add table constraint definition>
+    |<drop table constraint definition>
+```
+
+```SQL
+ALTER TABLE Cliente
+    ADD Estado char(2); #Adicionando atributo Estado na tabela Cliente
+
+ALTER TABLE Cliente
+    ADD COLUMN Estado char(2); #Adicionando atributo Estado na tabela Cliente
+```
+
+**Alter Column**
+
+```SQL
+<alter column action>::=
+    <set cloumn defaulkt clause>
+    |<drop column default clause>
+```
+
+```SQL
+ALTER TABLE Cliente
+    ALTER Estado SET DEFAULT('RJ'); # Configurando como padrão o dado 'RJ' na coluna Estado
+
+ALTER TABLE Cliente
+    ALTER Estado DROP DEFAULT; # Apagando a configuração padrão da coluna Estado
+
+ALTER TABLE Cliente
+    DROP Estado; # Apagando a coluna Estado
+
+ALTER TABLE Cliente
+    DROP COLUMN Estado; # Apagando a coluna Estado
+```
+
+**Drop Table**
+
+```SQL
+DROP TABLE <table_name>
+    [CASCADE|RESTRICT]
+```
+
+```SQL
+DROP TABLE Cidade CASCADE #Apaga a tabela cidade e todas as chamadas a essa tabela
+
+DROP TABLE Cliente RESTRICT
+```
+
+#### DML
+
+- **Exclusão de dados**
+
+    ```SQL
+    DELETE FROM <target table>
+        [WHERE <search condition>]
+    ```
+
+    ```SQL
+    DELETE FROM Clientes # Apagar todos os dados da tabela Clientes
+
+    DELETE FROM Clientes WHERE nome_cliente like 'G%' # Apagar todos os dados onde o atributo `nome_cliente` comece com a letra `G` e pode ter qualquer quantidade de dados depois dela (definido pelo '%')
+    ```
+
+- **Select**
+
+```SQL
+SELECT <attribute list>
+    FROM <table list>
+    [WHERE <condition>]
+    [GROUP BY <grouping attribute(s)>]
+    [HAVING <group condition>]
+    [ORDER BY <attribute list>]
+```
+
+- **All e Distinct**
+
+```SQL
+SELECT cod_empregado, salario_empregado
+    FROM Empregado;
+
+SELECT all cod_empregado, salario_empregado
+    FROM Empregado; #Seleciona todos os dados
+
+SELECT distinct salario_empregado 
+    FROM Empregado; # Pega só a primeira ocorrencia de um salário específico
+```
+
+- **Case**
+
+**(Buscar mais material!!!!!!)**
+
+
+
+- **Inclusão de Dados**
+
+    ```SQL
+    INSERT INTO <target table> [(<column_list>)]
+    VALUES(<value_list>)|<query_expression>
+    ```
+
+    ```SQL
+    INSERT INTO Cliente
+    VALUES (20, 'Gabriel Pacheco') # Add na ordem das colunas na tabela
+
+    INSERT INTO Cliente (nome, cod_cliente)
+    VALUES ('Gabriel Pacheco', 50) # Add na nas colunas especificadas (nome, cod_cliente)
+    ```
+
+### Arquitetura TCP/IP (+Material)
+
+Toda comunicação, face-a-face ou por uma rede, é regida por `regras` pré-determinadas chamadas de `protocolos`
+
+- O que é Protocolo: Um protocolo é um conjutno de regras e procedimentos a respeitar par emitir e receber dados numa rede
+- Protocolos de Rede: Conjutos de protocolo de rede descrevem processos tais como:
+    - O formato ou estrurura da mensagem
+    - O método pelo qual os dispositivos de rede compartilham informações sobre rotas com outras redes
+    - Como e quando mensagens de erro e de sistema são passadas entre dispositivos
+    - A configuração e término das sessões de tranferência de dados
+- Protocolos descrevem a `regra` de comunicação, mas não como elas devem ser executads. Cada fabricante segue o `padrão` de comunicação
+
+
+#### Modelos de Referência e de Protocolo
+
+- Existem dois tipos básicos de modelos de rede: `modelos de protocolo` e `modelos de referência`
+
+- Modelo de protocolo
+    - Fornece um moidelo que corresponde de perto à estrutura de um conjunto específico de protocolos
+    - O modelo TCP/IP é um modelo de protocolo porque descreve as funções que ocorrem em cada camada de protocolos dentro do conjunto TCP/IP
+
+- Modelo de Referência:
+    - Fornece uma referência comum para uma consistente manutenção dentro de todos os tipos de protroclos de rede serviços.
+    - O modelo de referência OSI é o modelo de referência de rede mais amplamente conhecido
+
+- Modelo OSI
+    - Conjunto de protocolos usado para desenvolver uma rede internacional que não seja dependente de sistemas proprietários
+    - Possui 7 camadas:
+        - **Aplicação**: A camada de Aplicação fornece os meios para conectividade ponto-a-ponto entre indivíduos na rede humana usando redes de dados.
+
+        - **Apresentação**: A camada de Apresentação fornece uma representação comum de dados transferidos entre serviços da camdada de Aplicação
+            - Trata as conversões entre os dados que são recebidos. Computadores podem ter conversões diferentes, por isso eh necessário um gerenciador para isso
+
+        - **Sessão**: A camada de Sessão fornece serviços à camdada de Apresentação para organizar seu diálogo e para fornecer a troca de dados.
+        
+        - **Transporte**: A camada de transporte define os serviços para segmentar, transferir e reunir os dados para comunicações individuais entre dispositivos finais.
+        
+        - **Rede**: A camada de Rede fornece serviços para trocar pedaços individuais de dados através da rede entre dispositivos finais identificados.
+        
+        - **Enlace de Dados**: Os protocolos da camada de Enlance de Dados descrevem métodos para trocar quadros de dados entre dispositivos através de um meio físico comum
+            - Controla o fluxo de transmissão dos dados
+            - Responsável pelo controle das Pontes
+            - Responsável pelo controle dos switches
+            - A única excessão eh o SWL3 (switcher layer 3) que funciona mais como um roteador, então ele está na camada de Rede
+        
+        - **Física**: Os protocolos da camada Física descrevem os meios mecânicos, elétricos, funcionais e procedimentais para ativar, manter e desativar conexões físicas para transmissão de bits para e/ou partir de um dispositivo de rede.
+
+- Modelo TCP/IP: Possui 4 camadas
+    - **Aplicação**: Representa os dados ao usuário com codificação e controle de diálogo
+        - Chega de forma binária e converte ela em uma interface para o usuário
+        - Corresponde a 3 camadas do modelo OSI: `Aplicação`, `Apresentação` e `Sessão`
+        - O DNS (Sistema de Resolução de domínios), o HTTP (Protocolo de Transferência de Hipertexto), o SMTP (Protocolo de Transferência de Correio Simples) e o POP (Protocolo dos Correios) fazem parte dessa camada
+
+    - **Tranporte (TCP)**: Oferece suporte à comunicação entre diversos dipositivos e redes distintas
+        - Corresponde a camada de `Transporte` do modelo OSI
+
+    - **Internet (IP)**: Determina o melhor caminho através da rede
+        - Correnponde a camada de `Rede` do modelo OSI
+        - O roteador esta na camada de rede do modelo OSI
+
+    - **Acesso à Rede (Ethernet)**: Controla os dispositivos de hardware e meio físico que compõem a rede
+        - É a camada de `Enlace de Dados` e a camada `Física` do modelo OSI
+
+- O processo de comunicação completo inclui os seguintes passos:
+    - 1. `Criação` de dados
+
+    - 2. `Segmentação` e encapsulamento de dados
+        - Acelera a velocidade da transferência, porém aumenta a complexidade
+
+    - 3. `Geração` dos dados no meio físico na camada de acesso à rede
+
+    - 4. `Transporte` dos dados através da rede
+    
+    - 5. `Recepção` dos dados na camada de acesso à rede
+    
+    - 6. `Desencapsulamento` e remontagem dos dados
+    
+    - 7. `Tranferência` desses dados à aplicação de destino
+
+#### Processo de envio e recebimento
+
+- Ao se enviar mensagens em uma rede, a pilha de protocolo em um host opera de cima para baixo.
+- Esse processo é revertido no host de destino
+- Os dados passam pela camada de Dados
+
+#### Obtendo os Dados para o Dispositivo Final
+
+- A forma que um pedaço do dado assume em qualquer camada é chamada PDU (Unidade de Dados de Protocolo)
+
+**Add img aqui**
+
+#### Obtendo os dados através da rede
+
+**Add img aqui**
+
+#### Camada de Aplicação
+
+- Fornece a troca de informações de usuários
+- Esses protocolos especificam as informações de formato e controle necessários para muitas funções comuns de comunicação na Internet
+- `Aplicações`: Fornecem a interface humana
+- `Serviços`: Seguem protocolos para preparar os dados para a rede
+
+- **Modelo Cliente/Servidor**
+    - Os processos de cliente e servidor são considerados como estando na camada de Aplicação
+
+    **Add img aqui**
+
+- **Servidor**
+    - Qualquer dispositivo qu responda a solicitações de aplicações de clientes funciona como um servidor
+
+    **Add img aqui**
+
+- **Serviços e protocolo DNS**
+    - O protocolo DNS define um serviço automatizado que alia os nomes de recursos com o endereço de rede numérico necessário.
+    - Ele converte o nome em endereço de IP
+    - Ex: Servidor DNS = www.cisco.com
+          Endereço = 198.133.219.25
+
+#### Topologia (Buscar mais material!!)
+
+- Dica: Se vc não souber, chuta topologia estrela
+
+#### UDP (Buscar mais material!!!)
+
+### FTP (Buscar mais material!!!)
+
+#### QoS (Qualidade do Serviço) Buscar mais material!!!
+
+#### Moduladores e multiplexadores (Buscar mais material!!!)
+
 <div id='id-sec-info'/>
 
-## SEGURANÇA CIBERNÉTICA E DA INFORMAÇÃO
+## SEGURANÇA CIBERNÉTICA E DA INFORMAÇÃO (+Material)
 
 ### Material de Estudo
 

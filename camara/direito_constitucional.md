@@ -3,7 +3,7 @@
 ## Material de estudo
 - https://www.youtube.com/watch?v=ZVE9QTaUPu0
 - https://www.youtube.com/watch?v=h8DgJyLh64k
-- https://www.youtube.com/watch?v=aI3V4LvdekE
+- https://www.youtube.com/watch?v=aI3V4LvdekE (Principal)
 
 ## Glossário
 
@@ -410,6 +410,60 @@ VI - a idade mínima de:
     - `Par. 1o`: É `facultado` às universidades admitir professores, técnicos e cientistas estrangeiros, na forma da lei.
     - `Par. 2o`: O disposto neste artigo aplica-se às instituições de pesquisa científica e tecnológica.
 
-- `Art. 208`: 
+- `Art. 208`: O dever do Estado com a educação será efetivado mediante a garantia de:
+    - Educaçao básica obrigatória e grautira dos 4 aos 17 anos de idade, assegurada inclusive sua oferta gratuita para todos os que a ela não tiveram acesso na idade própria
+    - Progressiva universalização do ensino médio gratuito
+    - Atendimento educacional especializado aos portadores de deficiência, preferencialmente na rede regular de ensino
+    - Educação infantil, em creche e pré-escola, às crianças até 5 anos de idade
+    - Acesso aos níveis mais elevados do ensino, da pesquisa e da criação artística, segundo a capacidade de cada um.
+    - Oferta de ensino noturno regular, adequado às condiç~oes do educando
+    - Atendimento ao educando, em todas as etapas da educaç~ao básica, por meio de programas suplementares de material didáticoescolar, trasporte, alimentação e assistência à saúde.
 
+- `Art. 209`: O ensino é livre à iniciativa privada, atendidas as seguintes condições:
+    - Cumprimento das normas gerais da educação nacional
+    - Autorização e avaliação de qualidade pelo Poder Público
+
+- `Art. 210`: Serão fixados contúdos mínimos para o ensino fundamental, de maneira a assegurar formação básica comum e respeito aos valores culturais e artísticos, nacionais e regionais.
+    - `Par. 1o`: O ensino religioso, de matrícula facultativa, constituirá disciplina dos horários normais das escolas públicas de ensino fundamental.
+    - `Par. 2o`: O ensino fundamental regular será ministrado em língua portuguesa, assegurada às comunidades indígenas também a utilização de suas línguas maternas e processos próprios de aprendizagem.
+
+- `Art. 211`: A União, os Estados, o Distrito Federal e os Municípios organizarão em regime de colaboração seus sistemas de ensino
+    - `Par 2o`: Os `Municípios` atuarão prioritariamente no ensino `fundamental` e na educação `infantil`
+    - `Par. 3o`: Os `Estados` e o `Distrito Federal` atuarão prioritariamente no ensino `fundamental e médio`
+    - `Par. 5o`: A educação básica pública atenderá prioritariamente ao ensino regular
+
+- `Art. 212`: A União aplicará, anualmente, nunca menos de 18%, e os Estados, o Distrito Federal e os Municípios 25%, no mínimo, da receita resultante de impostos, compreendida a proveniente de transferências, na manutenção e desenvolvimento do ensino.
+    - `Par. 1o`: A parcela da arrecadação de impostos transferida pela União aos Estados, ao Distrito Federal e aos Municípios, ou pelos Estados aos respectivos Municípios, não é considerada, para efeito do cálculo previsto neste artigo, receita do governo que a transferir.
+    - `Par. 3o`: A distibuição dos recursos públicos assegurará prioridade ao atendimento das necessidades do ensino obrigatório, no que se refere a universalização, garantia de padrào de qualidade e equidade, nos termos do plano nacinonal de educação
+    - `Par. 4o`: Os programas suplementares de alimentação e assistência à saúde previstos no `art. 208`, VII, serão financiados com recursos provenientes de contribuições sociais e outros recursos orçamentários
+    - `Par. 5o`: A educação básica pública terá como fonte adicional de financiamento a contribuição social do salário-educação, recolhida pelas empresas na forma da lei.
+
+- `Art. 213`: Os recursos públicos serão destinados às escolas públicas, podendo ser dirigidos a escolas comunitárias, confessionais ou filantrópicas, definidas em lei, que:
+    - I. comprovem finalidade não-lucrativa e apliquem seus excedentes financeiros em educação
+    - II. assegurem a destinação de seu patrimônio a outra escola comunitária, filantrópica ou confessional, ou ao Poder Público, no caso de encerramento de suas atividades.
+
+- `Art. 214`: A lei estabelecerá o plano nacional de educação, de duração decenal, com o objetivo de articular o sistema nacinoal de educação em regime de colaboração e definir diretrizes, objetivos, metas e estratégias de implmentação para assegurar a manutenção e desenvolvimento do ensino em seus diversos níveis, etapas e modalidades por meio de ações integradas dos poderes públicos das diferentes esferas federativas que conduzam a:
+    - I. `erradicação do analfabetismo`
+    - II. universalização do atendimento escolar
+    - III. melhoria da qualidade do ensino
+    - IV. formação para o trabalho
+
+## Princípios Implícitos e Explícitos (Expressos e não Expressos)
+
+- `Art. 37`: Os princípios constitucionais explícitos que devem ser obedecidos pela Adm Pública são a legalidade, a `impessoalidade, a moralidade, a publicidade e a eficiência` (LIMPE)
+
+- `Proibição do retrocesso`: É considerado pela doutrina um `princípio constitucional implícito` (não está escrito na CF)
+    - A sua fundamentação contituicional pode ser extraída, entre outros, dos princípios da dignidade da pessoa humana e da segurança jurídica, bem como das garantias contituicionais da propriedade, do diretio adquirido, do ato jurídico perfeito e da coisa julgada.
+
+## Administração Pública Direta e Indireta
+
+- A Administraçao Pública direta é o conjunto de órgãos ligados diretamente ao Poder Executivo, em nível federal, estadual e municipal
+- A adm Pública direta exerce suas funções de maneira centralizada
+- A organização e o funcionamento da administração direta serão regulados por decreto
+
+- Autarquias, fundações, empresas, sociedades são exemplos de administração indireta
+
+- **OBS:**
+    - `Desconcentração` -> Órgão, algo interno, todas as entidades são desconcentradas (divididas em órgãos)
+    - `Descentralização` -> Entidade, voltado para adminstração indireta
 

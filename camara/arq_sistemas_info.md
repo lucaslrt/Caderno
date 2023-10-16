@@ -1092,3 +1092,85 @@ Primeiro você escreve o teste para depois implementar a funcionalidade
 3. Escreva o código
 4. Execute os testes automatizados
 5. Refatore o código
+
+---
+
+## Machine Learning
+
+### Material de Estudo
+
+- https://www.youtube.com/watch?v=L8mbZzoqxCo
+
+### Introdução
+
+- O que é inteligência:
+    - Lógica
+    - Compreensão
+    - Aprendizado (É o mais focado atualmente)
+    - Consciência
+    - Raciocínio
+    - Planejamento ...
+
+- Machine Learning vs Programação Clássica:
+Em machine learning, você fornece dados e exemplos de resultados para a máquina e ela é capaz de gerar as regras para a criação desses dados, com uma certa porcentagem de acerto
+
+```
+Dados    ___
+            |
+             ---> Regras
+Exemplos ___|
+de resultados
+```
+
+- Diferente da programação clássica, onde você fornece os dados e as regras para a máquina e a partir disso ela gera os resultados
+
+```
+Dados  ___
+          |
+           ---> Resultados
+Regras ___|
+```
+- Os custos de regras aprendidas é alto na programação clássica, entao, utilizando Machine Learning você consegue produzir as regras de maneira mais rápida
+
+### Definições
+
+- **Inteligência Artificial (IA)**: Sistemas computacionais que podem aprender e raciocinar com autonomia
+- IA > Machine Learning (ML) > Deep Learning (DL)
+- **Machine Learning ou Aprendizado automático**: Desempenho em uma tarefa aumenta com experiência extraída de novos dados
+
+### Aprendizado: Supervisionado vs Não Supervisionado
+
+- O que irá guiar o processo de aprendizagem?
+- **Supervisionado**: Conhecemos exemplos daquilo que queremos prever.
+- **Não Supervisionado**: Não temos um alvo apra guiar o aprendizado, então procuramos agrupar dados similares. `Agrupamentos` (clustering: k-means, hierárquico) ou `regras de associação` (Apriori)
+- **Por reforço**: Periodicamente recebemos uma recompensa quanto à qualidade das ações passadas. Ex: placar de um jogo.
+
+### Categorias de Aprendizado
+
+- **Supervisionado**: Existem dois tipos de categorias
+    - **Classificação**: Quando há alvos definidos e você aumeja treinar seu algoritmo para determinar se seus dados pertencencem a quais alvos
+    - Aquilo que eu tento prever é uma variável categórica, com um número limitado de possíveis valores
+        - Exemplo 1: Existem dois gêneros, masculinos e femininos. A partir de dados, quais dados são classificados como masculinos e quais são classificados como femininos?
+        - Exemplo 2: A partir de uma série de dados fornecidos do eleitor, qual eh o estado ao qual ele pertence?
+    - **Avaliando Classificação**:
+        - Principal métrica: taxa de acerto ou acurácia
+        - **Acurácia**: número de acertos / número total de predições
+        - **Classificação binária**: só duas possíveis classes: (0 ou 1), (V ou F)
+        - **Matriz de confusão**: matriz de número de ocorrências. Cada linha representa ocorrências da classe verdadeira e cada linha de ocorrências da classe predita
+
+    - **Regressão**: Existem ao invés de alvos, níveis ou percentuais que seus dados podem conter. O algoritmo precisa determinar qual a porcentagem ou o nível de determinado dado.
+    - Aquilo que eu tento prever é uma variável contínua de infinitos valores
+        - Exemplo 1: Qual o nível de masculinidade de determinada foto?
+        - Exemplo 2: Prever a renda média que uma pessoa declarou no imposto de renda a partir dos seus dados
+
+- **Não Supervisionado**:
+    - **Agrupamento**
+    - **Redução de Dimensionalidade**
+    - **Regras de Associação**
+    - **Sistemas de recomendação**
+
+### Matriz de Confusão
+
+**Add img aqui**
+**Add img aqui**
+**Add img aqui**

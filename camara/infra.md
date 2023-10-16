@@ -322,6 +322,23 @@ DROP TABLE Cliente RESTRICT
 
 ### DML
 
+- **Inclusão de Dados**
+
+    ```SQL
+    INSERT INTO <target table> [(<column_list>)]
+    VALUES(<value_list>)|<query_expression>
+    ```
+
+    ```SQL
+    INSERT INTO Cliente
+    VALUES (20, 'Gabriel Pacheco') # Add na ordem das colunas na tabela
+
+    INSERT INTO Cliente (nome, cod_cliente)
+    VALUES ('Gabriel Pacheco', 50) # Add na nas colunas especificadas (nome, cod_cliente)
+    ```
+
+- **Udate** (+Material)
+
 - **Exclusão de dados**
 
     ```SQL
@@ -334,6 +351,10 @@ DROP TABLE Cliente RESTRICT
 
     DELETE FROM Clientes WHERE nome_cliente like 'G%' # Apagar todos os dados onde o atributo `nome_cliente` comece com a letra `G` e pode ter qualquer quantidade de dados depois dela (definido pelo '%')
     ```
+
+- **Case** (+Material)
+
+### DQL
 
 - **Select**
 
@@ -359,26 +380,28 @@ SELECT distinct salario_empregado
     FROM Empregado; # Pega só a primeira ocorrencia de um salário específico
 ```
 
-- **Case**
+### DCL (+Material)
 
-**(Buscar mais material!!!!!!)**
+- **Grant**: Use a instrução GRANT para conceder privilégios a um usuário ou função específico ou a todos os usuários para executar ações em objetos de banco de dados
+- Os seguintes privilégios podem ser condedidos:
+    - Excluir dados de uma tabela específica
+    - Inserir dados em uma tabela específica
+    - Criar uma referência de chave estrangeira para a tabela nomeada ou para um subconjunto de colunas de uma tabela
+    - Selecionar dados de uma tabela, visualização ou um subconjunto de colunas em uma tabela
+    - Criar um gatilho (trigger) em uma tabela
+    - Atualizar dados em uma tabela ou em um subconjunto de colunas em uma tabela
+    - Executar uma função ou procedimento especificado
+- Você pode conceder privilégios em um objeto se você for o proprietário do objeto ou o proprietário do banco de dados
+
+- **Revoke**
+
+### DTL (+Material)
+
+- **Begin**
+- **Commit**
+- **Rollback**
 
 
-
-- **Inclusão de Dados**
-
-    ```SQL
-    INSERT INTO <target table> [(<column_list>)]
-    VALUES(<value_list>)|<query_expression>
-    ```
-
-    ```SQL
-    INSERT INTO Cliente
-    VALUES (20, 'Gabriel Pacheco') # Add na ordem das colunas na tabela
-
-    INSERT INTO Cliente (nome, cod_cliente)
-    VALUES ('Gabriel Pacheco', 50) # Add na nas colunas especificadas (nome, cod_cliente)
-    ```
 
 ## Arquitetura TCP/IP (+Material)
 
@@ -509,3 +532,98 @@ Toda comunicação, face-a-face ou por uma rede, é regida por `regras` pré-det
 ### QoS (Qualidade do Serviço) Buscar mais material!!!
 
 ### Moduladores e multiplexadores (Buscar mais material!!!)
+
+
+## Oracle Database
+
+### Material de Estudo
+
+- https://www.youtube.com/watch?v=PB9Vcpe8q2Y
+
+### Introdução
+
+- Toda organização tem informações que devem ser armazenadas e gerenciadas para atender aos seus requisitos
+- Uma organização deve `coletar e manter registros` (SGBD)
+- As informações devem estar `disponíveis` sempre que necessário
+- Um banco de dados é uma `coleção organizada de informações`
+- O objetivo de um banco de dados é coletar, armazenar e recuperar informações relacionadas para uso por `aplicativos de banco de dados` (clientes).
+- Um `Sistema de Gerenciamento de Banco de Dados (SGBD)` é um software que `controla` o armazenamento, a organização e a recuperação de dados.
+- Um `aplicativo de banco` de dados é um programa que interage com um banco de dados para `acessar e manipular dados`
+- Um `banco de dados hierárquico` organiza dados em uma `estrutura em árvore`.
+- Um `banco de dados de rede` é semelhante a um banco de dados hierárquico, exceto que os registros têm um relacionamento `muitos-para-muitos` em vez de um-para-muitos
+- Um `banco de dados relacional` é um banco de dados em conformidade com o modelo relacional (entidades e relacionamentos)
+- O `modelo relacional` possui os seguintes aspectos principais:
+    - **Estruturas**: objetos bem definidos armazenam ou acessam os dados de um banco de dados
+    - **Operações**: ações `claramente definidas` (declarativo) permitem que os aplicativos manipulem os dados e as estruturas de um banco de dados.
+    - **Regras de integridade**: governam as operações nos dados e nas estruturas de um banco de dados.
+        - Define as restrições de cada entidade
+- Um `banco de dados relacional` armazena dados em `conjuntos de relações simples`:
+    - Uma `relação` é um `conjunto de tuplas`
+    - Uma `tupla` é um `conjunto não ordenado de valores de atributos`.
+- Uma `tabela` é uma representação bidimensional de uma relação na forma de `linhas` (tuplas) e `colunas` (atributos)
+- Cada `linha` possui o mesmo `conjunto de colunas`
+- Um `banco de dados relacional` é um banco de dados que `armazena dados em relações` (tabelas)
+- Um `SGBDR`:
+    - Move dados para um banco de dados
+    - Armazena os dados de maneira `persistente`
+    - Recupera os dados para que os aplicativos possam manipulá-los através de `consultas`
+- Um `SGBDR` distingue entre os seguintes tipos de operações:
+    - **Operações Lógicas**: um aplicativo especifica qual conteúdo é necessário (de forma `declarativa`)
+    - **Operações Físicas**: o SGBDR determina como as coisas devem ser feitas e realiza a operação, `armazena e recupera` dados para que as operações físicas sejam `transparentes` para aplicativos de banco de dados.
+
+### Oracle Database
+
+- O Oracle Database é um `SGBDOR`
+    - Um `SGBDR` que implementa recursos `orientados a objetos`, como tipos definidos pelo usuário, herança e polimorfismo, é chamado de `Sistema de Gerenciamento de Banco de Dados Objeto-Relacional` (SGBDOR)
+- O Oracle Database estendeu o modelo relacional a um `modelo objeto-relacional`, possibilitando o armazenamento de modelos de negócios complexos em um banco de dados relacional
+- A tipificação dos dados acontece no momento em que o usuário insere esse dado, e não previamente como os modelos relacionais tradicionais
+
+### Objetos de Esquema
+
+- No Oracle Database, um `schema` é uma `coleção de estruturas lógicas` de dados (tabelas, views, indices, triggers, etc) ou `objetos de schema`
+- Um usuário de banco de dados é `proprietário de um schema de banco de dados`, que tem o mesmo nome que o nome de usuário.
+- `Objetos de schema` são estruturas criadas pelo usuário que se referem diretamente aos dados no banco de dados.
+    - Objetos de schema podem ser criados e manipulados com SQL (DDL)
+    - Um objetos de schema é um tipo de objeto de banco de dados.
+- O banco de dados suporta muitos tipos de objetos de schema, dos quais os mais importantes são `tabelas e índices`
+- Alguns objetos de banco de dados, como perfis e funções, não residem em schemas
+
+#### Tabelas
+
+- Uma `tabela` descreve uma entidade
+    - Uma tabela é um conjunto de linhas e colunas
+- Uma `coluna` identifica um `atributo da entidade` (uma característica da entidade) descrito pela tabela, enquanto uma `linha` identifica uma `instância da entidade`.
+    - A cada coluna é atribuído um nome, um tipo de dados e uma largura
+- É possível especificar uma regra, chamada `restrição de integridade`, para uma coluna. Um exemplo é uma restrição NOT NULL, que força a coluna a conter um valor em cada linha
+
+#### Índices
+
+- Um `índice` é uma estrutura de dados opcional que pode ser criado em uma ou mais colunas de uma tabela
+- Os índices podem aumentar o desempenho da recuperação de dados
+- Um banco de dados pode usar índices para `localizar as linhas solicitadas com eficiência`
+- Os índices são `logicamente e fisicamente independentes dos dados`
+- É possível descartar e criar índices sem afetar as tabelas ou outros índices
+
+### [Acesso aos Dados - Linguagem SQL](#sql-structured-query-language-material)
+
+- A linguagem SQL é uma `linguagem declarativa` baseada em conjunto que fornece uma interface para um `SGBDR`, como o Oracle Database.
+- A linguagem SQL `não é processual` e descreve o que deve ser feito
+- A linguagem SQL é a `linguagem padrão ANSI` para bancos de dados relacionais
+- Todas as operações nos dados em um Oracle Database são executadas usando instruções SQL
+- Uma instrução SQL pode ser considerada um pgograma ou instrução de computador
+- Uma instrução SQL é uma sequência de texto SQL
+- As instruções SQL permitem executar as seguintes tarefas:
+    - [Consultar dados](#dql) 
+    - [Inserir, atualizar e excluir linhas em uma tabela](#dml)
+    - [Criar, substituir, alterar e liberar objetos](#ddl)
+    - [Controlar o acesso ao banco de dados e seus objetos](#dcl-material)
+    - [Garantir consistência e integridade do banco de dados](#dtl-material)
+
+### Acesso aos dados - PL/SQL
+
+- O PL/SQL é uma `extensão procedural` do Oracle SQL
+- É integrado ao Oracle Database, permitindo que sejam usadas todas as instruções, funções e tipos de dados SQL do Oracle Database
+- Pode ser usado para `controlar o fluxo de um programa SQL`, `usar variáveis` e `escrever procedimentos de tratamento de erros`
+- Um `procedimento` ou função PL/SQL é um `objeto de schema` que consiste em um conjunto de instruções SQL e outras construções PL/SQL
+- As instruções são agrupadas, armazenadas no banco de dados e executadas como uma `unidade` para resolver um problema específico
+

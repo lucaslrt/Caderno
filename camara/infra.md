@@ -1,5 +1,28 @@
 # ARQUITETURA DE INFRAESTRUTURA DE TECNOLOGIA DA INFORMAÇÃO E COMUNICAÇÃO
 
+## O que falta
+
+- NoSQL
+- Tabela Fato
+- Data Lake
+    - Trusted Zone
+- Data Mining
+    - Árvores de Decisão
+- Persistência poliglota de dados
+- Oracle
+    - Oracle Automatic Storage Management
+- SQL Server
+    - Grupos de disponibilidade
+    - Ajuste automático
+- PostgreSQL
+    - MVCC
+- SQL
+    - SUM
+    - COUNT
+    - INNER JOIN
+    - ON
+    - GROUP BY
+
 ## Material
 
 - https://learn.microsoft.com/pt-br/training/paths/deploy-manage-identity-infrastructure/
@@ -527,7 +550,7 @@ Toda comunicação, face-a-face ou por uma rede, é regida por `regras` pré-det
 
 ### UDP (Buscar mais material!!!)
 
-## FTP (Buscar mais material!!!)
+## FTP (+Material)
 
 ### QoS (Qualidade do Serviço) Buscar mais material!!!
 

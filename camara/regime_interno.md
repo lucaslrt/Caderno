@@ -1,5 +1,9 @@
 # Regimento Interno da Câmara
 
+## O que falta
+
+- Órgãos da câmara
+
 ## Material de Estudo
 
 - https://www.youtube.com/watch?v=RJJzJvEALU4
@@ -16,7 +20,7 @@
 
 - O regimento não é linear (É importante pegar o pdf do regimento) (**Lembrar de linkar as referencias dos artigos aqui**)
 - Título 1 Disposições Preliminares
-- Título 2 dos órgãos da câmara (**Foco nas comissões**)
+- Título 2 dos órgãos da câmara (**Foco nas comissões**) +Material
 - Título 3 das sessões da câmara
 - Título 4 das proposições
 - Título 5 da apreciação das proposições (**Cai pouco**)
@@ -59,9 +63,9 @@
         - De norte a sul
         - Orderm Geográfica das Capitais
         - Ordem alfabética do nome parlamentar
-    - No dia 1o de fev, ocorre a 1a sessão preparatória, a posse.
-    - No dia 1o de fev também ocorre a 2a sessão preparatória, a eleição dos membros da Mesa
-    - Na 3a sessão preparatória, dia 1o de fev do segundo ano, ocorre, antes de inaugurar a sessão legislativa, ocorre a eleição dos membros da Mesa
+    - No dia `1o de fev`, ocorre a 1a sessão preparatória, a posse.
+    - No dia `1o de fev` também ocorre a 2a sessão preparatória, a eleição dos membros da Mesa
+    - Na 3a sessão preparatória, dia `1o de fev do segundo ano`, ocorre, antes de inaugurar a sessão legislativa, ocorre a eleição dos membros da Mesa
     - No ` `, tem referências às SPs
 
 - `Art 4o`
@@ -82,7 +86,9 @@
     - O prazo pode ser maior caso haja motivos de força maior ou enfermidade devidamente comprovada
     - No `art 17 VI`, atribuições do presidente, ele dá a posse aos deputados federais diplomados.
     - No `art 6o` tem que a posse pode se dar por Videoconferência caso estejam doentes ou com licença gestante
-    - O compromisso é prestado só uma vez
+        - O requerimento para assegurar a posse virtual deverá ser acompanhado de declaração de parto em período de até 120 dias
+    - O `compromisso solene` (compromisso de posse) é prestado `só uma vez`
+        - Ao prestar o compromisso de posse só pode-se dizer `"Assim o prometo"`. Qualquer outra coisa dita, não se considera que ele tenha sido efetivamente investido no mandato de deputado
 
 ### Sessões Preparatórias: Eleição da Mesa
 
@@ -91,7 +97,7 @@
     - Sempre que possível, sob a direção da Mesa da sessão anterior
     - O mandato é de dois anos, vedada a reconduçao para o mesmo cargo na eleição subsequente
     - Nao se considera recondução quando em legislaturas diferentes, ou seja entre uma eleição para presidente da república e outra.
-    - Enquanto o presidente da mesa não for eleito, não há apuração dos demais cargos. A mesa anterior continua os trabalhos.
+    - Enquanto o presidente da mesa não for eleito,` não há apuração dos demais cargos`. A mesa anterior continua os trabalhos.
     - Na 3a SLO a data e hora para a eleição previamente designadas pelo presidente, antes de inaugurada a sessão legislativas
     - A eleições serão feitas por:
         - Votação por escrutínio (votação) secreto (urna eletrônica)
@@ -166,8 +172,8 @@
     - O bloco para existir, precisa no mínimo de `três centésimos` dos membros da Câmara (16 deputados)
         - Não manda desprezar fração
     - Perda do mínimo extingue o bloco
-    - Partido que deixa um bloco não pode integrar outro na mesma sessão
-    - Não é possível estar em dois blocos simultaneamente
+    - Partido que deixa um bloco `não pode integrar outro na mesma sessão`
+    - Não é possível estar em `dois blocos simultaneamente`
     - Para fins de eleição da Mesa e Comissões Permanentes, a formação do bloco deverá ser comunicada à Mesa até:
         - 1o fev do ano para Comissões e 1o Biênio da Mesa
         - 1o fev do 3o ano - 2o Biênio da Mesa

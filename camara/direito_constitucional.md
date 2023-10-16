@@ -1,5 +1,10 @@
 # DIREITO CONSTITUCIONAL
 
+## O que falta
+
+- Processo Legislativo
+- Inpugnação de mandato
+
 ## Material de estudo
 - https://www.youtube.com/watch?v=ZVE9QTaUPu0
 - https://www.youtube.com/watch?v=h8DgJyLh64k
@@ -272,7 +277,7 @@ VI - a idade mínima de:
 
 - I - `cancelamento da naturalização` por sentença transitada em julgado (perda)
 - II - incapacidade civil `absoluta` (suspensão)
-- III - condenação criminal `transitada em julgado`, enquanto durarem seus efeitos (suspensão)
+- III - condenação criminal `transitada em julgado` (quando não caber mais recursos), enquanto durarem seus efeitos (suspensão)
 - IV - recusa de cumprir obrigação a todos imposta ou prestação alternativa, nos termos do `art. 5o, VIII` (suspensão)
 - V - `improbidade adminstrativa`, nos termos do `art. 37, Par. 4o` (suspensão)
 
@@ -286,7 +291,9 @@ VI - a idade mínima de:
 - `Par. 5o` Inelegibilidade Relativa: O Presidente da república, os Governadores de Estado e do Distrito Federal, os Prefeitos e quem os houver sucedido, ou susbstituído no curso dos mandatos poderão ser reeleitos para um único período subsequente. Essa regra também atinge os Vices (só pode ser vice duas vezes consecutivas)
 - `Par. 6o` Motivos Funcionais Referentes a Outro Cargo: Para concorrerem a outros cargos, o Presidente da República, os Governadores de Estado e do Distrito Federal e os Prefeitos devem renunciar aos respectivos mandatos até 6 meses antes do pleito
 - `Par. 7o` Motivos de Casamento, Parentesco ou Afinidade (inelegibilidade reflexa): São inelegíveis, no território de jurisdição do titular, o cônjuge e os parentes consanguíneos ou afins, até o 2o grau ou por adoção, do Presidente da República, de Governador de Estado ou Território, do Distrito Federal, de Prefeito ou de quem os haja subistituído dentro dos 6 meses anteriores ao pleito, salvo se já titular de mandato eletivo e candidato à reeleição
-- `Par. 10o`: O mandato eletivo poderá ser impugnado ante a Justiça Eleitoral no prazo de 15 dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude
+- `Par. 10o`: O mandato eletivo poderá ser impugnado ante a `Justiça Eleitoral` no prazo de 15 dias contados da diplomação, instruída a ação com provas de abuso do poder econômico, corrupção ou fraude
+    - O processo de impugnação tem que rodar em segredo de justiça, ou seja, sem ampla publicidade
+- `Par. 12o`: A constituição federal autoriza a realização de consultas populares diretas concomitantemente às eleições municipais, observado que os quesitos sejam encaminhados à Justiça Eleitoral até 90 dias antes da data das eleções
 
 `Art 16o`: A lei que altera o processo eleitoral entrará em vigor na data de sua publicação, não se aplicando à eleição que ocorra até um ano da data de sua vigência
 

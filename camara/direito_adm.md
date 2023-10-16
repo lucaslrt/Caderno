@@ -1,14 +1,26 @@
 # DIREITO ADMINISTRATIVO
 
+## O que falta
+
+- Tem muita coisa faltando, necessário buscar melhores materiais
+
 ## Material de estudo
 
 - https://www.youtube.com/watch?v=53pQJERXK78
 
 ## Glossário
 
-- Administrado: O particular \ Sujeito, Pessoa \ Cidadão, Interessado
-- Atividade-fim: O meio que a empresa atua (O bb, por exemplo, que faz empréstimo, mas tem servidores público, sua atv fim é o empréstimo nesse caso, ou seja regido pelo Dir. Privado)
-- Estanque: consolidado
+- **Administrado**: O particular \ Sujeito, Pessoa \ Cidadão, Interessado
+- **Atividade-fim**: O meio que a empresa atua (O bb, por exemplo, que faz empréstimo, mas tem servidores público, sua atv fim é o empréstimo nesse caso, ou seja regido pelo Dir. Privado)
+- **Estanque**: consolidado
+- **Desconcentração**: Quando você separa um órgão em dois (o contrário é Concentração)
+    - Mesma poessoa jurídica
+    - Com hierarquia e com subordinação
+- **Descentralização**: É a criação de uma Entidade Admnistrativa ou alteração de serviço para uma empresa particular (diferente de privatização!)
+    - Entidades - Pessoas jurídicas distintas
+    - Sem hierarquica e com vinculação
+    - Por outorga e por delegação
+- **Concessão**: Quando vc delega a prestação de um serviço público a uma empresa Particular
 
 
 ## O que é Direito
@@ -41,7 +53,7 @@ Obs: Esses direiros nem sempre estão separadas, essas regras muitas vezes estã
 
 ## Objeto do Direito Administrativo
 
-O objeto do direoto administrativo é o estudo da **função administrativa**. São objetos de estudo do Direito Administrativo:
+O objeto do direito administrativo é o estudo da **função administrativa**. São objetos de estudo do Direito Administrativo:
 
 1. Relações Internas da Adminstração
 - Rel. entre Órgãos/Entidades
@@ -223,11 +235,79 @@ Subjetivo, Orgânico e Formal:
 1. Adm. Direta:
     - Pessoas políticas (U, E, DF, Municípios)
     - Órgãos públicos
-2. Adm. Indireta:
-    - Autarquias
-    - Fundações Públicas
-    - Empresas Públicas
-    - Sociedades de Economia Mista
+
+2. Adm. Indireta (Entidades Administrativas):
+- Qualquer membro do Estado pode criar qualquer uma dessas entidades (municípios, estados, federação)
+- São divididas em 2 categorias:
+    - **Ent. adm. de direito Público**: Criadas por lei e precisa da criação de um Estatuto (registro)
+        - **Autarquias**
+            - Possuem algumas prerrogativas:
+                - Prazos processuais em dobro
+                - Duplo grau de jurisdição (ela nao precisa recorrer para ir para o tribunal)
+                - Prescrição quinquenal
+                - Imunidade tributária
+                - Atua sobre um regime de precatórios
+                - Tem personalidade jurídica própria
+            - **Agências Reguladoras**:
+                - É uma autarquia em reg. Especial
+                - Possui autonomia maior
+                - Mandato com prazo fixo
+                - Podem aplicar sanções
+                - Ex: Bacen
+            - **Agências Executivas**:
+                - Podem ser `Autarquias ou Fundações Públicas`
+                - Não é criada por lei. É só uma `qualificação` de uma Entidade Administrativa
+                - Não é uma nova classificação de pessoa jurídica
+                - É necessario ter um plano estratégico
+                - É necessário ter um contrato de Gestão
+                - Recebe um aumento de autonomia para Dispensa de Licitação em Dobro
+        - **Fundações Públicas**
+            - A criação de fundação pública de direito privado para a prestação de serviço público é `constitucional`
+        
+    - **Ent. adm. de direito Privado**: Criada como uma empresa particular, porém é necessário a criação do Estatuto (registro) e a Autorização Legislativa antes, como pessoa jurídica de direito privado.
+        - Seu regime pessoal é o `celetista`
+        - **Empresas Públicas**:
+            - É criada por lei
+            - Exerce atividade economica no sentido estrito
+            - O capital dela vem 100% do poder público
+            - Sua forma jurídica pode ser de qualquer tipo
+            - Seu foro é na Justiça Federal
+            - Não pode ter acionistas
+            - Ex: Caixa
+        - **Sociedades de Economia Mista**
+            - Exerce atividade economica no sentido estrito
+            - Permite que o capital venha do poder privado desde que este seja minoritário (ações com direito a voto)
+            - Sua forma jurídica necessariamente precisa ser de Sociedade Anonima (S.A)
+            - Seu foro é na Justiça Estadual
+            - Ex: Banco do Brasil
+        - **Organização da Sociedade Civil**
+
+    **Add img aqui**
+
+### Parcerias
+
+- Existem diversas formas de parcerias entre o Estado e a iniciativa privada
+    - Convênio: Parcerias que envolvem entidades de saúde
+    - Contrato de Gestão: São firmado com as Organizações Sociais
+    - Termo de Parceria: Organização da Sociedade Civil de Interesse público
+    - `Lei 13019`:
+        - Acordo de Cooperação: Sem recurso financeiro
+        - Termo de Colaboração: Com recurso financeiro, com iniciativa da Adm. Pública 
+        - Termo de Fomento: Com recurso financeiro, com iniciativa da Org. da Sociedade Civil
+
+### Agências Reguladoras
+
+- As Agências Reguladoras, criadas como autarquias especiais pelo Poder Legislativo (`Art. 37, XIX, CF`), recebem da lei que as instituem uma `delegação para exercer seu poder normativo de regulação`, competindo ao Congresso Nacional a fixação das finalidades, dos objetivos básicos e da estrutura das Agência, bem como a fiscalização de suas atividades.
+
+- As Agências Reguladoras não poderão, no exercício de seu poder normativo, `inovar primariamente a ordem jurídica sem expressa delegação`, tampouco regulamentar matéria para a qual inexista um prévio conceito genérico, em sua lei instituidora (standards), ou criar ou aplicar sanções não previstas em lei, pois, assim como todos os Poderes, Instituições e órgãos do poder público estão submetidas ao princípio da legalidade (`CF, art. 37, caput`)
+
+- No caso em julgamento, a `Lei 10.33/2003`, com as alterações redacionais supervenientes, fixou os critérios mínimos indispensáveis para o exercício, pela Agência Reguladora, da competência para imposição de sanções pela prática de infrações administrativas.
+
+**Add img aqui** (Entidades paraestatais)
+
+## Poderes Administrativos
+
+
 
 ## Dano de patrimônio
 

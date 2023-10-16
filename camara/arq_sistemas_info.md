@@ -1,5 +1,53 @@
 # ARQUITETURA DE SISTEMAS DA INFORMAÇÃO
 
+## O que falta
+
+- Comandos Linux
+- Comando Windows
+- Serviço em nuvem
+    - PaaS, SaaS, IaaS
+- Backups
+    - Completo e parcial
+    - Incremental e diferencial
+- VMware
+- Nginx
+- HTML / CSS
+    - Web responsivo
+- Javascript
+    - Map, reduce, filter..
+- Python
+    - dunder methods
+- Java
+    - Thread Pool
+    - Executor
+- SpringBoot
+- JPA
+    - Hibernate
+    - Estados
+- Docker
+    - Comandos
+- Serveless Computing (Caiu bastante na SEFAZ MG)
+- Kubernetes
+    - YAML
+- Swift (Básico)
+- Web Services
+    - HTTP, SMTP e FTP
+- Qualidade de software
+- Desenvolvimento de interfaces de usuários
+- Cobit 2019 (Buscar mais material)
+- ITIL4
+    - Gerenciamento de Problemas
+    - Controle de Mudanças
+- Planejamento de TI
+    - SWOT
+    - Ciclo PDCA
+    - Tipos de estrutura organizacional
+    - Escritório de Projetos (PMO)
+- Machine Learning
+    - Model Fitting
+    - Lemmatization
+    - Transfer learning
+
 ## Material Utilizado
 
 - https://www.youtube.com/watch?v=8MqYRN4DnSs
@@ -521,6 +569,12 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
 
 ## Kubernetes Avançado (+Material) (Rever vídeo)
 
+### Material Utilizado
+
+-
+
+### Conteúdo
+
 - **Cloud Native App's**: É uma junção de aplicações baseadas em **Clean Code** (Boas práticas de código), **Domain-Driven Desing** (Padrões de Códigos), **Microservices Principles** (Escalabilidade) e **Kubernetes Patterns** (Padrões baseados em containers)
 
 - KBS (Kubernetes) != Docker: Dockers são containers, KBS é um padrão baseado em containers.
@@ -650,7 +704,7 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
 - Containers Auxiliares
     - Integração
 
-## ITIL4 (+Material) (Fazer questões pra ver se precisa de mais material)
+## ITIL4 (+Material)
 
 - O que é:
     - Guia de melhores práticas para gerenciamento de serviços de TI
@@ -748,6 +802,7 @@ Esses padrões se concentram na composição de classes e objetos para formar es
     - Sempre que tiver a palavra "incompatível" provavelmente vai ser Adapter a solução
 
 2. **Composite Pattern:** Permite que você componha objetos em estruturas de árvore para representar hierarquias de partes-todo.
+- É usado onde precisamos manipular um ou mais objetos similares de forma similar
 - Essas estruturas são trabalhadas como se elas fossem objetos individuais
 - Dica de questões:
     - Sempre que tiver a palavra "hierarquia" ou "coexistem objetos" ou "agregados de objetos da mesma espécie" ou "partes-todo" provavelmente eh Composite.
@@ -782,6 +837,7 @@ Existem 11 padrões:
     - Tem os observables (emitem os dados) e os Observers (respondem aos dados emitidos)
 - Dicas de questão:
     - Sempre que tiver a frase "um-para-muitos" ou "notificação de objetos" ou "mudança de estado de um objeto atualiza outro", geralmente é Observer
+- Um dos padrões mais importantes do `MVC`
 
 2. **Strategy Pattern:** Define uma família de algoritmos, encapsula cada um deles e os torna intercambiáveis. Isso permite que o algoritmo varie independentemente dos clientes que o usam.
 
@@ -901,6 +957,11 @@ No PMBOK 6a edição, temos 49 processos de gestão de projetos divididos em 5 g
 
 ## Scrum (Fazer questões +Material)
 
+- Os 3 `pilares empíricos do Scrum` são:
+    - Transparência
+    - Inspeção
+    - Adaptação
+
 - Framework para desenvolver, entregar e manter produtos complexos
 - Consiste de times Scrum associados a papéis, eventos, artefatos e regras
 - Ideal para times pequenos
@@ -924,9 +985,10 @@ No PMBOK 6a edição, temos 49 processos de gestão de projetos divididos em 5 g
 **Planejamento da Sprint**
 
 - Define o trabalho a ser realizado na Sprint
-- *time-boxed* com no máximo oito horas para uma Sprint de um mês de duração
+- *time-boxed* com no máximo 8 horas para uma Sprint de um mês de duração
 - O que pode ser entregue como resultado do incremento da próxima Sprint?
 - Como o trabalho necessário para entregar o incremento será realizado?
+- O `Backlog da Sprint`, resultado do Planejamento da Sprint, é composto pelos `itens seleciondos do Backlog do Produto`, a `meta da Sprint` e um `plano de entrega` para cada um dos ítens.
 
 **Reunião Diária**
 
@@ -975,8 +1037,18 @@ Product backlog -> Sprint backlog -> 2-4 semanas (dailies) -> Incremento entreg�
 
 ## CObiT 2019 (+Material)
 
+### Material Utilizado
+
+### Cascata de Objetivos
+
+- A cascata de obetivos traduz necessidades de stakeholders em objetivos corporativos, que, por sua vez, são traduzidos em objetivos de alinhamento e, finalmente, em objetivos de governança e gerenciamento.
+
 ### Governança Corporativa de Tecnologia e Informação (EGIT)
 
+- Os 3 benefícios principais da Governança de TI são:
+    - Criação de Valor (Realização de Benefícios): Manter ou aumentar o valor derivado de investimentos de TI
+    - Otimização de Riscos: Visa a preservar o valor gerado
+    - Otimização de Recursos: Garante que os recursos necessários estão disponíveis para executar os planos estratégicos
 - A governaça de informação e tecnologia (I&T) pode estar fora do departamento de TI também
 - I&T corporativos engloba toda a informação e tecnologia que:
     - A organização gera;
@@ -1018,6 +1090,10 @@ Product backlog -> Sprint backlog -> 2-4 semanas (dailies) -> Incremento entreg�
 
 - **Qualidade**: É a `confiabilidade`, de estabilidade e de desempenho do objetivo do teste (sistema ou aplicativo em teste)
     - O quanto o teste é confiável?
+
+### Métricas (+Material)
+
+- Complexidade Ciclomática
 
 ### Estratégia de Testes x Processo de Software
 
@@ -1077,7 +1153,7 @@ Os `tipos de testes` em ordem de mais alto nível para mais baixo nível são:
 - **Teste de caixa preta**: Verifica a `função sem conhecer internamente`, é um `teste comportamental ou funcional`
     - Métodos de teste com base em grafo
     - Particionamento de equivalência
-    - Análise de valor limite
+    - Análise de valor limite (ou limítrofes)
     - Teste de matriz ortogonal
     - Teste baseado em modelos
 
@@ -1174,3 +1250,5 @@ Regras ___|
 **Add img aqui**
 **Add img aqui**
 **Add img aqui**
+
+## Javascript

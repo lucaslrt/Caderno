@@ -1252,3 +1252,475 @@ Regras ___|
 **Add img aqui**
 
 ## Javascript
+
+### Material Utilizado
+
+- https://www.youtube.com/watch?v=5T1PJrStSME&list=PLBKXa8XfK1igcc6FbGh_zBP8NssIPtVWd&index=4
+- https://questoes.grancursosonline.com.br/aluno/filtro/concursos?banca=102&desatualizada=0&anulada=0&query=Javascript (Principal)
+
+### Introdução
+
+- É uma linguagem de programação
+- Adiciona interatividade a uma página web
+- Permite criar aplicações web ricas
+- Funciona tipicamente no front-end
+- Não é obrigatório o uso de `;` no fim de cada linha mas é recomendado
+
+
+### Básicos
+
+- Para alterar um elemento no HTML usando javascript você precisa primeiramente `buscar esse elemento`
+- `document`: responsável por acessar o `DOM` (Modelo de Objeto de Documento) da página um elemento na árvore de elementos
+    - A árvore de elementos contém todos os elementos da página e está dentro do DOM
+
+No HTML temos:
+
+```HTML
+<body>
+Exemplo: <p id="exemplo"></p> <!-- O que queremos alterar -->
+<script src="">main.js</script> <!-- Onde o código javascript está inserido -->
+</body>
+```
+
+Queremos alterar o elemento com o id 'exemplo' (pode ter aspas duplas ou simples, tanto faz). Para isso utilizamos:
+
+```Javascript
+// main.js
+var exemplo = document.getElementById('exemplo')
+exemplo.innerHTML = "Hello World"; //innerHTML pega somente o elemento interno do objeto, ao invés do elemento todo (<p id="exemplo"></p>) 
+
+/* Output:
+/ Exemplo: Hello World
+*/
+```
+
+## Microsserviços
+
+### Material Utilizado
+
+- https://www.youtube.com/watch?v=tjJuM1r5AFM 
+- https://www.youtube.com/watch?v=i-NuIdXPZCA (Principal)
+
+### Introdução
+
+- **Sistema Típico (Arquitetura Monolítica)**
+    - Arquitetura com 3 camadas distintas
+        - Front-end: Interface com o cliente, recebe as requisições do usuário
+        - Back-end: Efetua a lógica de negócio
+        - Database: Repositório de dados, banco de dados
+    - A escalabilidade é mais difícil de ser implementada dessa forma, para isso existe a `Arquitetura em Microsserviços`
+
+- **Arquitetura de Microsserviços**
+    - Os serviços são
+      - Pequenos
+      - Autônomos
+      - Isolados e altamente coesos
+      - Trabalham em conjunto
+      - Escaláveis
+      - Tecnologicamente diversos
+    - O barramento de comunicação não possui lógica
+      - Dumb pipes, smart endpoints
+    - A comunicação pode ser `Síncrona` e `Assíncrona`
+    - Possuem um `escopo de aplicação`
+    - Deploy de cada serviço é independente
+    - É possivel escalar um serviço mais que o outro caso esse serviço tenha uma demanda maior
+    - **Desafios**
+      - Espalhamento de informações
+      - Dependência entre serviços na hora de compilá-los
+      - Teste de integração mais custosos
+      - Controle de versão: cuidar com a compatibilidade entre os serviços
+      - Implantação: Deve-se investir em automação
+      - Geração de logs: Logs centralizados
+      - Monitoramento: Ter uma visão centralizada para identificar problemas
+      - Depuração: Como realizar depuração remotamente com muitos serviços
+      - Conectividade: Manter os serviços on-line
+      - Acompanhamento de transações de uma única sessão
+  
+- **Ecossistema de Microsserviços**: É dividido em 4 camadas
+  - **Hardware**
+    - Máquinas, computadores físicos
+    - Núvem: AWS, Azure, Google Cloud
+    - Sistema Operaciona: geralmente Linux
+    - Conteinerização: para isolamento de recursos, como Docker
+  
+  - **Comunicação**
+    - Contém a rede: DNS, RPCs, Endpoints de API
+    - Descoberta de Serviços
+    - Registro de Serviços
+    - Balanceamento de carga
+    - Comunicação entre microsserviços
+      - **Emissor da mensagem**: microsserviço que gera a mensagem (produtor, publicador)
+      - **Receptor da mensagem**: microsserviço que recebe e processa a mensagem (consumidor, assinante)
+      - A comunicação pode se dar de 2 maneiras: HTTP+REST ou Mensageria
+      - **HTTP+REST**:
+        - Acesso a endpoints REST de outros microsserviços
+        - Fácil de implementar
+        - Síncrono, bloqueante
+        - Emissor espera o Receptor retornar
+        - Mesmo que o processamento seja feito com Threads, o emissor precisa esperar a resposta do receptor
+      - **Mensageria**:
+        - Troca de mensagens assíncronas, não bloqueante
+        - Emissor não espera o Receptor retornar
+        - Dev ter uma camada intermediária: `*broker* de mensagem`
+          - O emissor envia uma mensagem (dados) pela rede (HTTP ou outro protocolo) e não fica esperando a resposta
+          - A mensagem é tratada e enfileirada em uma fila específica
+          - O *broker* roteia a requisição para os receptores, que respondem à requisição
+        - Ex: RabbitMQ
+        
+  - **Plataforma de Aplicação**
+    - Ferramentas e serviços internos independentes dos microsserviços
+    - Bibliotecas, módulos gerais
+    - Sistema de build, release centralizado e automatizado
+    - Testes automatizados
+    - *Deploy* padronizado e centralizado
+    - *Logging* e monitoramento a nível de microsserviços
+  
+  - **Microsserviços**
+  
+- Padrões de Projeto
+    - Soluções genéricas para problemas recorrentes
+    - Ajudam a resolver problemas com a arquitetura de microsserviço
+        - Como manter o banco de dados?
+        - Como uma aplicação acessa os microsserviços?
+        - Como efetuar transações distribuídas?
+
+### Arquitetura de Aplicações
+
+- **Arquitetura Monolítica**: 
+    - Simples de desenvolver
+    - Simples de mplantar
+    - Simples de escalar: aumentando o número de cópias da aplicação atrás de um balanceador de carga
+    - Problemas
+        - Código do monolito é muito grande
+        - Produtividade no desenovlvimento é baixa: IDEs não rodam bem
+        - Conteiner Web sobrecarregado pelo tamanho do monolito
+        - Implantação contínua difícil: reimplantar a aplicação inteira toda vez
+        - Dificuldade para escalar: somente em uma dimensão. Pode-se resolver a quantidade de acessos (mais cópias rodando), mas para o aumento no volume de dados é complicado. Cada cópia acessa todos os dados
+        - Dificuldade para escalar o desenovlvimento: monolito dificulta que times desenvolvam de forma independente
+        - Requer um compromisso de longo prazo com a tecnologia
+
+- **Arquitetura de Microsserviços**
+    - Resolve os problemas da arquitetura monolítica
+    - Aplicação é um conjunto de serviços fracamente acoplados
+    - Serviços são colaborativos
+    - Altamente manuteníveis e testáveis: permite desenvolvimento e entregas frequentes
+    - Fracamente acoplados: os times podem trabalho independentemente
+    - Permite entregas independentes: permite a entrega de um serviço sem precisar coordenar com outros times
+    - Serviços capazes de serem desenvolvidos por times pequenos: melhora a produtividade e evita muita comunicação em times grandes
+    - Se comunicam via protocolos síncronos (como HTTP-REST) ou assíncronos (como AMQP)
+    - Permite entrega e implantação contínuas de aplicações grandes e complexas
+    - Manutenibilidade melhorada: cada serviço é pequeno e fácil de entender
+    - Testabilidae melhorada: serviços são pequenos e fáceis de testar
+    - Implantabilidade melhorada: serviços podem ser implantados independentemente
+    - Melhora o desenvolvimento: cada time é responsável por um ou vários serviços independentes
+    - Elimina o comprometimento de longo prazo com a tecnologia
+    - Problemas:
+        - Desenovlvedores devem se adaptar ao desenvolvimento distribuído
+        - Requisições que abrangem vários serviços podem ser difíceis de implementar
+        - Teste de integração entre serviços é mais complicado
+        - Complexidade da implantação aumenta, deve-se tratar os aspectos de vários serviços sendo geridos
+        - Aumento no consumo de memória: troca *n* instâncias de monolitos por *n x m* instâncias de serviços. Se cada serviço roda na sua própria JVM (para poder isolar instâncias), então tem-se *m* vezes mais JVMs. Se cada serviço roda na sua própria VM, o overhead é ainda maior
+
+### Decomposição
+
+- **Decomposição por Recurso de Negócios**: É uma técnica de análise e design de sistemas que se concentra na identificação e estruturação das funcionalidades de um sistema com base em recursos de negócios específicos. Essa técnica é frequentemente usada no contexto da engenharia de software e da gestão de projetos para desenvolver sistemas de informação que atendam às necessidades da organização.
+- **Recurso de negócio**: Algo que gera valor, o que a empresa faz. Exemplo:
+    - Serviço de logística -> O recurso de negócio seria a entrega
+    - Serviço de gestão de cliente
+    - Gestão de Inventário
+    - Gestão de Entrega
+
+- **Decomposição por Subdomínio**: É uma técnica de design de software que envolve dividir um sistema complexo em subdomínios menores e mais gerenciáveis. Cada subdomínio representa uma parte do sistema com responsabilidades claras e limitadas. Essa técnica é particularmente útil em arquiteturas de software orientadas a domínio e pode ser aplicada em conjunto com o design orientado a serviço. 
+
+- **Domain-Driven Design (Software Orientado a Domínio)**:
+    - Não é um framework
+    - Não define camadas
+    - Não define tecnologias e protocolos
+    - DDD é sobre negócio
+    - **Domínio**:
+        - É o coração do negócio
+        - Processos de negócio
+        - Razão do software existir
+        - É o negócio principal
+    - Ajuda a organizar o domínio do problema
+        - Identificar o domínio e subdomínios
+        - Padronizar o vocabulário
+        - Identificiar Entidades e Agregados
+    - Um `domínio` pode ser separado em:
+        - **Core Subdomain**: O que é a motivação do negócio, ideia central, o que mais entrega valor ao cliente, a parte mais importante
+        - **Generic Subdomain**: Auxiliares ao negócio, facilitam o negócio mas não são o centro
+        - **Supporting Subdomain**: Ajudam a desempenhar funções auxiliares
+    - No DDD existem 2 espaços:
+        - **Espaço do Problema**: Onde você analisa o negócio afim de encontrar o `Domínio e o Subdomínio`
+        - **Espaço da Solução**: É onde ocorre o desenvolvimento da aplicação. O Domínio vira o `Modelo de Domínio` e o Subdomínio vira o `Contexto Delimitado` (o que gera os `Serviços`)
+    - O DDD possui 3 pilares:
+        - **Linguagem Ubíqua**: O mesmo vocabulário para o negócio e times de desenvolvimento. Criar um glossário
+        - **Contextos Delimitados**: Responsabilidades bem definidas. Módulos.
+        - **Mapas de Contextos**: Como os contextos delimitados se relacionam entre si. Encontrar o `domínio principal`, `domínios genéricos`, `domínios auxiliares`.
+    - Domain Model Patterns:
+        - Padroes de projeto baseados em domínio
+        - **Entidades**: elementos que poussuem identificador e desconhecem bancos de dados, exemplo Pessoa, Produto, Pagamento, etc
+        - **Agregagos**: conjunto de entidades vistas como uma só. Exemplo: Pedido e ItemDoPedido
+        - **Objetos de Valor**: imutáveis, represetam uma coleção de atributos, criadas somente via construtores, reduz a "obessão por tipos primitivos". Ex: CPF, Money, Title
+        - **Repositórios**: acesso à camada de dados para fazer presistência e consultas. Pode consultar serviços externos. Um repositório por agregação e não um por entidade
+        - **Serviços de Domínio**: implementam a lógica de negócio, usam serviços de infraestrutura
+
+        **Add img aqui**
+
+### API Externa
+
+- Em uma aplicação monoítica a API é a API do monolito
+- Em uma aplicação de microsserviços
+    - Cada serviço tem sua API
+    - Pode-se ter vários clientes
+- Clientes:
+    - Aplicação Web
+    - Aplicação Mobile
+    - Javascript
+    - etc
+- Deve-se decidir qual tipo de API deve ser exposta aos clientes
+- Permitir que os clientes acessem os serviços diretamente pode ser problemático
+    - Clientes fazendo várias requisições via rede
+    - Cliente precisa fazer composição de API
+    - Clientes precisam atualizar o frontend em conjunto com mudanças no backend
+    - Serviços podem usar protocolos de comunicação que não favorecem os clientes (mensageria, etc)
+
+#### API Gateway
+
+- Uma solução para os problemas acima é utilizar API Gateway
+- É um componente de software que atua como ponto de entrada para um ecossistema de APIs, fornecendo uma série de funcionalidades e serviços para facilitar o gerenciamento, segurança e integração de APIs.
+- Responsável pelo roteamento de requisições
+    - Roteia requisições para o serviço correpondente
+    - Usa um mapa de rotas
+- Responsável por composição de APIs
+    - Uma invocação na API pode gerar várias invocações a vários serviços
+    - O cliente não precisa fazer as várias invocações, somente uma ao API Gateway
+- Tradução de Protocolo
+    - API Gateway expõe uam API RESTful
+    - Mas pode converter requisições para gRPC, se algum serviço for implemnetado assim
+    - **gRPC**:
+        - É um framework de código aberto desenvolvido pelo Google que facilita a comunicação eficiente e bidirecional entre serviços distribuídos.
+        - É projetado para ser mais eficiente do que outros protocolos de comunicação, como REST, especialmente em termos de desempenho e escalabilidade.
+- API para clientes específicos:
+    - Pode expor APIs distintas para clientes distintos
+    - OSFA: one-size-fits-all
+- Autenticação
+- Autorização
+- Limitação de recursos
+- Cache
+- Métricas
+- Logs
+
+#### Backends For Frontends (BFF)
+
+- Um problema do API Gateway único: Quem é o responsável pelo gateway e sua operação?
+- Gera um gargalo de desenvolvimento
+- Uma solução: `Backends for Frontends`
+    - Cada cliente possui sua própria API exposta
+    - Cada API é mantida por um time diferente
+    - O time do API Gateway é responsável por módulos comuns
+
+    **Add img aqui**
+
+### Gestão de Dados
+
+- Um problema em uma arquitetura de microsserviços: como manter os dados, de forma distribuída?
+- **Database per Service**: Cada serviço possui seu banco de dados
+    - Os dados do serviço são acessados somente via sua API
+    - As transações do serviço envolvem somente seu banco de dados
+    - Seus dados não podem ser acessados por outros serviços
+    - Maneiras de implementar:
+        - **Private-tables-per-service**: cada serviço tem suas próprias tabelas privadas no banco de dados (Mesmo banco de dados SGBD, mesmos schemas, porém tabelas diferentes)
+        - **Schema-per-service**: cada serviço tem seu próprio esquema privado no banco de dados (Mesmo banco de dados SGBD, porém schemas e consequentemente tabelas diferentes)
+        - **Database-server-per-service**: cada serviço tem seu próprio banco de dados
+    - Problemas:
+        - Implementar transações que abrangem vários serviços não é simples
+        - Evitam-se `transações distribuídas` por causa do `CAP Teorema`
+            - **Consistency**: Todas as leituras retornam os dados mais recentes, ou falha
+            - **Availability** - Todas as leituras retornam dados, mas nem sempre os mais recentes
+            - **Partition Tolerance**: O sistema continua a funcionar mesmo em uma falha de rede
+        - Em uma falha de rede, um sistema de banco de dados distribuído só consegue fornecer ou Consistência ou Disponibilidade, nunca os dois
+        - Alta consistência vem ao custo de baixa disponibilidade
+        - Alta disponibilidade vem ao custo de baixa consistência
+        - Implementar consultas que agregam dados de vários serviços não é simples
+        - Há uma complexidade maior envolvida na gestão de vários bancos de dados
+    - Como resolver os problemas de `gestão de BD`: `Shared Database`
+    - Como resolver os problemas de `transaçoes distirbuídas`: `Padrão SAGA` (para transações que abrangem vários serviços)
+    - Como resolver os problemas de `consultas distribuídas`:
+        - **Padrão API Composition**: O gateway recupera as informações separadas e faz a junção (join)
+        - **Padrão CQRS**: Bancos de dados separados para consulta e transações
+
+- **Shared Database**: Cada serviço acessa um banco de dados compartilhado
+    - Qualquer serviço acessa qualquer dado mantido por qualquer serviço
+    - Usa-se transações `ACID`
+        - **A - Atomicidade**: as transações são unidades completas, ou tudo é executado ou tudo falha
+        - **C - Consistência**: a transação cria um novo estado em caso de sucesso, em caso de falha mantém o estado anterior
+        - **I -Isolamento**: uma transação não terminada nao sofre qualquer interferência de qualquer outra transação
+        - **D - Durabilidade**: dados validados são registrados e estão disponíveis em seu estado correto mesmo em caso de falha do sistema ou reinício
+    -  Benefícios
+        - Fácil de implementar
+        - Fácil de gerir somente um banco de dados
+    - Problemas
+        - Acoplamento em tempo de desenvolvimento, vários desenvolvedores trabalhando nos mesmos dados
+        - Acoplamento em tempo de execução, transações de longa duração podem bloquear uma tabela necessária para outros serviços
+        - Um banco de dados único pode não satisfazer todos os requisitos de armazenamento e acesso de todos os serviços
+    - Como resolver os problemas: `Database per service`
+
+### Transações Distribuídas
+
+- Para uma arquitetura de microsserviços que estão implementados com o padrão Banco de Dados por Serviço
+- Como implementar transaçoes que abrangem vários serviços? (Assumindo que não se pode usar `2PC[2-phase commit]`)
+- Exemplo: Compra de um produto que atualiza a tabela de produtos do Serviço de Produtos e a tabela de compras do Serviço de Compras?
+
+#### SAGA
+
+- Saga é uma sequência de transações locais coordenadas por mensagens
+
+**Add img aqui**
+
+- Em caso de falha, usa uma mensagem de compensação para corrigir as alterações
+
+**Add img aqui**
+
+- Como coordenar a sequência de transações locais?
+    - **Coreografia**: cada serviço publica um evento que dispara a próxima transação
+    - **Orquestração**: um objeto orquestrador indica aos participantes qual transação executar
+
+- **Saga baseado em Coreografia**
+    - Serviços participantes se subscrevem entre si para consumir eventos
+    - Serviço XYZ termina uma transação local
+        - Emite um evento para todos os assinantes
+    - Os serviços que subscrevem os eventos do Serviço XYZ iniciam suas transações locais
+    - Ao terminarem, emitem eventos
+    - Implementa-se com `mensageria assíncrona`
+    - Exemplo: Compra de um produto
+        - 1. Serviço de Pedido cria o pedido como pendente
+        - 2. Serviço de cliente deve verificar os detalhes do cliente
+        - 3. Serviço de Produto deve reservar o produto
+        - 4. Serviço de Compra deve criar uma pendência de pagamento
+        - 5. Serviço de Compra recebe confirmação do cliente e da reserva do produto, e efetiva o pagamento do cliente
+        - 6. Serviço de Produto deve efetivar a retirada do produto do estoque após o pagamento
+        - 7. Serviço de Pedido atualiza o pedido como efetivado depois do pagamento ser efetivado
+      - Nesse exemplo todos os serviços possuem banco de dados separado (É disso que se trata SAGA)
+      - Os pedidos ficam estocados em uma fila e cada serviço subscreve no evento
+
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+
+    - **Benefícios**: 
+      - **Simplicidade**: Serviços publicam eventos sempre que criam, atualizam ou removem objetos de negócio
+      - **Baixo acoplamento**: Participantes emitem eventos, mas não precisam se conhecer
+  
+    - **Problemas**:
+      - **Mais difícil de entender**: o processamento da SAGA está disperso, é difícil entender como uma SAGA é efetivada
+      - **Dependências cíclicas entre serviços**: não necessariamente um problema
+      - **Risco de acoplamento**: como um serviço subscreve em todos que ele necessita, pode ser necessário que seja atualizado conforme o ciclo de vida de outro serviço
+  
+    - Funciona bem para SAGASs simples
+    - Para SAGAs complexas, melhor usar `Orquestração`
+
+- **Saga com Orquestração**
+  - Existe um objeto que define o que cada participante faz
+  - Se comunica com os participantes de forma assíncrona com um canal de retorno (resposta)
+     - Orquestrador envia um comando a um participante
+     - Quando o participante termina, envia uma resposta ao orquestrador
+     - Orquestrador recebe a resposta e determina qual o próximo passo
+  - Exemplo: Compra de um produto
+    - Serviço de pedido cria o orquestrador da SAGA
+    - 1. Orquestrador envia VerifyConsumer para o Serviço de Cliente
+    - 2. Serviço de Cliente responde com ConsumerVerified
+    - 3. Orquestrador evna ReserveProduct para o Serviço de Produto
+    - 4. Serviço de Produto responde com ProductReserved
+    - 5. Orquestrador envia AuthorizePayment para o Serviço de Compra
+    - 6. Serviço de Compra responde com PaymentAuthorized
+    - 7. Orquestrador manda ProductApproved para o Serviço de Produto
+    - 8. Orquestrador manda ApproveOrder para o Serviço de Pedido
+  - No passo 8 o orquestrador considera o Serviço de pedido como um participante da SAGA
+
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+    **Add img aqui**
+
+    - **Benefícios**
+      - **Não introduz dependências cíclicas**: somente o orquestrador invoca os participantes
+      - **Menor acoplamento**: cada serviço implementa a API a ser chamada pelo orquestrador, não precisa saber sobre o resto da SAGA
+      - **Simplifica a lógica de negócio**: o serviço de pedido somente trata seus estados (pendente, aprovado, rejeitado), toda a lógica da SAGA está implementada no orquestrador. Serviços ficam mais simples
+    - **Problema**
+      - Risco de muita centralização da lógica de negócio no orquestrador. Deve-se implementar orquestradores que são responsáveis somente pelo sequenciamento de invocações, sem lógica de negócio
+    - **Recomendação**: Usar orquestração para tudo menos para SAGAs simples
+
+### Consultas Distribuídas
+
+- Problema
+  - Como retornar consultas contendo dados que pertencem a mais de um serviço em uma arquitetura de microsserviços com Database per Service?
+- Duas soluções
+  - Padrão API Composition
+  - Padrão CQRS 
+
+- **Padrão API Composition**
+  - A abordagem mais simples
+  - Deve ser usada sempre que possível
+  - Os clientes dos serviços que possuem os dados são responsáveis por combinar os resultados
+  - Possui 2 agentes:
+    - **API Composer**: implementa a consulta, invocando os serviços
+    - **Provedor de Dados**: serviço que detém o dado sendo consultado
+  - Qual serviço deve ser o `API Composer`?
+    - Composição pode ser feita na `aplicação cliente`
+      - Isso gera um problema de desempenho, tráfego de informações
+    - Composição pode ser feita no `API Gateway`
+      - Determinadas requisições, ao invés de serem roteadas para serviços, fazem várias chamadas e retornam as consultas
+      - Pode deixar a API Gateway ainda mais complexa
+    - Pode-se implementar um `serviço específico` para ser o API Composer
+      - Boa opção para consultas internas
+      - Boa opção quando a lógica de agregação é muito complexa para ser parte do API Gateway
+  - Deve ser implementado de forma reativa
+  - Invocar as partes em paralelo (quando possível)
+  - Combiná-las quando todas estiverem prontas
+  - **Benefícios**
+    - Simples de implementar
+    - Intuitivo
+  - **Problemas**
+    - **Aumenta o overhead**: muitas consultas a vários bancos de dados aumentam o custo computacional da operação, se as consultas forem grandes, pode ser exigida a composição em memória
+    - **Risco de disponibilidade reduzida**: a disponibilidade de uma operação diminui com o aumento de serviços envolvidos
+    - **Falta de consistência de dados**: várias consultas e vários bancos de dados, há o risco de retornar dados incosistentes
+  - Solução: Usar o `padrão SQRS`
+
+- **Padrão SQRS**
+  - Não há como executar consultas que agregam dados de todos os serviços (consultas distribuídas)
+  - Não podemos usar API Composition por causa de seus problemas
+  - Como executar consultas que buscam dados de vários serviços: `Padrão SQRS (Command Query Responsability Segregation)`
+  - Definir um banco de dados de visão
+    - Uma réplica somente de leitura
+    - Deve-se usar o padrão `Eventos de Domínio` para atualizar a base de Leitura
+      - Organiza a lógica de negócio do serviço como um Agregado (DDD)
+      - Esse agregado emite eventos quando objetos são criados ou atualizados
+      - O serviço publica esses eventos, que podem ser consumidos
+  - Separa comandos de consultas
+    - **Módulo de Comandos**: atualizações (POST, PUT, DELETE)
+    - **Módulo de consultas**: leituras (GET)
+  - Módulo de Consultas
+    - Se mantém atualizado
+    - Subscreve eventos do módulo de comandos
+
+    **Add img aqui**
+
+  - **Benefícios**
+    - Implementação `eficiente de consultas` na arquitetura de microsserviços
+    - Torna possível a `execução de consultas` em um ambiente `baseado em eventos`
+    - Melhora a separação de interesses
+  - **Problemas**
+    - Arquitetura mais complexa
+    - Deve-se tratar o atraso de replicação

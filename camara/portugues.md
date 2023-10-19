@@ -170,3 +170,39 @@ Nas questoes a FGV trabalha com dois tipos de mundo:
 
     - 2. `Chegou` à porta, olhou as folhas amarelas das catingueiras. `Suspirou`. Deus nos havia de permitir outra desgraça. `Agitou` a cabeça e `procurou` ocupações para entreter-se. `Tomou` a cuia grande, `encaminhou-se` ao barreiro, `encheu` de água o caco das galinhas, `endireitou` o poleiro. `Em seguida foi` ao quintalzinho regar os craveiros e as panelas de losna. 
         - Texto predominantemente narrativo
+
+## Tipologia da Frase Portuguesa
+
+- Frase -> Enunciado que produz sentido
+    - Nominal (não tem verbo): "Nossa!"
+    - Verbal (tem verbo): "Cheguei!"
+
+- Tipologias da Frase Portuguesa
+  - Declarativa: "Ele trabalha aqui"
+  - Injuntiva/Imperativa: "Entre, por favor"
+  - Interrogativa: "Quer um café?"
+  - Exclamativa: "Que frio!"
+
+- Quem/Onde/Como/Quando
+  - Podem ser interrogativos ou não
+  - **Pronomes/Adverbios**: 
+    - "Ele é quem manda" (Pronome indefinido)
+    - "Gostei do modo como fala" (Pronome relativo)
+    - "Aquele é o lugar onde está" (Pronome relativo)
+  - **Pronomes/Advérbios Interrogativos**:
+    - "Quem chegou?" (Pronome interrogativo)
+    - "Quando chegará?" (Advérbio interrogativo)
+    - "Onde está?" (Advérbio interrogativo)
+    - "Como vai?" (Advérbio interrogativo)
+  - Existem 3 tipos de perguntas:
+    - **Perguntas diretas**: "Quantos anos você tem?"
+    - **Perguntas indiretas**:
+    - **Perguntas Retóricas**:
+      - Não espera resposta: "Quem nunca mentiu?"
+      - Tem o objetivo de estimular reflexão: "Onde vamos parar com tanta violência?"
+
+- **Verbo no imperativo**
+  - Ordem: "Entre já!"
+  - Pedido: "Entre, por favor!"
+  - Comando (texto injuntivo/instrucional): "Vire à esquerda"
+  - Conselho/Orientação: "Comece estudando morfologia."

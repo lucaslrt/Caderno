@@ -7,21 +7,24 @@
 ## Material de estudo
 
 - https://www.youtube.com/watch?v=53pQJERXK78
+- https://www.youtube.com/watch?v=PAeruQ3whvE (Principal)
 
 ## Glossário
 
 - **Administrado**: O particular \ Sujeito, Pessoa \ Cidadão, Interessado
 - **Atividade-fim**: O meio que a empresa atua (O bb, por exemplo, que faz empréstimo, mas tem servidores público, sua atv fim é o empréstimo nesse caso, ou seja regido pelo Dir. Privado)
 - **Estanque**: consolidado
-- **Desconcentração**: Quando você separa um órgão em dois (o contrário é Concentração)
-    - Mesma poessoa jurídica
+- **Desconcentração**: Quando você separa um `órgão` em dois (o contrário é Concentração)
+    - Mesma pessoa jurídica
     - Com hierarquia e com subordinação
-- **Descentralização**: É a criação de uma Entidade Admnistrativa ou alteração de serviço para uma empresa particular (diferente de privatização!)
-    - Entidades - Pessoas jurídicas distintas
-    - Sem hierarquica e com vinculação
-    - Por outorga e por delegação
+- **Descentralização**: É a criação de uma `Entidade Admnistrativa` ou alteração de serviço para uma empresa particular (diferente de privatização!)
+    - Entidades - Pessoas jurídicas distintas (mais que uma empresa envolvida)
+    - Sem hierarquica e com vinculação (controle por vinculação)
+    - Existem 3 formas de descentralização:
+      - Por outorga (legal ou por serviços): Criação de [Entidades Administrativas](#administração-pública)
+      - por delegação (negocial ou colaboração): Criação das concecionárias, permissionárias e autorizatárias de serviços públicos. Ex: Serviço de transporte público privatizado
+      - territorial:
 - **Concessão**: Quando vc delega a prestação de um serviço público a uma empresa Particular
-
 
 ## O que é Direito
 
@@ -62,9 +65,8 @@ O objeto do direito administrativo é o estudo da **função administrativa**. S
 2. Relações
 - Entre Adm. Pública e Administrados:
     - Polícia vs Civil
-    - 
 
-3. Atividades Materiais
+1. Atividades Materiais
 - Serviços Públicos
 - Podem ser feitos por particulares, delegados pelo Estado
 
@@ -232,22 +234,34 @@ A função administrativa (Funcional, Objetivo, Material) pode ser dividida em 4
 
 Subjetivo, Orgânico e Formal:
 
-1. Adm. Direta:
+1. **Adm. Direta:**
     - Pessoas políticas (U, E, DF, Municípios)
     - Órgãos públicos
 
-2. Adm. Indireta (Entidades Administrativas):
+2.**Adm. Indireta (Entidades Administrativas):**
 - Qualquer membro do Estado pode criar qualquer uma dessas entidades (municípios, estados, federação)
+- Se submetem ao `Princípio da Reserva Legal`
+    - Precisa que uma lei seja criada ou para que seja autorizada a criação
+    - **Princípio da Especialidade**: Define a finalidade da empresa
+- Não se subordinam à `Administração Direta`, mas existe a `Vinculação` que é basicamente a fiscalização dessas empresas pela Adm Direta
+- Tem `PJ Própria` (Possui direitos e obrigações)
+- Se submetem aos `Princípios Constitucionais` e `Princípios do Concurso`
+- Possuem o dever de `Licitar` e `Prestar Contas`
 - São divididas em 2 categorias:
-    - **Ent. adm. de direito Público**: Criadas por lei e precisa da criação de um Estatuto (registro)
+    - **Ent. adm. de direito Público**: Criadas por lei (já ganha personalidade jurídica) e precisa da criação de um Estatuto (registro)
         - **Autarquias**
             - Possuem algumas prerrogativas:
+                - Possuem bens públicos, não podem ser penhorados
+                - Para cobrança de dívidas, utiliza-se Precatórios
+                - Responsabilidade Civil é da Autarquia (objetivo), não do Agente Público que cometeu algum ato ilícito
+                - Sua natureza jurídica de Direito Público
                 - Prazos processuais em dobro
                 - Duplo grau de jurisdição (ela nao precisa recorrer para ir para o tribunal)
                 - Prescrição quinquenal
                 - Imunidade tributária
                 - Atua sobre um regime de precatórios
                 - Tem personalidade jurídica própria
+                - Algumas altarquias possuem `Regime Especial` (Agências Reguladoras)
             - **Agências Reguladoras**:
                 - É uma autarquia em reg. Especial
                 - Possui autonomia maior
@@ -262,10 +276,31 @@ Subjetivo, Orgânico e Formal:
                 - É necessário ter um contrato de Gestão
                 - Recebe um aumento de autonomia para Dispensa de Licitação em Dobro
         - **Fundações Públicas**
-            - A criação de fundação pública de direito privado para a prestação de serviço público é `constitucional`
+            - **Fundação Publica de Direito Público**:
+                - Criada por Lei (já ganha personalidade jurídica)
+                - Sua natureza é de `Direito Público`
+                - Sua atividade é voltada para `Interesse Social`
+                - Mas também exerce atividades típicas de direito público
+                - Possui `Responsabilidade Civil Objetiva`
+            - **Fundação Publica de Direito Privado**:
+                - Autorizada por lei, ainda não ganhou personalidade jurídica
+                - Após a autorização, a empresa precisa fazer o Registro do Ato Constitutivo
+                - Sua natureza é de `Direito Privado`
+                - Sua atividade é voltada para `Interesse Social`
+                - A criação de fundação pública de direito privado para a prestação de serviço público é `constitucional`
+                - O regime de pessoal é por CLT
+                - Goza de `Imunidade Tributária Recíproca`
+                - Possui `Responsabilidade Civil Objetiva`
+                - A licitação se dá pela Lei 8666
         
     - **Ent. adm. de direito Privado**: Criada como uma empresa particular, porém é necessário a criação do Estatuto (registro) e a Autorização Legislativa antes, como pessoa jurídica de direito privado.
-        - Seu regime pessoal é o `celetista`
+        - Seu regime pessoal é o `seletista`
+        - São empresas que exercem atividades economicas
+        - São empresas que exercem atividades de Serv. Públicos
+        - A responsabilidade civil é `Subjetiva` para empresas de `atividades economicas`
+        - A resposabilidade civil é `Objetiva` para atividades de `Serviços Públicos`
+        - O regime de pessoal é por CLT, mas ainda fazem concurso público
+          - Não podem ter acumulação de cargo
         - **Empresas Públicas**:
             - É criada por lei
             - Exerce atividade economica no sentido estrito
@@ -307,11 +342,205 @@ Subjetivo, Orgânico e Formal:
 
 ## Poderes Administrativos
 
-
-
 ## Dano de patrimônio
 
 - Em caso de dano ao patrimônio privado: **Add img dir-adm-1 aqui!**
 
 - Em caso de falecimento de servidor público:
     - Caso a pessoa que está casada com a servidora falecida também exerça cargo público, o teto constitucional de remurenação incidirá sobre o somatório da remuneração da pessoa pelo seu cargo efetivo e a pensão por morte que a mesma tem direito
+
+## Responsabilidade Civil do Estado
+
+### Teorias
+
+- **Teoria da Irresponsabilidade**: Não havia responsabilidade do Civil do Estado
+- **Teoria Civilistas**:
+  - Responsabilidade subjetiva
+  - O estado só responde sobre gestão
+- **Teorias Publicistas**
+  - **Culpa Administrativa**: Estado responde de forma Subjetiva. O estado não prestou o serviço que deveria prestar (Omissão)
+  - **Risco Administrativo**: Estado responde de forma Objetiva. Admite excludentes
+  - **Risco Integral**: Estado responde de forma Objetiva. Não admite excludentes (Dano ambiental, nuclear, etc.)
+
+### Responsabilidade Civil
+
+- A responsabilidade civil atua em Pessoas Jurídicas:
+  - De direito Público
+  - E de direito Privado que estejam prestando serviço público
+
+- Ações são do tipo `Objetivo`: independe de dolo ou culpa
+- Requisitos para que haja a responsabilidade civil do Estado:
+  - Pode ser dano moral ou patrimonial
+  - Conduta pode ser lícita ou ilícita
+  - Nexo de causalidade:
+- Excludentes:
+  - **Caso fortuito / força maior**: Eventos imprevisíveis (terremoto que desabou um prédio público em cima de um carro, por exemplo)
+  - Culpa Exclusiva da Vítima
+  - Ato exclusivo de terceiros
+- **Responsabilidade por Omissão**
+  - Relaçao subjetiva (culpa administrativa)
+  - Requisitos:
+    - Negligência (Omissão culposa)
+    - Dano
+    - Nexo de causalidade
+- **Omissão Específica**: Quando há dever específico de cuidado
+  - Responsabilidade Objetiva baseada no Risco administrativo
+- Ação de Regresso
+  - Agente publico responde de forma subjetiva mediante ação de regresso
+
+
+## Licitaçoes (Lei 14.133)
+
+### Material de Estudo
+
+- https://www.youtube.com/watch?v=QPbq4DMOFF4&list=PL70rxKg7qWNWV9bGrCV74SS2-vv38m4sh&index=2 (Principal)
+
+### O que é Licitação
+
+- Quando a Adm Pública tem uma necesside, para cumprir essa necessidade é firmado um Contrato com terceiros
+- A Licitação é um procedimento adminstrativo (conjunto de atos)
+- É realizado pela Função pública, é uma `Função Administrativa`
+- A Adm Púb convoca os interessados (edital)
+- Ela recebe propostas de forma objetiva, a partir do princípio da Isonomia
+- Seleciona a proposta mais vantajosa
+- Firma o Contrato
+
+- `Art. 37`:
+  - **XXI**. `ressalvados os casos especificados na legislação` ([Contratação Direta](#contratacao-direta)), as obras, serviços, compras e alienações serão contratados mediante `processo de licitação` pública que assegure `igualdade de condições` a todos os concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos da lei, o qual somente permitirá as `exigências de qualificação técnica e econômica` indispensáveis à garantia do cumprimento das obrigações
+  
+- `Art. 22`: Compete privativamente à União legislar sobre:
+  - **XXVII**. `normas gerais de licitação e contratação`, em todas as modalidades, para as administrações públicas `diretas, autárquicas e fundacionais` da União (`Lei 14.133/21`), Estados, DF e Municípios, obedecido o disposto no `art. 37, XXI`, e para as `empresas públicas e sociedades de economia mista` (`Lei 13303/16`), nos termos do `art. 173, Par. 1o, III`
+  
+- `Art. 173`
+  - `Par. 1o`: A lei estabelecerá o `estatuto jurídico` da `empresa pública, da sociedade de economia mista e de suas subsidiárias` que explorem atividade econômica de produção ou comercialização de bens ou de prestação de serviços, dispondo sobre:
+    - **III**. `licitação e contratação` de obras, serviços, compras e alienações, observados os princípios da administração pública
+
+- Compete a União estabelecer `Normas Gerais de Licitações Públicas`
+  - Modalidades
+  - Critérios de julgamento
+  - Regras de Contratação Direta
+- Compete aos Estados, DF e Municípios estabelecer as  `Normas Específicas`
+  - Os detalhes das Licitações Públicas
+  - Não precisa de Lei Complementar
+
+### Lei de Licitações
+
+- `Art. 1o`: Esta lei estabelece `normas gerais de licitação e contratação` para as Administrações Públicas diretas, autárquicas e fundacionais da União, dos Estados, do Distrito Federal e dos Municípios, e abrange:
+    - **I**. os órgãos dos `Poderes Legislativo e Judiciário` da União, dos Estados e do Distrito Federal e os órgãos do Poder Legislativo dos Municípios, quando no `desempenho de função adminstrativa`
+    - **II**. os `fundos especiais` e as `demais entidades controladas` direta ou indiretamente pela Administração Pública
+  
+  - `Par. 1o`: `Não são abrangidas por esta Lei` as `empresas públicas, as sociedades de economia mista e as suas subsidiárias`, regidas pela `Lei 13.303`, ressalvado o disposto no `art. 178o` desta Lei
+
+  - `Par. 2o`: As contratações realizadas no âmbito das repartições públicas sediadas no exterior obedecerão às peculiaridades locais e aos princípios básicos estabelecidos nesta Lei, na forma de regulamentação específica a ser editada por ministro de Estado
+
+  - `Par. 3o`: Nas licitações que envolvam recursos provenientes de empréstimo ou doação oriundos de agência oficial de cooperação estrangeira ou de organismo financeiro de que o Brasil seja parte, podem ser admitidas:
+      - **I**. condiçoes decorrentes de acordos internacionais aprovados pelo Congresso Nacional e ratificados pelo Presidente da República
+      - **II**. condições peculiares à seleção e à contratação constantes de normas e procedimentos das agências ou dos organismos, desde que:
+        - **a)** sejam exigidas para a obtenção do empréstimo ou doação
+        - **b)** não conflitem com os princípios constitucionais em vigor
+        - **c)** sejam indicadas no respectivo contrato de empréstimo ou doação e tenham sido objeto de parecer favorável do órgão jurídico do contratante do financiamento previamente à celebração do referido contrato
+
+  - `Par. 5o`: As contratações relativas à gestão, direta e indireta, das reservas internacionais do País, inclusive as de serviços conexos ou acessórios a essa atividade, serão disciplinadas em ato normativo próprio do Banco Central do Brasil, assegurada a observância dos princípios estabelecidos no *caput* do `art. 37` da CF
+
+- É uma lei voltada para a Adm. Pub. (direta, autárquica e fundacional pub e priv) de todos os entes da federação
+- Também abrange:
+  - o Poder Legislativo e Judiciário
+  - os Fundos Especiais
+  - as Entidades Controladas
+
+- A lei `não se aplica às Empresas Estatais`. Exceto:
+  - Diposições penais (`Art. 178`)
+  - Modalidade pregão
+  - Critérios de desempate
+
+- Casos Especiais: 
+  - Repartições no Exterior: Regulamento próprio
+  - Recursos oriundos de Agentes Internacionais: Pode ter régras específicas
+  - Reservas Internacionais: Ato normativo feito pelo BACEN
+
+- `Art. 2o`: Objetos que serão licitados
+    - a) **alienação** e concessão de direito real de uso de bens
+    - b) **compra**, inclusive por encomenda
+    - c) **locação**
+    - d) **concessão** e **permissão** de uso de bens públicos
+    - e) **prestação de serviços**, inclusive os técnico-profissionais especializados
+    - f) **obras e serviços** de arquitetura e engenharia
+    - g) **tencologia da informação e de comunicação**
+
+- **Aplicação Subsidiária**:
+  - Para concessão ou permissão de serviços públicos para a iniciativa privada, utiliza-se a `Lei 8987` primeiro
+  - **Parcerias Público Privada** (PPP): Aplica-se a lei 11079/04
+  - **Serviços de Publicidade**: Utiliza-se a `Lei 12.232/10`
+
+- `Art. 3o`: Não se subordinam ao regime desta lei:
+    - I. contratos que tenham por objeto `operação de crédito`, interno ou externo, e `gestão de dívida pública`, incluídas as contratação de agente financeiro e a `concessão de garantia` relacionadas a esses contratos
+    - II. contratações sujeitas a normas previstas em `legislação própria`
+
+- **Casos Especiais**:
+  - `Art. 184`: Aplicam-se as disposições desta Lei, no que couber e na `ausência de norma específica`, aos `convêncios, acordos, ajustes e outros instrumentos congêneres` celebrados por órgãos e entidades da Administração Pública, na forma estabelecida em regulamento do Poder Executivo federal (Parcerias)
+  - `Art. 192` `O contrato relativo a imóvel do patrimônio da União` ou de suas autarquias e fundações continuará regido pela legislação pertinente, aplicada esta Lei subsidiariamente
+
+### Princípios
+
+- São 22 princípios
+- `Art. 5o`: Na aplicação desta Lei, serão observados os princípios da legalidade, da impessoalidade, da moralidade, da publicidade, da eficiência, do interesse público, da probidade administrativa, da igualdade, do `planejamento`, da transparência, da eficácia, da `segregação de funções`, da motivação, da `vinculação ao edital`, do `julgamento objetivo`, da segurança jurídica, da razoabilidade, da `competitividade`, da proporcionalidade, da celeridade, da economicidade e do `desenvolvimento nacional sustentável`, assim como as disposiçoes do Decreto-Lei no 4.657 (`Lei de Introdução às Normas do Direito Brasileiro`)
+
+**Add img aqui 4**
+
+- **Julgamento Objetivo**:
+  - A Adm Pub deve adotar e analizar as propóstas a partir de `critérios objetivos`
+  - Para diminuir ou eliminar a `subjetividade`
+
+- **Vinculação ao Edital**:
+  - Tornar pública a licitação pública (criar edital)
+  - Lei Interna da licitação pública
+  - Vincula a Adm Pub e licitantes
+
+- **Motivação**: 
+  - Indicação por fato:
+  - Indicação por direito:
+
+- **Segregação de Função**:
+  - Divisão das funções: A adm pública não pode concentrar nas mesmas funções de executar e controlar
+  - Tem aplicação interna: Agentes públicos diferentes
+  - Tem aplicação externa: Empresas diferentes
+
+- **Moralidade/Prob. Administrativa**:
+  - Atuação ética e honesta da Adm Pub
+
+- **Publicidade/ Transparência**:
+  - Em regra, os atos da Adm Pub devem ser `atos públicos`
+  - Portal Nacional de Contratações Públicas: Tras os editais e contratações de forma centralizada e obrigatória
+  - Realizada de forma eletrônica
+  - Exceção: Sigilo for imprescindível para a segurança da sociedade ou Estado
+  - Diferimento(Realizar após): 
+    - **principio do sigilo das propostas**: as propostas devem ser mantidas em sigilo até a abertura
+    - **Sigilo do orçamento**: Se houver algum motivo, dá pra manter o sigilo do orçamento
+      - A adm pub deve divulgar as informações
+      - Não se aplica para o `maior desconto`
+
+- **Razoabilidade/Proporcionalidade**:
+  - Tratam da relação entre os meios e os fins
+  - Conhecidos como principios da `vedação aos excessos`
+
+- **Legalidade**: O poder público deve cumprir leis e atos normativos
+  - Seguir o devido Processo Legal
+  - Seguir o Procedimento Formal (Formalismo Moderado)
+
+- **Celeridade**:
+  - A licitação deve ser realizada em um prazo razoável
+  - Exemplos: Inversão de Fases, Fase recursal una, prioridade de licenciatura ambiental
+
+- **Planejamento**:
+  - ETP (Estudo técnico preliminar): Usado para estudar a viabilidade da licitação
+  - PCA: Se elaborado, faz o alinhamento das contratações com o planejamento da Adm. Púb.
+
+- **Segurança Jurídica**
+  - Garantir a estabilidade
+  - Interpretação de normas
+
+- **Desenvolvimento Nacional Sustentável**:
+  - Critérios Ambientais (licitações verdes)
+  - Critérios Econômicos
+  - Social 
+

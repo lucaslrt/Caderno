@@ -4,6 +4,9 @@
 
 - NoSQL
 - Tabela Fato
+- Linux
+- Shell Script
+- Windows Power Shell
 - Data Lake
     - Trusted Zone
 - Data Mining
@@ -22,10 +25,7 @@
     - INNER JOIN
     - ON
     - GROUP BY
-
-## Material
-
-- https://learn.microsoft.com/pt-br/training/paths/deploy-manage-identity-infrastructure/
+- Arquitetura TCP/IP
 
 ## Operação e Administração de Sistemas Operacionais (+Material)
 
@@ -51,6 +51,12 @@ Os SOs podem realizar virtualização de outros SOs, alguns tipos são:
 - Um servidor pode prover o mesmo recurso para vários OSs, sem que isso consuma mais memória que abrir o recurso no próprio OS. Por exemplo, se você sobe 5 sistemas windows em máquinas diferentes utilizando um servidor, esse servidor só está consumindo de memória um único SO.
 
 ## Windows Server (Fazer questões +Material)
+
+### Material
+
+- https://learn.microsoft.com/pt-br/training/paths/deploy-manage-identity-infrastructure
+
+### Introdução
 
 O Windows Server é uma plataforma para compilar uma infraestrutura de aplicativos, redes e serviços Web conectados, do grupo de trabalho ao data center. Ele faz a ponte entre os ambientes locais e o Azure, adicionando mais camadas de segurança enquanto ajuda você a modernizar seus aplicativos e sua infraestrutura.
 
@@ -650,3 +656,68 @@ Toda comunicação, face-a-face ou por uma rede, é regida por `regras` pré-det
 - Um `procedimento` ou função PL/SQL é um `objeto de schema` que consiste em um conjunto de instruções SQL e outras construções PL/SQL
 - As instruções são agrupadas, armazenadas no banco de dados e executadas como uma `unidade` para resolver um problema específico
 
+## Comandos Linux
+
+### Material utilizado
+
+- https://www.youtube.com/watch?v=bn7eJWwNmEg&t=4852s (Principal)
+
+### Características do Linux
+
+- Licença GPL
+- Kernel Monolítico
+- GNU / Linux
+- Multitask
+- Existem distros livre e distros corporativas
+
+### Comandos
+
+- `ls -l`: Mostra os arquivos com os detalhes de permissões
+- `rm -r`: Apaga de fato todos os arquivos e subdiretórios de uma determinada pasta
+    - `rm -rf`: Força apagar tudo
+    - no Windows é `del` ou `deltree`
+- `cat`: Visualiza o conteúdo do arquivo
+    - `cat > teste.txt`: Cria um arquivo e você pode editar também durante a criação
+- `head -x` e `tail -x`: Mostra as `x` linhas de cima ou de baixo do arquivo (substituir x por números)
+- `grep 'text' /home/test.txt`: pesquisa todas as palavras que tenham a expressão 'text'
+    - Dá pra juntar com cat: `cat teste.txt | grep 'text'`
+- `jobs`: Mostra os processos que estão rodando no background do terminal
+    - `-r` e `-l`: mostra processos que estão rodando ou lista os processos todos
+- `ps -aux`: Exibe os processos em execução no sistema
+    - `-aux`: a -> mostra todos os processos, u -> de todos os usuários, x -> mostra os processos que não foram gerados pelos terminais
+- `top`: Também exibe o uso de processos do sistema, mas exibe também o quanto esses processos consomem de memória e processador `em tempo real`
+- `kill -1 340` reinicia o processo de ID 340
+    - `kill -9 223` encerra o processo de ID 223 sem mensagem de confirmaçãos
+- `killall firefox` encerra o processo firefox. Finaliza o processo pelo nome
+- `chgrp`: Change group
+- `chown`: Change owner -> Muda o dono do arquivo ou da pasta
+- `chmod`: Change mode -> Atribui permissões a arquivos e pastas
+    - `chmod u=rwx, g+gw, o-r teste.txt`
+        - `=`-> Aplique exatamente essa regra
+        - `+`-> Adicione esta regra
+        - `-`-> Retire essa regra
+    - `chmod 742 teste.txt`
+        - Cada número representa U G O
+        - Cada tipo de usuário tem 3 números que são representados por 0 ou 1
+        - Dependendo da combinação, esses números binários geram números decimais
+        - `7` = 111 = RWX
+        - `4` = 110 = RW-
+        - `2` = 010 = -W-
+
+### Permissões
+
+- `drwxrwxrwx 2 iff iff 4096`: Significado na ordem
+    - `d` = tipo de Objeto (ou arquivo (`-`) ou diretório (`d`))
+    - Leitura(user)
+    - Escrita (user)
+    - Execução (user)
+    - Leitura(grupo)
+    - Escrita(grupo)
+    - Execução(grupo)
+    - Leitura(others)
+    - Escrita(others)
+    - Execução(others)
+    - `2`
+    - primeiro `iff` = usuário
+    - segundo `iff` = grupo
+    - `4096` tamanho do arquivo

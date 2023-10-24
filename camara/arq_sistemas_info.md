@@ -1724,3 +1724,71 @@ exemplo.innerHTML = "Hello World"; //innerHTML pega somente o elemento interno d
   - **Problemas**
     - Arquitetura mais complexa
     - Deve-se tratar o atraso de replicação
+
+## HTML/CSS
+
+### Material Utilizado
+
+- https://questoes.grancursosonline.com.br/aluno/filtro/concursos?nivel=1&banca=102&desatualizada=0&anulada=0&query=html
+
+### Básico
+
+- `alt`: Texto a ser exibido no local da imagem, caso essa não seja exibida por alguma razão
+- `<head>`:
+    - Contém meta informações sober a página
+- `<span>`: É um container inline que é usado para aplicar marcações de estilo a de um texto ou documento, e pode facilmente ser manipulado por código JavaScript.
+- `<link>`:
+```HTML
+<link rel="stylesheet" href="mystyle.css">
+```
+
+- Tornando uma pagina web responsiva:
+```html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+```
+
+- Removendo todo conteúdo de um elemento:
+```javascript
+$(document).ready(function(){
+    $("button").click(function(){
+        $("div").empty();
+    });
+});
+```
+
+- Alterando a cor de uma classe:
+```javascript
+$(".title").css("color", "red").
+```
+
+- `$("elemento")` = tag de um elemento
+
+- Para não exibir um compoente após renderizada a página:
+```html
+<p:textEditor rendered="false" />
+```
+
+- tags e classes:
+```css
+p.centro {
+
+text-align: center;
+
+color: blue;
+
+} 
+```
+
+p = tag
+.centro = classe
+
+### Block-level
+
+### Inline
+
+### Cross-Site Scripting
+
+### CSS
+
+#### Básico
+

@@ -520,6 +520,69 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
 - O mapeamento começa com o levantamento da situação atual (as is)
 - Otimização e modelagem do estado desejado dos processo (TO BE )
 
+## Docker
+
+### O que costuma cair
+
+### Material de Estudo
+
+- https://www.youtube.com/watch?v=MeFyp4VnNx0&t=3290s (Principal)
+
+### Introducão
+
+- O Docker é uma plataforma aberta para desenvolvimento, envio e execução de aplicativos
+- Permite que você separe seus aplicativos de sua infraestrutura para que você possa entregar o produto mais rapidamente
+
+- **Container**: É uma maneira de isolar recursos
+    - Diferente da VM, um container só tem os principais recursos para que o projeto rode, os demais recursos são retirados do SO host que está esse container
+    - **Imagem de container**: é o container com as configurações necessárias para sua aplicação rodar.
+        - Não possui um SO, somente os comandos de um SO para que você consiga executar sua aplicação
+        - Imagem é readonly
+        - Somente a camada onde você instala seu projeto é para leitura e escrita
+        - Qualquer alteração que você faz, gera uma cópia na camada para leitura e escrita.
+    - Não é recomendado ter dados armazenados em containers, somente o projeto rodando
+
+### Primeiros passos
+
+- Executar uma imagem de container:
+```shell
+$ docker run -d -p 80:80 docker/getting-started
+```
+
+`-d` = deamon <br>
+`-p 80:80` = port (pega a porta 80 da imagem e vincula ela a porta 80 do host) <br>
+
+- Listar os containers em execução:
+```shell
+$ docker container ls
+```
+
+- Executar um comando dentro do container
+```shell
+$ docker container exec -it <hash_do_container> <comando>
+```
+### Criando a primeira imagem
+
+
+- Eh um arquivo contendo as configurações da imagem do container
+
+```Dockerfile
+FROM node:12-alpine #é uma aplicação node na versão 12-alpine
+RUN apk add --no-cache python2 g++ make #executa no momento em que você está construindo a aplicação
+WORKDIR /app # onde a aplicação vai ser instalada
+COPY . . #pegando de onde a gente está para o lugar que a gente quer, nesse caso o ponto central vai ser o mesmo (/app)
+RUN yarn install --production # cada run executa em uma camada diferente
+CMD ["node", "src/index.js"]
+EXPOSE 3000 # porta que será executada a aplicação
+```
+
+- Buildar:
+```shell
+$ docker build -t nome_do_projeto .
+```
+
+
+
 ## Kubernetes
 
 ### Conceitos (+Material)
@@ -768,7 +831,24 @@ Implementar uma arquitetura SOA também apresenta desafios, como:
 
 ## Design Patterns (GOF) (+Material) (Fazer questões pra ver se precisa de mais material)
 
-Os Design Patterns (Padrões de Projeto) são soluções reutilizáveis para problemas comuns que surgem durante o desenvolvimento de software. Eles fornecem diretrizes e abstrações que ajudam a estruturar e organizar o código de maneira eficaz. Existem três categorias principais de Design Patterns: Padrões de Criação, Padrões Estruturais e Padrões Comportamentais. Vamos explorar cada uma delas:
+### O que já caiu
+
+- Qual o pilar da orientação a objetos de determinado padrão?
+- DAO (+Material)
+- Cai mto sobre observer, bridge, controller, strategy, singleton
+- Front Controller (+Material)
+
+### Introdução
+
+- O polimorfismo permite que diferentes classes compartilhem o mesmo método, mas implementem esse método de maneiras diferentes. Por exemplo, uma classe Animal com um método emitir_som(). As classes derivadas, como Cachorro e Gato, podem implementar o método emitir_som() de maneiras diferentes. emitir_som de cachorro sera "latir" e emitir_som de gato sera "miar". O mesmo método assumirá várias formas POLI(muitos)MORFISMO(formas)
+
+- A herança envolve criar uma nova classe (instancia) a partir de uma classe existente (super), herdeira dos atributos e métodos da super. Por exemplo, uma classe Cachorro , uma classe Pato, uma classe Gato podem herdar de uma classe Animal. Já Alface, PehDeLimao e Alfazema herdariam atributos de uma classe Vegetal.
+
+- O encapsulamento envolve ocultar os detalhes internos de uma classe, expondo apenas o que é necessário para interagir com ela. Por exemplo, saindo dos bichinhos acho que da para entender melhor com uma classe ContaBancaria que pode encapsular os detalhes internos, como saldo, com métodos públicos para depósito e saque.
+
+- A abstração é um conceito que permite criar modelos simplificados e abstratos de objetos do mundo real. Por exemplo, nossa classe Anima pode ser uma abstração para diferentes animais Cachorro, Gato que herdam da classe Animal e implementam depois os detalhes específicos. 
+
+- Os Design Patterns (Padrões de Projeto) são soluções reutilizáveis para problemas comuns que surgem durante o desenvolvimento de software. Eles fornecem diretrizes e abstrações que ajudam a estruturar e organizar o código de maneira eficaz. Existem três categorias principais de Design Patterns: Padrões de Criação, Padrões Estruturais e Padrões Comportamentais. Vamos explorar cada uma delas:
 
 ### **Padrões de Criação:**
 Esses padrões se concentram na maneira de criar objetos ou classes. Eles ajudam a tornar a criação de objetos mais flexível e independente do sistema.

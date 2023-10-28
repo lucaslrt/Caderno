@@ -585,9 +585,20 @@ $ docker build -t nome_do_projeto .
 
 ## Kubernetes
 
+### Material Utilizado
+
+- https://www.youtube.com/watch?v=oj8x4YIIG-Q
+
+### Introdução
+
+- Kubernetes surgiu no Google
+- Orquestrador de Conatiners de alta performance
+- Trabalha de forma distribuída através de Clusters
+- Facilmente escalável
+
 ### Conceitos (+Material)
 
-- Containers: É uma espécie de máquinas virtuais simples, configurados para rodar o ambiente para uma aplicação específica e que você pode ter vários rodando em um mesmo computador
+- **Containers**: É uma espécie de máquinas virtuais simples, configurados para rodar o ambiente para uma aplicação específica e que você pode ter vários rodando em um mesmo computador
     - Um container é um isolamento, pode ser de recursos, de processos.
     - Esses isolamentos são feitos através dos **namespaces** e dos **Cgroups** que fazem o gerenciamento de memória
     - Existem dois tipos de containers: os engines, e os runtime
@@ -596,16 +607,16 @@ $ docker build -t nome_do_projeto .
         - Baixo nível(runC): Fala diretamente com o kernel
         - Alto nível(containerD para o Kubernetes): Fala com o container engine
 
-- Pods: É a mínima unidade de um Kubernete
+- **Pods**: É a mínima unidade de um Kubernete
     - Ele pode ter um ou mais containers
 
-- Kubernetes: É um orquestrador de containers
+- **Kubernetes**: É um orquestrador de containers
     - O Kubernetes só precisa do container engine
 
-- Cluster: Um conjunto de computadores com uma aplicação Kubernetes rodando. Serve para manter a aplicação rodando, caso um nó (máquina) caia, tem o outro
+- **Cluster**: Um conjunto de computadores com uma aplicação Kubernetes rodando. Serve para manter a aplicação rodando, caso um nó (máquina / node) caia, tem o outro
     - Pode ser dividido em duas partes:
 
-    - Control Plane: A parte de controle, gerenciamento do Kubernetes, pode ser uma ou várias máquinas para manter a redundância e preservar a saúde do Kubernete
+    - **Control Plane**: A parte de controle, gerenciamento do Kubernetes, pode ser uma ou várias máquinas para manter a redundância e preservar a saúde do Kubernete
         - No Control Plane possui um ambiente chamado ETCD, que é um banco de dados que guarda todos os status do cluster
             - Sua porta, chamada etcd Server é a 2379 ou a 2380
         - Scheduler: eh um agendador, que gerencia os recursos do cluster
@@ -615,7 +626,7 @@ $ docker build -t nome_do_projeto .
         - API Server: Ele interage com todos os outros controladores e os Workers, porém o ETCD interage somente com ele
             - Sua porta é a 6443, do tipo TCP
 
-    - Workers: São os nós com as execuções do containers, dentro dele estão:
+    - **Workers**: São os nós com as execuções do containers, dentro dele estão:
         - Kubelet: É um gerenciador de nó do Kubernete. Caso o seu cluster tenha 3 computadores, haverão 3 Kubelets
             - Ele conversa com o container runtime de alto nível (containerD)
             - Sua porta é a 10250
@@ -629,6 +640,13 @@ $ docker build -t nome_do_projeto .
             - Cluster IP
 
     - Se você está em um servidor (AWS por exemplo), você não consegue controlar o Control Plane, somente os Workers
+
+- **Services**: Feature que permite ao Kubernetes disponibilizar recursos de rede e autodiscovery
+    - Ex: 
+        - Um container em um Pod pode ter acesso ao outro pode através de um service
+        - Acesso externo a qualquer Pod também é realizado através de services
+
+- **Horizontal Pod Autoscaler (HPA)**: Eh uma maneira de configurar o escalonamento do kubernetes com relação à quantos pods serão utilizados, quanto de cada node será utilizado antes de ser adicionado outro, etc. 
 
 ## Kubernetes Avançado (+Material) (Rever vídeo)
 
@@ -1327,9 +1345,9 @@ Regras ___|
 
 ### Matriz de Confusão
 
-**Add img aqui**
-**Add img aqui**
-**Add img aqui**
+**Add img aqui 1**
+**Add img aqui 2**
+**Add img aqui 3**
 
 ## Javascript
 
